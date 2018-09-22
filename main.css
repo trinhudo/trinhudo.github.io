@@ -79,15 +79,17 @@ a:hover {
     text-decoration: none;
     color: #A93226;
 }
-h2 {
+
+h1 {
     font-size: 1.5em;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 
-h1 {
+h2 {
     font-size: 1.2em;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
+
 p {
     font-size: 1em;
     line-height: 1.3em;
