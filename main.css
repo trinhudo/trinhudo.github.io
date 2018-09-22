@@ -18,6 +18,7 @@ footer ul {
     list-style: none;
     font-weight: bold;
     font-size: .8em;
+    padding: 0px;
 }
 
 nav ul li, footer ul li {
