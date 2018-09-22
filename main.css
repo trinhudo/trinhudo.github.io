@@ -1,17 +1,60 @@
 body {
-    margin: 60px auto;
-    width: 70%;
-   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-   font-weight: 200;
+  margin: 60px auto;
+  width: 70%;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 200;
+}
+
+nav {
+  /*The navbar will stick to the top when you reach its scroll position.*/
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
 }
 
 nav ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    list-style-type: none;
+    margin: 0;
     padding: 0px;
-    list-style: none;
+    overflow: hidden;
     font-weight: bold;
-    font-size: 1.1em;
+    font-size: 1em;
+    background-color: white;
+    /*Tip: Add the background-color to <ul> instead of each <a> element
+    if you want a full-width background color*/
 }
+
+nav li {
+    display: inline;
+    /* display: inline; - By default, <li> elements are block elements.
+    Here, we remove the line breaks before and after each list item,
+    to display them on one line*/
+    float: right;
+    /* float: left; - use float to get block elements to slide next
+    to each other*/
+}
+
+/* for links in the navigation*/
+nav li a {
+    display: block;
+    /* display: block; - Displaying the LINKS as block elements makes
+    the whole link area clickable (not just the text), and it allows us
+    to specify padding (and height, width, margins, etc. if you want)*/
+    padding: 8px;
+    /* padding: 8px; - Since block elements take up the full width available,
+    they cannot float next to each other. Therefore, specify some
+    padding to make them look good */
+    background-color: none;
+    color: #21618C;
+}
+
+nav a:hover {
+    text-decoration: none;
+    color: #A93226;
+}
+
+
 
 footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -19,13 +62,15 @@ footer ul {
     font-weight: bold;
     font-size: .8em;
     padding: 0px;
+    float: left;
 }
 
-nav ul li, footer ul li {
+footer ul li {
     display: inline;
     margin-right: 20px;
     list-style: square;
 }
+
 a {
     text-decoration: none;
     color: #21618C;
@@ -40,16 +85,31 @@ h2 {
 }
 
 h1 {
-    font-size: 1.1em;
+    font-size: 1.2em;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 p {
     font-size: 1em;
     line-height: 1.3em;
-    color: #333;
+    color: black;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 footer {
     border-top: 1px solid #1B4F72;
     font-size: 1em;
 }
+
+/*border*/
+p.nhuboder {
+  /*border-left: 6px solid #C0392B;*/
+  background-color: #85C1E9;
+  border-radius: 2px
+  padding:8px;
+}
+
+/*TABLE: it is better to config in each table
+table, th, td {
+    border: 0px solid black;
+    padding: 15px;
+    text-align: left;
+}*/
