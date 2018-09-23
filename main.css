@@ -95,6 +95,7 @@ p {
     line-height: 1.3em;
     color: black;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    text-align: justify;
 }
 footer {
     border-top: 1px solid #1B4F72;
