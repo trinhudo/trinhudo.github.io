@@ -2,7 +2,7 @@ body {
   margin: 60px auto;
   width: 60%;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-  font-weight: normal;
+  font-weight: 200;
 }
 
 nav {
@@ -152,6 +152,6 @@ body {
   margin: 60px auto;
   width: 50%;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-  font-weight: normal;
+  font-weight: 200;
 }
 }
