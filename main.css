@@ -191,7 +191,7 @@ and (min-width : 1824px) {
     margin: auto;
     display: block;
     width: 80%;
-    max-width: 700px;
+    max-width: 500px;
 }
 
 /* Caption of Modal Image */
@@ -199,7 +199,7 @@ and (min-width : 1824px) {
     margin: auto;
     display: block;
     width: 80%;
-    max-width: 700px;
+    max-width: 500px;
     text-align: center;
     color: #ccc;
     padding: 10px 0;
