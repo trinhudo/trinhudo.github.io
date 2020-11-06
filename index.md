@@ -10,13 +10,15 @@ We use three main types of technical tools for our research, namely:
 - Optimization: propose some iterative solution to find optimal system parameters of interest. 
 - Deep learning: performance prediction using regression and/or classification with DNN, RNN, and deep reinforcement learning (DRL). 
 
-## Bio
+## Research Experience
+- 2020 to present: Postdoctoral Research Fellow, Department of Electrical Engineering, École de Technologie Supérieure (ÉTS), Université du Québec, Montreal, Canada
+	- Supervisor: [Prof. Georges Kaddoum](https://www.etsmtl.ca/Professeurs/gkaddoum/Accueil?lang=en-CA)
+	
+- 2019: Postdoctoral Research Associate, Department of Computer Science, The University of Texas at Dallas, TX, USA
+	- Supervisor: [Prof. Zygmunt J. Haas](https://personal.utdallas.edu/~haas/)
 
-Tri Nhu Do (in Vietnamese: Đỗ Trí Như) was born in Da Nang, Vietnam. He earned a B.S. degree in electronics and telecommunications from the Posts and Telecommunications Institute of Technology (PTIT), Vietnam, in 2012. He earned an M.S. degree and a Ph.D. degree in electronics and computer engineering from Hongik University, South Korea, in 2015 and 2018, respectively. He was a Teaching Associate with the Department of Software and Communications Engineering at Hongik University from 2017 to 2018. He was a Postdoctoral Research Associate with the Department of Computer Science at the University of Texas at Dallas in 2019. He joins the Department of Electrical Engineering at École de Technologie Supérieure (ÉTS), Université du Québec, as a Postdoctoral Research Fellow, in 2020.
-
-## Contact
-- *Email:*	<dotrinhu@gmail.com>
-- *Website:*	<https://trinhudo.github.io>
+- 2013-2018: Graduate Research Assistant, Ubiquitous Networks & Convergence Laboratory ([UNC Lab](http://unclab.hongik.ac.kr)), Hongik University, South Korea
+	- Supervisors: [Prof. Beongku An](http://unclab.hongik.ac.kr/professor.php)
 
 # Education
 - 2015-2018: **Doctor of Philosophy**, in Electronics and Computer Engineering, [Hongik University](http://www.hongik.ac.kr/index.do), South Korea
