@@ -19,7 +19,6 @@ We use three main types of technical tools for our research, namely:
 
 - 2013-2018: **_Graduate Research Assistant_**, Ubiquitous Networks & Convergence Laboratory ([UNC Lab](http://unclab.hongik.ac.kr)), Hongik University, South Korea
 	- Supervisor: [Prof. Beongku An](http://unclab.hongik.ac.kr/professor.php)
-	- Certificate: 
 
 ## Teaching Experiences
 
@@ -29,8 +28,11 @@ We use three main types of technical tools for our research, namely:
 	- [012301] Computer Engineering: Introduction and Practice (Sping--2017/2018)
 	- [704410] Computer Architecture, Fall--2017
 
+## Other Activities
+- My peer-reviewer record provided by [Publons](https://publons.com/author/1242622/tri-nhu-do)
+
 # Education
-- 2015-2018: **Doctor of Philosophy**, in Electronics and Computer Engineering, [Hongik University](http://www.hongik.ac.kr/index.do), South Korea
+- 2015-2018: **Doctor of Philosophy** in Electronics and Computer Engineering, [Hongik University](http://www.hongik.ac.kr/index.do), South Korea
   - Thesis: *Cooperative Transmission Schemes for Energy and Spectral Efficient Wireless Networks*
   - Advisor: [Prof. Beongku An](http://unclab.hongik.ac.kr/professor.php)
 
