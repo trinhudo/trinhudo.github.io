@@ -15,41 +15,32 @@ We use three main types of technical tools for our research, namely:
 Tri Nhu Do (in Vietnamese: Đỗ Trí Như) was born in Da Nang, Vietnam. He earned a B.S. degree in electronics and telecommunications from the Posts and Telecommunications Institute of Technology (PTIT), Vietnam, in 2012. He earned an M.S. degree and a Ph.D. degree in electronics and computer engineering from Hongik University, South Korea, in 2015 and 2018, respectively. He was a Teaching Associate with the Department of Software and Communications Engineering at Hongik University from 2017 to 2018. He was a Postdoctoral Research Associate with the Department of Computer Science at the University of Texas at Dallas in 2019. He joins the Department of Electrical Engineering at École de Technologie Supérieure (ÉTS), Université du Québec, as a Postdoctoral Research Fellow, in 2020.
 
 ## Contact
-- *Website:*	<https://trinhudo.github.io>
 - *Email:*	<dotrinhu@gmail.com>
+- *Website:*	<https://trinhudo.github.io>
 
-You can use the [editor on GitHub](https://github.com/trinhudo/trinhutestpage.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Education
+- 2015-2018: **Doctor of Philosophy**, in Electronics and Computer Engineering, [Hongik University](http://www.hongik.ac.kr/index.do), South Korea
+  - Thesis: *Cooperative Transmission Schemes for Energy and Spectral Efficient Wireless Networks*
+  - Advisor: [Prof. Beongku An](http://unclab.hongik.ac.kr/professor.php)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 2013-2015 :
+\cventry{ Mar. 2013\\{\footnotesize to} Feb. 2015}{Master of Science}{\href{http://www.hongik.ac.kr/index.do}{Hongik University}}{South Korea}{}{Electronics and Computer Engineering}
 
-### Markdown
+\cvitem{}{Thesis: \textit{``Centralized Cooperative Spectrum Sensing Schemes for Cognitive Radio Networks''} }
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+\cvitem{}{Advisor: \textit{Prof. Beongku An \href{http://unclab.hongik.ac.kr/professor.php}{(\underline{link})}}}
 
-```markdown
-Syntax highlighted code block
+\medskip 
 
-# Header 1
-## Header 2
-### Header 3
+\cventry{ Sep. 2007\\{\footnotesize to} Feb. 2012}{Bachelor of Engineering}{\href{http://hcm.ptit.edu.vn/}{Posts and Telecommunications Institute of Technology}}{Vietnam}{}{Electronics and Telecommunication Engineering}
 
-- Bulleted
-- List
+\cvitem{}{Thesis: \textit{``A Study on Multiple-Input Multiple-Output (MIMO) Technique in Evolved High Speed Packet Access (HSPA+) Networks''}}
 
-1. Numbered
-2. List
+\cvitem{}{Advisor: \textit{Prof. Vo Nguyen Quoc Bao \href{https://sites.google.com/site/baovnq}{(\underline{link})}}}
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+# Publications
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Journal Papers
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/trinhudo/trinhutestpage.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
