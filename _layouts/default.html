@@ -14,23 +14,29 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | Tri Nhu Do }}</a></h1>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
-          <img src="{{site.logo | images/TriNhu.jpeg}}" alt="Logo" />
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | Tri Nhu Do }}
-        <br>
-          <img src="{{site.logo | images/TriNhu.jpeg}}" alt="Logo" />
-        </p>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+        {% if site.github.is_project_page %}
+        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+        {% endif %}
 
         {% if site.github.is_user_page %}
-        <p class="view"><a href="https://scholar.google.com/citations?user=cwdP-oYAAAAJ&hl=en">My Google Scholar </a>
-          <br>
-          <a href="https://dotrinhu.com">My Blog (in Vietnamese) </a></p>
+        <p class="view"><a href="https://scholar.google.com/citations?user=cwdP-oYAAAAJ&hl=en">My Google Scholar</a><br><a href="https://dotrinhu.com">My Blog </a></p>
         {% endif %}
 
+        {% if site.show_downloads %}
+        <ul>
+          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
+          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+        </ul>
+        {% endif %}
       </header>
       <section>
 
@@ -38,7 +44,10 @@
 
       </section>
       <footer>
-        <p><small>Updated Nov. 2020</p>
+        {% if site.github.is_project_page %}
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+        <p><small>Updated Nov. 2020</small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
