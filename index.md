@@ -46,9 +46,9 @@ We use three main types of technical tools for our research, namely:
 
 # Publications
 ## Journal Papers
-- Toan Van Nguyen, Tri Nhu Do, Daniel Benevides da Costa, Vo Nguyen Quoc Bao, and Beongku An, "[On the Performance of Multihop Cognitive Wireless Powered D2D Communications in WSNs](https://ieeexplore.ieee.org/document/8949544)," *IEEE Transactions on Vehicular Technology*, vol. 69, no. 3, pp. 2684-2699, Mar. 2020
+- Tri Nhu Do and Zygmunt J. Haas, "[On the Design of RD-MIMO: Spatial Multiplexing versus Opportunistic Transmission Schemes](https://ieeexplore.ieee.org/document/8974614)," *IEEE Access*, vol. 8, pp. 22733-22747, Jan. 2020.
 
--	Tri Nhu Do and Zygmunt J. Haas, "[On the Design of RD-MIMO: Spatial Multiplexing versus Opportunistic Transmission Schemes](https://ieeexplore.ieee.org/document/8974614)," *IEEE Access*, vol. 8, pp. 22733-22747, Jan. 2020.
+- Toan Van Nguyen, Tri Nhu Do, Daniel Benevides da Costa, Vo Nguyen Quoc Bao, and Beongku An, "[On the Performance of Multihop Cognitive Wireless Powered D2D Communications in WSNs](https://ieeexplore.ieee.org/document/8949544)," *IEEE Transactions on Vehicular Technology*, vol. 69, no. 3, pp. 2684-2699, Mar. 2020
 
 - Tri Nhu Do, Van-Dinh Nguyen, Oh-Soon Shin and Beongku An, “[Simultaneous Uplink and Downlink Transmissions for Wireless Powered Communication Networks ](https://ieeexplore.ieee.org/document/8565946),'' *IEEE Communications Letters*, vol. 23, no. 2, pp. 374-377, Feb. 2019. ([MATLAB code](https://github.com/trinhudo))
 
