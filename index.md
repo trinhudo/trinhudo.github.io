@@ -10,15 +10,24 @@ We use three main types of technical tools for our research, namely:
 - Optimization: propose some iterative solution to find optimal system parameters of interest. 
 - Deep learning: performance prediction using regression and/or classification with DNN, RNN, and deep reinforcement learning (DRL). 
 
-## Research Experience
-- 2020 to present: Postdoctoral Research Fellow, Department of Electrical Engineering, École de Technologie Supérieure (ÉTS), Université du Québec, Montreal, Canada
+## Research Experiences
+- 2020 to present: **_Postdoctoral Research Fellow_**, Department of Electrical Engineering, École de Technologie Supérieure (ÉTS), Université du Québec, Montreal, Canada
 	- Supervisor: [Prof. Georges Kaddoum](https://www.etsmtl.ca/Professeurs/gkaddoum/Accueil?lang=en-CA)
 	
-- 2019: Postdoctoral Research Associate, Department of Computer Science, The University of Texas at Dallas, TX, USA
+- 2019: **_Postdoctoral Research Associate_**, Department of Computer Science, The University of Texas at Dallas, TX, USA
 	- Supervisor: [Prof. Zygmunt J. Haas](https://personal.utdallas.edu/~haas/)
 
-- 2013-2018: Graduate Research Assistant, Ubiquitous Networks & Convergence Laboratory ([UNC Lab](http://unclab.hongik.ac.kr)), Hongik University, South Korea
-	- Supervisors: [Prof. Beongku An](http://unclab.hongik.ac.kr/professor.php)
+- 2013-2018: **_Graduate Research Assistant_**, Ubiquitous Networks & Convergence Laboratory ([UNC Lab](http://unclab.hongik.ac.kr)), Hongik University, South Korea
+	- Supervisor: [Prof. Beongku An](http://unclab.hongik.ac.kr/professor.php)
+	- Certificate: 
+
+## Teaching Experiences
+
+- 2017-2018: **_Teaching Associate_**, Department of Software and Communications Engineering, Hongik University, South Korea
+
+	Teaching undergraduate courses:
+	- [012301] Computer Engineering: Introduction and Practice (Sping--2017/2018)
+	- [704410] Computer Architecture, Fall--2017
 
 # Education
 - 2015-2018: **Doctor of Philosophy**, in Electronics and Computer Engineering, [Hongik University](http://www.hongik.ac.kr/index.do), South Korea
