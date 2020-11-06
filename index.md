@@ -48,20 +48,19 @@ We use three main types of technical tools for our research, namely:
 ## Journal Papers
 - Toan Van Nguyen, Tri Nhu Do, Daniel Benevides da Costa, Vo Nguyen Quoc Bao, and Beongku An, "[On the Performance of Multihop Cognitive Wireless Powered D2D Communications in WSNs](https://ieeexplore.ieee.org/document/8949544)," *IEEE Transactions on Vehicular Technology*, vol. 69, no. 3, pp. 2684-2699, Mar. 2020
 
-- Tri Nhu Do and Zygmunt J. Haas, "[On the Design of RD-MIMO: Spatial Multiplexing versus Opportunistic Transmission Schemes](https://ieeexplore.ieee.org/document/8974614)," *IEEE Access*, vol. 8, pp. 22733-22747, Jan. 2020.
+-	Tri Nhu Do and Zygmunt J. Haas, "[On the Design of RD-MIMO: Spatial Multiplexing versus Opportunistic Transmission Schemes](https://ieeexplore.ieee.org/document/8974614)," *IEEE Access*, vol. 8, pp. 22733-22747, Jan. 2020.
 
-- Tri Nhu Do, Van-Dinh Nguyen, Oh-Soon Shin and Beongku An, “[Simultaneous Uplink and Downlink Transmissions for Wireless Powered Communication Networks ](https://ieeexplore.ieee.org/document/8565946),'' *IEEE Communications Letters*, vol. 23, no. 2, pp. 374-377, Feb. 2019. | [Code](https://github.com/trinhudo) 
-|
+- Tri Nhu Do, Van-Dinh Nguyen, Oh-Soon Shin and Beongku An, “[Simultaneous Uplink and Downlink Transmissions for Wireless Powered Communication Networks ](https://ieeexplore.ieee.org/document/8565946),'' *IEEE Communications Letters*, vol. 23, no. 2, pp. 374-377, Feb. 2019. ([MATLAB code](https://github.com/trinhudo))
 
-- Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, and Beongku An, "[Improving the Performance of Cell-Edge Users in NOMA Systems Using Cooperative Relaying](https://ieeexplore.ieee.org/document/8267052/),'' *IEEE Transactions on Communications*, vol. 66, no. 5, pp. 1883-1901, May 2018.
+- Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, and Beongku An, "[Improving the Performance of Cell-Edge Users in NOMA Systems Using Cooperative Relaying](https://ieeexplore.ieee.org/document/8267052/),'' *IEEE Transactions on Communications*, vol. 66, no. 5, pp. 1883-1901, May 2018. ([MATLAB code](https://github.com/trinhudo))
 
-- Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, and Beongku An, [Improving the performance of cell-edge users in MISO-NOMA systems using TAS and SWIPT-based cooperative transmissions](http://ieeexplore.ieee.org/document/8119901/),'' *IEEE Transactions on Green Communications and Networking*, vol. 2, no. 1, pp. 49-62, Mar. 2018.
+- Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, and Beongku An, [Improving the performance of cell-edge users in MISO-NOMA systems using TAS and SWIPT-based cooperative transmissions](http://ieeexplore.ieee.org/document/8119901/),'' *IEEE Transactions on Green Communications and Networking*, vol. 2, no. 1, pp. 49-62, Mar. 2018. ([MATLAB code](https://github.com/trinhudo))
 
 - Nguyen Toan Van, Tri Nhu Do, Vo Nguyen Quoc Bao, and Beongku An, "[Performance analysis of wireless energy harvesting multihop cluster-based networks over Nakgami-$m$ fading channels](http://ieeexplore.ieee.org/document/8239782/)'' *IEEE Access*, vol. 6, pp. 3068-3084, Feb. 2018.
 
-- Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, Vo Nguyen Quoc Bao, and Beongku An, "[Exploiting direct links in multiuser multirelay SWIPT cooperative networks with opportunistic scheduling](http://ieeexplore.ieee.org/document/7945528/),'' *IEEE Transactions on Wireless Communications*, vol. 16, no. 8, pp. 5410-5427, Aug. 2017.
+- Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, Vo Nguyen Quoc Bao, and Beongku An, "[Exploiting direct links in multiuser multirelay SWIPT cooperative networks with opportunistic scheduling](http://ieeexplore.ieee.org/document/7945528/),'' *IEEE Transactions on Wireless Communications*, vol. 16, no. 8, pp. 5410-5427, Aug. 2017. ([MATLAB code](https://github.com/trinhudo))
 
-- Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, and Beongku An, "[A BNBF user selection scheme for NOMA-based cooperative relaying systems with SWIPT](http://ieeexplore.ieee.org/document/7752882/),'' *IEEE Communications Letters*, vol. 21, no. 3, pp. 664-667, Mar. 2017.
+- Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, and Beongku An, "[A BNBF user selection scheme for NOMA-based cooperative relaying systems with SWIPT](http://ieeexplore.ieee.org/document/7752882/),'' *IEEE Communications Letters*, vol. 21, no. 3, pp. 664-667, Mar. 2017. ([MATLAB code](https://github.com/trinhudo))
 
 - Kyusung Shim, Tri Nhu Do, and Beongku An, "[Performance analysis of physical layer security of opportunistic scheduling in multiuser multirelay cooperative networks](http://www.mdpi.com/1424-8220/17/2/377),'' *Sensors*, vol. 17, no. 2, pp. 377-396, Feb. 2017.
 
@@ -81,7 +80,7 @@ We use three main types of technical tools for our research, namely:
 
 - Kyusung Shim, Hyukchun Oh, Tri Nhu Do, Beongku An, "[A Physical Layer Security-Based Transmit Antenna Selection Scheme for NOMA Systems](https://ieeexplore.ieee.org/document/8436960/),” in *Proc. 2018 IEEE International Conference on Ubiquitous and Future Networks (ICUFN)*, Prague, Czech Republic, Jul. 2018, pp. 597-602.
 
-- Tri Nhu Do, and Beongku An, “[Optimal sum-throughput analysis for downlink cooperative SWIPT NOMA systems](https://ieeexplore.ieee.org/document/8325811),” in *Proc. 2018 IEEE International Conference on Recent Advances in Signal Processing, Telecommunications & Computing (SigTelCom)*, Ho Chi Minh city, Vietnam, Jan. 2018, pp. 85-90.
+- Tri Nhu Do, and Beongku An, “[Optimal sum-throughput analysis for downlink cooperative SWIPT NOMA systems](https://ieeexplore.ieee.org/document/8325811),” in *Proc. 2018 IEEE International Conference on Recent Advances in Signal Processing, Telecommunications & Computing (SigTelCom)*, Ho Chi Minh city, Vietnam, Jan. 2018, pp. 85-90. ([MATLAB code](https://github.com/trinhudo))
 
 - Kyusung Shim, Tri Nhu Do, Beongku An, and Sang-Yep Nam, “[A Wireless Power Transfer-based Routing Protocol for Heterogeneous Wireless Networks](https://scholarworks.bwise.kr/hongik/handle/2020.sw.hongik/6117),” in *Proc. 2018 International Conference on Green and Human Information Technology (ICGHIT)*, Chiang Mai, Thailand, Feb. 2018, pp. 75-79. **_Best Paper Award_**
 
