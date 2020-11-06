@@ -59,7 +59,7 @@ Tri Nhu Do (in Vietnamese: Đỗ Trí Như) was born in Da Nang, Vietnam. He ear
 
 ## Conference Papers
 
-- Toan-Van Nguyen, Tri Nhu Do, Vo Nguyen Quoc Bao, Daniel Benevides da Costa, and Beongku An, “[Performance Analysis of Multihop Cognitive WPCNs with Imperfect CSI](Performance Analysis of Multihop Cognitive WPCNs with Imperfect CSI),” in *Proc. 2019 IEEE Global Communications Conference (GLOBECOM 2019)*, Waikoloa, Hawaii, USA, Dec. 2019.
+- Toan-Van Nguyen, Tri Nhu Do, Vo Nguyen Quoc Bao, Daniel Benevides da Costa, and Beongku An, “[Performance Analysis of Multihop Cognitive WPCNs with Imperfect CSI](https://ieeexplore.ieee.org/document/9014208),” in *Proc. 2019 IEEE Global Communications Conference (GLOBECOM 2019)*, Waikoloa, Hawaii, USA, Dec. 2019.
 
 - Toan-Van Nguyen, Van-Dinh Nguyen, Tri Nhu Do, Daniel Benevides da Costa, and Beongku An, “[Spectral Efficiency Maximization for Multiuser MISO-NOMA Downlink Systems with SWIPT](https://ieeexplore.ieee.org/document/9014339),” in *Proc. 2019 IEEE Global Communications Conference (GLOBECOM 2019)*, Waikoloa, Hawaii, USA, Dec. 2019.
 
@@ -77,7 +77,7 @@ Tri Nhu Do (in Vietnamese: Đỗ Trí Như) was born in Da Nang, Vietnam. He ear
 
 - Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, and Beongku An, "[A full-duplex cooperative scheme with distributed switch-and-stay combining for NOMA networks](http://ieeexplore.ieee.org/document/8254917/),” in *Proc. 2017 IEEE Global Communications Conference (GLOBECOM)*, Singapore, Dec. 2017, pp. 1-6.
 	
-- Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, and Beongku An, "Transmit antenna selection schemes for MISO-NOMA cooperative downlink transmissions with hybrid SWIPT protocol](http://ieeexplore.ieee.org/document/7997005/),” in *Proc. 2017 IEEE International Conference on Communications (ICC)*, Paris, France, May 2017, pp. 1-6.
+- Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, and Beongku An, "[Transmit antenna selection schemes for MISO-NOMA cooperative downlink transmissions with hybrid SWIPT protocol](http://ieeexplore.ieee.org/document/7997005/),” in *Proc. 2017 IEEE International Conference on Communications (ICC)*, Paris, France, May 2017, pp. 1-6.
 
 - Kyusung Shim, Tri Nhu Do, and Beongku An, "[Secure transmission under considering physical layer secure channel state information in mobile ad-hoc wireless](http://www.dbpia.co.kr/Article/NODE07219476),” in *Proc. 2017 The Institute of Electronics Engineers of Korea (IEEK) Summer Conference*, Busan, South Korea, Jun. 2017, pp. 1282-1283.
 
