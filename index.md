@@ -23,24 +23,19 @@ Tri Nhu Do (in Vietnamese: Đỗ Trí Như) was born in Da Nang, Vietnam. He ear
   - Thesis: *Cooperative Transmission Schemes for Energy and Spectral Efficient Wireless Networks*
   - Advisor: [Prof. Beongku An](http://unclab.hongik.ac.kr/professor.php)
 
-- 2013-2015 :
-\cventry{ Mar. 2013\\{\footnotesize to} Feb. 2015}{Master of Science}{\href{http://www.hongik.ac.kr/index.do}{Hongik University}}{South Korea}{}{Electronics and Computer Engineering}
+- 2013-2015: **Master of Science** in Electronics and Computer Engineering, [Hongik University](http://www.hongik.ac.kr/index.do), South Korea
+  - Thesis: *Centralized Cooperative Spectrum Sensing Schemes for Cognitive Radio Networks*
+  - Advisor: [Prof. Beongku An](http://unclab.hongik.ac.kr/professor.php)
 
-\cvitem{}{Thesis: \textit{``Centralized Cooperative Spectrum Sensing Schemes for Cognitive Radio Networks''} }
-
-\cvitem{}{Advisor: \textit{Prof. Beongku An \href{http://unclab.hongik.ac.kr/professor.php}{(\underline{link})}}}
-
-\medskip 
-
-\cventry{ Sep. 2007\\{\footnotesize to} Feb. 2012}{Bachelor of Engineering}{\href{http://hcm.ptit.edu.vn/}{Posts and Telecommunications Institute of Technology}}{Vietnam}{}{Electronics and Telecommunication Engineering}
-
-\cvitem{}{Thesis: \textit{``A Study on Multiple-Input Multiple-Output (MIMO) Technique in Evolved High Speed Packet Access (HSPA+) Networks''}}
-
-\cvitem{}{Advisor: \textit{Prof. Vo Nguyen Quoc Bao \href{https://sites.google.com/site/baovnq}{(\underline{link})}}}
-
+- 2007-2012: **Bachelor of Engineering** in Electronics and Telecommunication Engineering, [Posts and Telecommunications Institute of Technology](http://hcm.ptit.edu.vn), Vietnam
+  - Thesis: *A Study on Multiple-Input Multiple-Output (MIMO) Technique in Evolved High Speed Packet Access (HSPA+) Networks*
+  - Advisor: [Prof. Vo Nguyen Quoc Bao](https://sites.google.com/site/baovnq)
 
 # Publications
-
 ## Journal Papers
+- Toan Van Nguyen, **Tri Nhu Do**, Daniel Benevides da Costa, Vo Nguyen Quoc Bao, and Beongku An, )[On the Performance of Multihop Cognitive Wireless Powered D2D Communications in WSNs,''] (https://ieeexplore.ieee.org/document/8949544) *IEEE Transactions on Vehicular Technology*, vol. 69, no. 3, pp. 2684-2699, Mar. 2020
+
+-	**Tri Nhu Do** and Zygmunt J. Haas, [On the Design of RD-MIMO: Spatial Multiplexing versus Opportunistic Transmission Schemes,''] (https://ieeexplore.ieee.org/document/8974614) *IEEE Access*, vol. 8, pp. 22733-22747, Jan. 2020.
+
 
 
