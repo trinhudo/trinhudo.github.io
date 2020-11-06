@@ -14,10 +14,10 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | Tri Nhu Do }}</a></h1>
 
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <img src="{{site.logo | images/TriNhu.jpeg}}" alt="Logo" />
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -27,7 +27,7 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
-        <p class="view"><a href="https://twitter.com/Jonnygfrazer">My Twitter Profile </a><br><a href="{{ site.github.owner_url }}">My GitHub Profile </a><br><a href="mailto:jonathan_frazer@hms.harvard.edu">Contact Me </a></p>
+        <p class="view"><a href="https://scholar.google.com/citations?user=cwdP-oYAAAAJ&hl=en">My Google Scholar </a><br><a href="{{ site.github.owner_url }}">My GitHub Profile </a><br><a href="https://dotrinhu.com">My Blog (in Vietnamese) </a></p>
         {% endif %}
 
         {% if site.show_downloads %}
