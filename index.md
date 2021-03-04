@@ -29,7 +29,10 @@ We use three main types of technical tools for our research, namely:
 	- [704410] Computer Architecture, Fall--2017
 
 ## Other Activities
-- My peer-reviewer record provided by [Publons](https://publons.com/author/1242622/tri-nhu-do)
+- [Exemplary Reviewer for the IEEE Transactions on Communications](https://www.comsoc.org/publications/journals/ieee-tcom/exemplary-reviewers) - 2020
+- Top reviewers in Computer Science - September 2019 (Top 1% in Field, by Publons)
+- Top reviewers in Computer Science - September 2018 (Top 1% in Field, by Publons)
+- Reviewer record provided by [Publons](https://publons.com/author/1242622/tri-nhu-do)
 
 # Education
 - 2015-2018: **Doctor of Philosophy** in Electronics and Computer Engineering, [Hongik University](http://www.hongik.ac.kr/index.do), South Korea
