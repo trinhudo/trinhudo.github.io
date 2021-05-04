@@ -1,14 +1,13 @@
+## Bio
+
+Tri-Nhu Do was born in central Vietnam. He is a Buddhist. He earned the B.S. degree in Electronics and Telecommunications Engineering from the Posts and Telecommunications Institute of Technology, Vietnam, in 2012. He earned the M.S. and Ph.D. degrees in Electronics and Computer Engineering from Hongik University, South Korea, in 2015 and 2018, respectively. He was a Teaching Associate with the Department of Software and Communications Engineering at Hongik University in 2017-2018. He was a Research Associate with the Department of Computer Science at the University of Texas at Dallas, TX, USA, in 2019. He is currently a Postdoctoral Research Fellow with the Department of Electrical Engineering at the Ecole de Technologie Superieure (ETS), University of Quebec, Montreal, Canada. His research interests include wireless communications and machine learning.
+
 ## Research Interests
 
-My research interests are fading channels and performance analysis of wireless communications. In our research, we have been focusing on:
-- Cooperative relaying systems, such as Reconfigurable Intelligent Surface (RIS) or Intelligent Reflecting Surface (IRS) for 6G relaying systems
-- Non-terrestrial communications for 6G, such as satellite-to-air-to-ground (SAG) communications, air-to-ground (A2G) and ground-to-air (G2A) communications in unmanned aerial vehicles (UAV) networks
-- Multi-user multi-antenna wireless systems
+- Statistical characterization and channel modeling
+- Performance analysis and machine learning-based performance prediction 
+- Mobile multi-user multi-antenna wireless networks
 
-We use three main types of technical tools for our research, namely:
-- Performance analysis: to derive approximate closed-form expressions for the performance metrics under study.
-- Optimization: propose some iterative solution to find optimal system parameters of interest. 
-- Deep learning: performance prediction using regression and/or classification with DNN, RNN, and deep reinforcement learning (DRL). 
 
 ## Research Experiences
 - 2020 to present: **_Postdoctoral Research Fellow_**, Department of Electrical Engineering, École de Technologie Supérieure (ÉTS), Université du Québec, Montreal, Canada
@@ -49,6 +48,8 @@ We use three main types of technical tools for our research, namely:
 
 # Publications
 ## Journal Papers
+
+
 - Tri Nhu Do and Zygmunt J. Haas, "[On the Design of RD-MIMO: Spatial Multiplexing versus Opportunistic Transmission Schemes](https://ieeexplore.ieee.org/document/8974614)," *IEEE Access*, vol. 8, pp. 22733-22747, Jan. 2020.
 
 - Toan Van Nguyen, Tri Nhu Do, Daniel Benevides da Costa, Vo Nguyen Quoc Bao, and Beongku An, "[On the Performance of Multihop Cognitive Wireless Powered D2D Communications in WSNs](https://ieeexplore.ieee.org/document/8949544)," *IEEE Transactions on Vehicular Technology*, vol. 69, no. 3, pp. 2684-2699, Mar. 2020
