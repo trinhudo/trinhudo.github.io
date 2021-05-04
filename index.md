@@ -29,7 +29,7 @@ Tri-Nhu Do earned the Bachelor's degree in electronics and telecommunications en
 
 ## Other Activities
 - [Exemplary Reviewer for the IEEE Transactions on Communications](https://www.comsoc.org/publications/journals/ieee-tcom/exemplary-reviewers) - 2020
-- Top reviewers in Computer Science (top 1% in Field), 2018-2019, by [Publons](https://publons.com/author/1242622/tri-nhu-do))
+- [Top reviewers in Computer Science (top 1% in Field) in 2018-2019 by Publons](https://publons.com/author/1242622/tri-nhu-do)
 
 # Education
 - 2015-2018: **Doctor of Philosophy** in Electronics and Computer Engineering, [Hongik University](http://www.hongik.ac.kr/index.do), South Korea
