@@ -28,7 +28,7 @@ Tri-Nhu Do earned the Bachelor's degree in electronics and telecommunications en
 	- [704410] Computer Architecture, Fall--2017
 
 ## Other Activities
-- [Exemplary Reviewer for the IEEE Transactions on Communications](https://www.comsoc.org/publications/journals/ieee-tcom/exemplary-reviewers) - 2020
+- [Exemplary Reviewer for the IEEE Transactions on Communications in 2020](https://www.comsoc.org/publications/journals/ieee-tcom/exemplary-reviewers)
 - [Top reviewers in Computer Science (top 1% in Field) in 2018-2019 by Publons](https://publons.com/author/1242622/tri-nhu-do)
 
 # Education
