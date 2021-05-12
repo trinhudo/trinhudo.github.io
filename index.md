@@ -47,6 +47,7 @@ Tri-Nhu Do earned the Bachelor's degree in electronics and telecommunications en
 # Publications
 ## Journal Papers
 
+- Kyusung Shim, Tri Nhu Do, Toan-Van Nguyen, Daniel Benevides da Costa, and Beongku An, "[Enhancing PHY-Security of FD-Enabled NOMA Systems Using Jamming and User Selection: Performance Analysis and DNN Evaluation](https://github.com/trinhudo/PHY_Security_NOMA_FD_DNN)", *IEEE Internet of Things Journal*, May, 2021
 
 - Tri Nhu Do and Zygmunt J. Haas, "[On the Design of RD-MIMO: Spatial Multiplexing versus Opportunistic Transmission Schemes](https://ieeexplore.ieee.org/document/8974614)," *IEEE Access*, vol. 8, pp. 22733-22747, Jan. 2020.
 
