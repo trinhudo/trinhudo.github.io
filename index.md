@@ -89,16 +89,21 @@ Tri-Nhu Do earned the Bachelor's degree in electronics and telecommunications en
 
 - Kyusung Shim, Tri Nhu Do, and Beongku An, “[A physical layer security-based routing protocol in mobile ad-hoc wireless networks](https://ieeexplore.ieee.org/document/8323778),” in *Proc. 20th IEEE International Conference on Advanced Communications Technology (ICACT)*, Gangwon-do, South Korea, Feb. 2018, pp. 417-422. **_Outstanding Paper Award_**
 
+<!--
 - Tri Nhu Do and Beongku An, "[Finding optimal power splitting ratio for cooperative SWIPT NOMA systems](http://www.iconi.org/portal/contents.do?menuNo=100274),” in *Proc. KSII The 9th International Conference on Internet (ICONI)*, Vientiane, Laos, Dec. 2017, pp. 135-136.
+-->
 
 - Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, and Beongku An, "[A full-duplex cooperative scheme with distributed switch-and-stay combining for NOMA networks](http://ieeexplore.ieee.org/document/8254917/),” in *Proc. 2017 IEEE Global Communications Conference (GLOBECOM)*, Singapore, Dec. 2017, pp. 1-6.
 	
 - Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, and Beongku An, "[Transmit antenna selection schemes for MISO-NOMA cooperative downlink transmissions with hybrid SWIPT protocol](http://ieeexplore.ieee.org/document/7997005/),” in *Proc. 2017 IEEE International Conference on Communications (ICC)*, Paris, France, May 2017, pp. 1-6.
 
+<!--
 - Kyusung Shim, Tri Nhu Do, and Beongku An, "[Secure transmission under considering physical layer secure channel state information in mobile ad-hoc wireless](http://www.dbpia.co.kr/Article/NODE07219476),” in *Proc. 2017 The Institute of Electronics Engineers of Korea (IEEK) Summer Conference*, Busan, South Korea, Jun. 2017, pp. 1282-1283.
+-->
 
 - Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, Vo Nguyen Quoc Bao, and Beongku An, "[Opportunistic scheduling for fixed-gain amplify-and-forward-based multiuser multirelay SWIPT cooperative networks](http://ieeexplore.ieee.org/document/7849794/),” in *Proc. 2017 IEEE International Conference on Recent Advances in Signal Processing, Telecommunications & Computing (SigTelCom)*, Da Nang, Jan. 2017, pp. 49-54.
 
+<!--
 - Kyusung Shim, Tri Nhu Do, and Beongku An, “[A source relay selection scheme for physical layer security in multi-user multi-relay amplify-and-forward cooperative networks](https://scholarworks.bwise.kr/hongik/handle/2020.sw.hongik/8109),” in *Proc. 2017 International Conference on Green and Human Information Technology (ICGHIT)*, Hangzhou, China, Feb. 2016, pp. 339-340.
 
 - Kyusung Shim, Tri Nhu Do, and Beongku An, "[Physical layer security under hard impairments in cooperative communication environments](http://www.dbpia.co.kr/Article/NODE06724789),” in *Proc. 2016 The Institute of Electronics Engineers of Korea (IEEK) Summer Conference*, Jeju Island, South Korea, Jun. 2016, pp. 1641-1643.
@@ -108,20 +113,25 @@ Tri-Nhu Do earned the Bachelor's degree in electronics and telecommunications en
 - Le The Dung, Tri Nhu Do, and Beongku An, "[Cooperative spectrum sensing based routing protocol in mobile cognitive radio ad-hoc networks](https://scholarworks.bwise.kr/hongik/handle/2020.sw.hongik/10334),” in *Proc. 2016 International Conference on Green and Human Information Technology (ICGHIT)*, Angeles City, Philippines, Feb. 2016, pp. 124-125.
 
 - Kyusung Shim, Tri Nhu Do, and Beongku An, "[Physical layer security of wireless networks under hardware impairments](https://scholarworks.bwise.kr/hongik/handle/2020.sw.hongik/10335),” in *Proc. 2016 International Conference on Green and Human Information Technology (ICGHIT)*, Angeles City, Philippines, Feb. 2016, pp. 130-131.
+-->
 
 - Tri Nhu Do, Le The Dung, Beongku An, and Sang-Yep Nam, "[Connectivity of hybrid overlay/underlay cognitive radio ad hoc networks](http://ieeexplore.ieee.org/document/7562945/),” in *Proc. 2016 IEEE International Conference on Electronics, Information, and Communication (ICEIC)*, Da Nang, Vietnam, Jan. 2016, pp. 1-4.
 
 - K. Shim, Tri Nhu Do, Beongku An, and Sang-Yep Nam, "[Outage performance of physical layer security for multi-hop underlay cognitive radio networks with imperfect channel state information](http://ieeexplore.ieee.org/document/7562946/),” in *Proc. 2016 IEEE International Conference on Electronics, Information, and Communication (ICEIC)*, Da Nang, Vietnam, Jan. 2016, pp. 1-4.
 
+<!--
 - Kyusung Shim, Tri Nhu Do, and Beongku An, "[Physical layer security under hardware impairment and imperfect CSI in relaying networks](http://www.dbpia.co.kr/Article/NODE07105617),” in *Proc. 2015 The Institute of Electronics Engineers of Korea (IEEK) Fall Conference*, Gwangju, South Korea, Nov. 2015, pp. 667-668.
 
 - Tri Nhu Do and Beongku An, "[Outage analysis of best relay selection scheme for wireless energy harvesting relay networks](http://www.dbpia.co.kr/Article/NODE07105618),” in *Proc. 2015 The Institute of Electronics Engineers of Korea (IEEK) Fall Conference*, Gwangju, South Korea, Nov. 2015, pp. 669-670.
+-->
 
 - Tri Nhu Do, Vo Nguyen Quoc Bao, and Beongku An, "[A relay selection protocol for wireless energy harvesting relay networks](http://ieeexplore.ieee.org/document/7388327/)," in *Proc. 2015 IEEE International Conference on Advanced Technologies for Communications*, Ho Chi Minh city, Vietnam, Oct. 2015, pp. 243-247.
 
+<!--
 - Kyusung Shim, Tri Nhu Do, and Beongku An, "[Secure transmission using DF on underlay cognitive radio](http://www.dbpia.co.kr/Article/NODE06385345),” in *Proc. 2015 The Institute of Electronics Engineers of Korea (IEEK) Summer Conference*, Jeju Island, South Korea, Jun. 2015, pp. 1418-1420.
 
-[comment]: <> (- Tri Nhu Do and Beongku An, "[A physical layer security-based multihop relaying protocol for underlay cognitive radio networks](http://www.dbpia.co.kr/Article/NODE06385358),” in *Proc. 2015 The Institute of Electronics Engineers of Korea (IEEK) Summer Conference*, Jeju Island, South Korea, Jun. 2015, pp. 1454-1455.)
+- Tri Nhu Do and Beongku An, "[A physical layer security-based multihop relaying protocol for underlay cognitive radio networks](http://www.dbpia.co.kr/Article/NODE06385358),” in *Proc. 2015 The Institute of Electronics Engineers of Korea (IEEK) Summer Conference*, Jeju Island, South Korea, Jun. 2015, pp. 1454-1455.
+-->
 
 - Tri Nhu Do and Beongku An, "[Secure transmission using decode-and-forward protocol for underlay cognitive radio networks](http://ieeexplore.ieee.org/document/7182678/),” in *Proc. 2015 IEEE International Conference on Ubiquitous and Future Networks (ICUFN)*, Sapporo, Japan, Jul. 2015, pp. 914-918.
 
