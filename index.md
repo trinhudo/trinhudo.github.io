@@ -75,6 +75,8 @@ Tri-Nhu Do earned the Bachelor's degree in electronics and telecommunications en
 
 ## Conference Papers
 
+- Tri Nhu Do, Georges Kaddoum, Thanh Luan Nguyen, Daniel Benevides da Costa, and Zygmunt J. Haas, "[Aerial Reconfigurable Intelligent Surface-Aided Wireless Communication Systems](https://github.com/trinhudo/Aerial-RIS)," in *Proc. 2021 IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)*, Sep. 2021.
+
 - Toan-Van Nguyen, Tri Nhu Do, Vo Nguyen Quoc Bao, Daniel Benevides da Costa, and Beongku An, “[Performance Analysis of Multihop Cognitive WPCNs with Imperfect CSI](https://ieeexplore.ieee.org/document/9014208),” in *Proc. 2019 IEEE Global Communications Conference (GLOBECOM 2019)*, Waikoloa, Hawaii, USA, Dec. 2019.
 
 - Toan-Van Nguyen, Van-Dinh Nguyen, Tri Nhu Do, Daniel Benevides da Costa, and Beongku An, “[Spectral Efficiency Maximization for Multiuser MISO-NOMA Downlink Systems with SWIPT](https://ieeexplore.ieee.org/document/9014339),” in *Proc. 2019 IEEE Global Communications Conference (GLOBECOM 2019)*, Waikoloa, Hawaii, USA, Dec. 2019.
