@@ -2,4 +2,43 @@ title: Tri Nhu Do
 logo: /images/trinhuphoto.png
 description: Postdoctoral Research Fellow <br> Department of Electrical Engineering <br> École de Technologie Supérieure (ÉTS) <br> Université du Québec, Montreal, Canada
 theme: jekyll-theme-minimal
-font-family: Georgia
+
+# ---------------------------------------------------------------
+font:
+  enable: true
+
+  # Uri of fonts host. E.g. //fonts.googleapis.com (Default)
+  host:
+
+  # Global font settings used on <body> element.
+  global:
+    # external: true will load this font family from host.
+    external: true
+    family: Georgia
+
+  # Font settings for Headlines (h1, h2, h3, h4, h5, h6)
+  # Fallback to `global` font settings.
+  headings:
+    external: true
+    family:
+
+  # Font settings for posts
+  # Fallback to `global` font settings.
+  posts:
+    external: true
+    family:
+
+  # Font settings for Logo
+  # Fallback to `global` font settings.
+  # The `size` option use `px` as unit
+  logo:
+    external: true
+    family:
+    size:
+
+  # Font settings for <code> and code blocks.
+  codes:
+    external: true
+    family:
+    size:
+
