@@ -21,8 +21,7 @@ Tri-Nhu Do earned the Bachelor's degree in _electronics and telecommunications e
 
 ## Teaching Experiences
 
-- 2017-2018: **_Teaching Associate_**, Department of Software and Communications Engineering, Hongik University, South Korea
-
+- 2017-2018: **_Teaching Associate_**, Department of Software and Communications Engineering, Hongik University, South Korea  
 	Teaching undergraduate courses:
 	- [012301] Computer Engineering: Introduction and Practice (Sping--2017/2018)
 	- [704410] Computer Architecture, Fall--2017
