@@ -4,10 +4,10 @@ Tri-Nhu Do earned the Bachelor's degree in Electronics and Telecommunications En
 
 ## Research Interests
 
-- Statistical characterization and channel modeling
-- Performance analysis and machine learning-based performance prediction 
-- Mobile multi-user multi-antenna wireless networks
-
+- Wireless communications 
+- Tactical wireless networks
+- Channel modeling and characterization
+- Machine learning and intelligent artificial
 
 ## Research Experiences
 - 2020 to present: **_Postdoctoral Research Fellow_**, Department of Electrical Engineering, École de Technologie Supérieure (ÉTS), Université du Québec, Montreal, Canada
@@ -31,15 +31,15 @@ Tri-Nhu Do earned the Bachelor's degree in Electronics and Telecommunications En
 - [Top reviewers in Computer Science (top 1% in Field) in 2018-2019 by Publons](https://publons.com/author/1242622/tri-nhu-do)
 
 # Education
-- 2015-2018: **Doctor of Philosophy** in Electronics and Computer Engineering, [Hongik University](http://www.hongik.ac.kr/index.do), South Korea
+- 2018: **Doctor of Philosophy** in Electronics and Computer Engineering, [Hongik University](http://www.hongik.ac.kr/index.do), South Korea
   - Thesis: *Cooperative Transmission Schemes for Energy and Spectral Efficient Wireless Networks*
   - Advisor: [Prof. Beongku An](http://unclab.hongik.ac.kr/professor.php)
 
-- 2013-2015: **Master of Science** in Electronics and Computer Engineering, [Hongik University](http://www.hongik.ac.kr/index.do), South Korea
+- 2015: **Master of Science** in Electronics and Computer Engineering, [Hongik University](http://www.hongik.ac.kr/index.do), South Korea
   - Thesis: *Centralized Cooperative Spectrum Sensing Schemes for Cognitive Radio Networks*
   - Advisor: [Prof. Beongku An](http://unclab.hongik.ac.kr/professor.php)
 
-- 2007-2012: **Bachelor of Engineering** in Electronics and Telecommunication Engineering, [Posts and Telecommunications Institute of Technology](http://hcm.ptit.edu.vn), Vietnam
+- 2012: **Bachelor of Engineering** in Electronics and Telecommunication Engineering, [Posts and Telecommunications Institute of Technology](http://hcm.ptit.edu.vn), Vietnam
   - Thesis: *A Study on Multiple-Input Multiple-Output (MIMO) Technique in Evolved High Speed Packet Access (HSPA+) Networks*
   - Advisor: [Prof. Vo Nguyen Quoc Bao](https://sites.google.com/site/baovnq)
 
