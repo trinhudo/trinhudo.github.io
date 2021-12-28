@@ -39,8 +39,7 @@ body {
 	padding-right: 1.0em;
     	border: none;
     	background: white;
-    	text-align: justify;
-    	word-break:break-all;
+    	text-align: left;
     	vertical-align: top;
 }
 
