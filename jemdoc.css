@@ -11,7 +11,7 @@ body {
 	font-family: Georgia, serif;
 	padding-bottom: 8px;
 	margin: auto;
-	max-width: 1000px;
+	max-width: 900px;
 }
 
 #layout-menu {
@@ -170,7 +170,7 @@ div#footer {
 }
 
 div#footer a {
-	color: #80a0b0;
+	color: #c0c0c0;
 }
 
 div#footer-text {
