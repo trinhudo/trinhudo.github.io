@@ -1,3 +1,6 @@
+<span style="color:blue">
+
+
 **Postdoctoral Research Fellow**  
 Resilient Machine Learning Institute (ReMI)  
 École de Technologie Supérieure (ÉTS)  
@@ -71,3 +74,4 @@ Hongik University, South Korea
 **Technical Program Committee (TPC) Member**
 - WCNC, GLOBECOM, VTC, ANTS
 
+</span>
