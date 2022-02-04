@@ -14,7 +14,7 @@
   - From 2022 to *present*
 
 - **Mujtaba Ghous**
-  - *Topic:* Transfer Learning-enabled Ultra Reliable Low Latency Communication (URLLC) in tactical wireless networks
+  - *Topic:* Transfer Learning-enabled Ultra Reliable Low Latency Communication (URLLC) in Tactical Wireless Networks
   - From 2021 to *present*
 
 - **Muddasir Rahim**
