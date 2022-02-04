@@ -310,4 +310,4 @@ T. N. Do and B. An
 “A Discussion of Cooperative Spectrum Sensing using Alamouti Code in Cognitive Radio Networks”
 in Proc. IEEK Summer Conference, Jeju Island, South Korea, Jun. 2013.
 
-Created using Jemdoc, Montreal, QC, Canada, 2022.
+[back](./)
