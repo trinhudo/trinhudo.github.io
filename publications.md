@@ -32,7 +32,7 @@
 *(under the supervision of Prof. Beongku An at Hongik University)*
 
 - **Kyusung Shim**
-  - *Topic:* Physical layer security (PHY-Security) of wireless communications.
+  - *Topic:* Physical Layer Security (PHY-Security) in Wireless Communications
   - From 2017 to 2021
   - *Current status:* Post-doc at Hongik University
 
