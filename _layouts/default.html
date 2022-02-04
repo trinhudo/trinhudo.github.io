@@ -23,13 +23,6 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
-        <ul class="view">
-          <li><a href="https://trinhudo.github.io/publications.html">Publications</a></li>
-          <li><a href="https://scholar.google.com/citations?user=cwdP-oYAAAAJ&hl=en">Google Scholar</a></li>
-          <li><a href="{{ site.github.owner_url }}">GitHub Profile</a></li>
-          <li><a href="https://dotrinhu.com/">Poetry</a></li>
-        </ul>
-        
         {% if site.github.is_user_page %}
         <p class="view">
           <a href="https://trinhudo.github.io/publications.html">Publications</a> 
@@ -41,20 +34,7 @@
           <a href="https://dotrinhu.com/">Poetry</a>
         </p>
         {% endif %}
-        
-        {% if site.show_downloads %}
-        <p class="downloads">
-          <a href="https://trinhudo.github.io/publications.html">Publications</a> 
-          <br>
-          <a href="https://scholar.google.com/citations?user=cwdP-oYAAAAJ&hl=en">Google Scholar</a>
-          <br>
-          <a href="{{ site.github.owner_url }}">GitHub Profile</a>
-          <br>
-          <a href="https://dotrinhu.com/">Poetry</a>
-        </p>
-        {% endif %}
 
-    
       </header>
       <section>
 
