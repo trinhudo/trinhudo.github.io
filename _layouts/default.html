@@ -23,16 +23,12 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
-        <li class="view">
-          <a href="https://trinhudo.github.io/publications.html">Publications</a>
-        </li>
-        <li class="view">
-          <a href="https://scholar.google.com/citations?user=cwdP-oYAAAAJ&hl=en">My Google Scholar</a>
-        </li>
-        <li class="view">
-          <a href="{{ site.github.owner_url }}">My GitHub Profile</a>
-        </li>
-
+        <ul class="view">
+          <li><a href="https://trinhudo.github.io/publications.html">Publications</a></li>
+          <li><a href="https://scholar.google.com/citations?user=cwdP-oYAAAAJ&hl=en">My Google Scholar</a></li>
+          <li><a href="{{ site.github.owner_url }}">My GitHub Profile</a></li>
+        </ul>
+    
         {% if site.github.is_user_page %}
         <p class="view"><a href="https://scholar.google.com/citations?user=cwdP-oYAAAAJ&hl=en">My Google Scholar</a></p>
         <p class="view"><a href="{{ site.github.owner_url }}">My GitHub Profile</a></p>
