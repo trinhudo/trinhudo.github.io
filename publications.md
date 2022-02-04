@@ -1,16 +1,18 @@
-Research Interests
-Wireless communications
+# Research Interests
 
-Tactical wireless networks
+- Wireless communications
+- Tactical wireless networks
+- Channel modeling and characterization
+- Machine learning and intelligent artificial
 
-Channel modeling and characterization
+# PhD Student Mentoring
+*(under the supervision of Prof. Georges Kaddoum at ETS)*
 
-Machine learning and intelligent artificial
+- **Aida Meftah** 
+  - Signal calssification using federated learning (FL) in tactical wireless networks.
+  - 2022-presemt
 
-PhD Student Mentoring
-Mujtaba Ghous
-(under the supervision of Prof. Georges Kaddoum)
-Current status: PhD student at ETS
+- **Mujtaba Ghous**
 2021-present
 
 Muddasir Rahim
@@ -25,20 +27,26 @@ Current status: PhD student at ETS
 
 Thanh Luan Nguyen
 Current status: Contract Researcher at Industrial University of HCMC (IUH), Vietnam
-2020-present
+From 2020 to present
 
-Kyusung Shim
-(under the supervision of Prof. Beongku An at Hongik University, South Korean)
-Current status: Postdoc at Hongik University
-2017-2021
+# PhD Student Mentoring
+*(under the supervision of Prof. Beongku An at Hongik University)*
 
-Publications
-Book Chapter
+- **Kyusung Shim**
+  - *Topic:* Physical layer security (PHY-Security) of wireless communications.
+  - *Current status:* Postdoc at Hongik University
+  - From 2017 to 2021
+
+---
+
+# Publications
+
+## Book Chapter
 T. N. Do, G. Kaddoum, and T. L. Nguyen
 “Distributed Multi-IRS-aided 6G Wireless Networks: Channel Characterization and Performance Analysis”
 (a book chapter in an upcoming book entitled “Intelligent Reconfigurable Surfaces (IRS) for Prospective 6G Wireless Networks” (9781119875253) edited by Muhammad Ali Imran Lina Mohjazi, Lina Bariah, Sami Muhaidat, Tei Jun Cui, and Qammer H. Abbasi, will published by Wiley on 2022.)
 
-Manuscripts in preparation
+## Manuscripts in preparation
 T. N. Do, A. Pourranjbar, R. Mitra, G. Kaddoum, and G. Poitau
 “Deep Reinforcement Learning-enabled Anti-Reactive Jamming Strategies for Tactical Wireless Networks”
 (Paper completed, in finalizing to submit to IEEE Transactions on Communications).
@@ -51,7 +59,7 @@ H. Bouzabia, T. N. Do, and G. Kaddoum
 “Deep Learning-enabled Deceptive Jammer Detection for Low Probability of Intercept Communications”
 (Paper completed, in preparation to submitting to IEEE Systems Journal).
 
-Ongoing Manuscripts
+## Ongoing Manuscripts
 T. L. Nguyen, T. N. Do, G. Kaddoum, D. B. da Costa, and Z. J. Haas
 “RIS-aided THz Communications with Stochastic User Orientation: Channel Modeling and Performance Analysis”
 (Results obtained, in preparation to submitting to IEEE Transactions on Vehicular Technology.)
@@ -64,7 +72,7 @@ M. Ghous, T. N. Do, and G. Kaddoum
 “Transfer Learning-based Performance Prediction for RIS-aided URLLC”
 (Ongoing manuscript).
 
-Published in 2021
+## Published in 2021
 T. N. Do, G. Kaddoum, T. L. Nguyen, D. B. da Costa, Z. J. Haas
 “Multi-RIS-aided Wireless Systems: Statistical Characterization and Performance Analysis”
 IEEE Transactions on Communications, Dec. 2021.
