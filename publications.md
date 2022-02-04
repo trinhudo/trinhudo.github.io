@@ -6,36 +6,36 @@
 - Machine learning and intelligent artificial
 
 # PhD Student Mentoring
+
 *(under the supervision of Prof. Georges Kaddoum at ETS)*
 
 - **Aida Meftah** 
-  - Signal calssification using federated learning (FL) in tactical wireless networks.
-  - 2022-presemt
+  - *Topic:* Signal Calssification using Federated Learning (FL) in Tactical Wireless Networks
+  - From 2022 to *present*
 
 - **Mujtaba Ghous**
-2021-present
+  - *Topic:* Transfer Learning-enabled Ultra Reliable Low Latency Communication (URLLC) in tactical wireless networks
+  - From 2021 to *present*
 
-Muddasir Rahim
-(under the supervision of Prof. Georges Kaddoum)
-Current status: PhD student at ETS
-2021-present
+- **Muddasir Rahim**
+  - *Topic:* Intelligent Reflecting Surface (IRS)-aided TeraHerzt (THz) Communications
+  - From 2021 to *present*
 
-Hamda Bouzabia
-(under the supervision of Prof. Georges Kaddoum)
-Current status: PhD student at ETS
-2021-present
+- **Hamda Bouzabia**
+  - *Topic:* Generative Learning-enabled Jamming Detection in Tactical Wireless Networks
+  - From 2021 to *present*
 
-Thanh Luan Nguyen
-Current status: Contract Researcher at Industrial University of HCMC (IUH), Vietnam
-From 2020 to present
+- **Thanh Luan Nguyen**
+  - *Topic:* Performance Analysis of Wireless Communications: A Stochastic Approach
+  - From 2020 to *present*
 
-# PhD Student Mentoring
 *(under the supervision of Prof. Beongku An at Hongik University)*
 
 - **Kyusung Shim**
   - *Topic:* Physical layer security (PHY-Security) of wireless communications.
-  - *Current status:* Postdoc at Hongik University
   - From 2017 to 2021
+  - *Current status:* Post-doc at Hongik University
+
 
 ---
 
