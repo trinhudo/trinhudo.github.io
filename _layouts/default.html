@@ -24,6 +24,12 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_user_page %}
+        <ul class="view">
+          <a href="https://scholar.google.com/citations?user=cwdP-oYAAAAJ&hl=en">My Google Scholar</a>
+        </ul>
+        <ul class="view">
+          <a href="{{ site.github.owner_url }}">My GitHub Profile</a>
+        </ul>
         <p class="view"><a href="https://scholar.google.com/citations?user=cwdP-oYAAAAJ&hl=en">My Google Scholar</a></p>
         <p class="view"><a href="{{ site.github.owner_url }}">My GitHub Profile</a></p>
         {% endif %}
@@ -31,14 +37,10 @@
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
         </ul>
         {% endif %}
       </header>
       <section>
-        
-      Page-1
-      Page-2
 
       {{ content }}
 
