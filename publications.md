@@ -42,9 +42,10 @@
 # Publications
 
 ## Book Chapter
+
 T. N. Do, G. Kaddoum, and T. L. Nguyen
 “Distributed Multi-IRS-aided 6G Wireless Networks: Channel Characterization and Performance Analysis”
-(a book chapter in an upcoming book entitled “Intelligent Reconfigurable Surfaces (IRS) for Prospective 6G Wireless Networks” (9781119875253) edited by Muhammad Ali Imran Lina Mohjazi, Lina Bariah, Sami Muhaidat, Tei Jun Cui, and Qammer H. Abbasi, will published by Wiley on 2022.)
+(a book chapter in an upcoming book entitled “Intelligent Reconfigurable Surfaces (IRS) for Prospective 6G Wireless Networks” (9781119875253) edited by Muhammad Ali Imran Lina Mohjazi, Lina Bariah, Sami Muhaidat, Tei Jun Cui, and Qammer H. Abbasi, will be published by Wiley on 2022.)
 
 ## Manuscripts in preparation
 T. N. Do, A. Pourranjbar, R. Mitra, G. Kaddoum, and G. Poitau
