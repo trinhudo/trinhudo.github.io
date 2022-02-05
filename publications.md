@@ -47,19 +47,19 @@
 
 ## Submitted Manuscripts
 
-- Thanh Luan Nguyen, Tri Nhu Do, and Georges Kaddoum, “[Performance analysis of multi-user NOMA probabilistic wireless powered mMTC networks in stochastic geometry](https://arxiv.org/abs/2201.04784),” _(Submitted to IEEE Transactions on Communications)_.
+- Thanh Luan Nguyen, Tri Nhu Do, and Georges Kaddoum, “[Performance analysis of multi-user NOMA probabilistic wireless powered mMTC networks in stochastic geometry](https://arxiv.org/abs/2201.04784),” _(Submitted to IEEE Transactions on Communications)_. ([MATLAB code](https://github.com/trinhudo)) 
 
 ## Published in 2021
 
 ### Journal papers
 
-- Tri Nhu Do, Georges Kaddoum, Thanh Luan Nguyen, Daniel Benevides da Costa, Zygmunt J. Haas, "[Multi-RIS-aided Wireless Systems: Statistical Characterization and Performance Analysis](https://github.com/trinhudo/Multi-RIS)," *IEEE Transactions on Communications*, Sep. 2021.
+- Tri Nhu Do, Georges Kaddoum, Thanh Luan Nguyen, Daniel Benevides da Costa, Zygmunt J. Haas, "[Multi-RIS-aided Wireless Systems: Statistical Characterization and Performance Analysis](https://github.com/trinhudo/Multi-RIS)," *IEEE Transactions on Communications*, Sep. 2021. ([MATLAB code](https://github.com/trinhudo)) 
 
-- Kyusung Shim, Tri Nhu Do, Toan Van Nguyen, Daniel Benevides da Costa, and Beongku An, "[Enhancing PHY-Security of FD-Enabled NOMA Systems Using Jamming and User Selection: Performance Analysis and DNN Evaluation](https://github.com/trinhudo/PHY_Security_NOMA_FD_DNN)," *IEEE Internet of Things Journal*, May 2021.
+- Kyusung Shim, Tri Nhu Do, Toan Van Nguyen, Daniel Benevides da Costa, and Beongku An, "[Enhancing PHY-Security of FD-Enabled NOMA Systems Using Jamming and User Selection: Performance Analysis and DNN Evaluation](https://github.com/trinhudo/PHY_Security_NOMA_FD_DNN)," *IEEE Internet of Things Journal*, May 2021. ([MATLAB and Python code](https://github.com/trinhudo)) 
 
 ### Conference papers
 
-- Tri Nhu Do, Georges Kaddoum, Thanh Luan Nguyen, Daniel Benevides da Costa, and Zygmunt J. Haas, "[Aerial Reconfigurable Intelligent Surface-Aided Wireless Communication Systems](https://github.com/trinhudo/Aerial-RIS)," in *Proc. 2021 IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)*, Sep. 2021.
+- Tri Nhu Do, Georges Kaddoum, Thanh Luan Nguyen, Daniel Benevides da Costa, and Zygmunt J. Haas, "[Aerial Reconfigurable Intelligent Surface-Aided Wireless Communication Systems](https://github.com/trinhudo/Aerial-RIS)," in *Proc. 2021 IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)*, Sep. 2021. ([MATLAB and Python code](https://github.com/trinhudo)) 
 
 ## Published in 2020
 
