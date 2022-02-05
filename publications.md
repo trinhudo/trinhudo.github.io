@@ -36,7 +36,6 @@
   - From 2017 to 2021
   - *Current status:* Post-doc at Hongik University
 
-
 ---
 
 # Publications
@@ -57,38 +56,22 @@ T. L. Nguyen, T. N. Do, and G. Kaddoum,
 
 - Tri Nhu Do, Georges Kaddoum, Thanh Luan Nguyen, Daniel Benevides da Costa, Zygmunt J. Haas, "[Multi-RIS-aided Wireless Systems: Statistical Characterization and Performance Analysis](https://github.com/trinhudo/Multi-RIS)," *IEEE Transactions on Communications*, Sep. 2021.
 
-- Kyusung Shim, Tri Nhu Do, Toan-Van Nguyen, Daniel Benevides da Costa, and Beongku An, "[Enhancing PHY-Security of FD-Enabled NOMA Systems Using Jamming and User Selection: Performance Analysis and DNN Evaluation](https://github.com/trinhudo/PHY_Security_NOMA_FD_DNN)," *IEEE Internet of Things Journal*, May 2021
-
-
-Code: Matlab code
-
-K. Shim, T. N. Do, T. V. Nguyen, D. B. da Costa, and B. An
-"Enhancing PHY-Security of FD-enabled NOMA Systems using Jamming and User Selection: Performance Analysis and DNN-based Evaluation”
-IEEE Internet of Things Journal, May. 2021.
-
-Code: Matlab and Python code
+- Kyusung Shim, Tri Nhu Do, Toan-Van Nguyen, Daniel Benevides da Costa, and Beongku An, "[Enhancing PHY-Security of FD-Enabled NOMA Systems Using Jamming and User Selection: Performance Analysis and DNN Evaluation](https://github.com/trinhudo/PHY_Security_NOMA_FD_DNN)," *IEEE Internet of Things Journal*, May 2021.
 
 T. N. Do, G. Kaddoum, T. L. Nguyen, D. B. da Costa, and Z. J. Haas
 "Aerial Reconfigurable Intelligent Surface-Aided Wireless Communication Systems”
-in Proc. IEEE PIMRC, Helsinki, Finland, Sep. 2021.
-
+in Proc. IEEE PIMRC, Helsinki, Finland, Sep. 2021.  
 Code: Matlab and Python code
 
-Published in 2020
-T. N. Do and Z. J. Haas
-“On the Design of RD-MIMO: Spatial Multiplexing versus Opportunistic Transmission Schemes”
-IEEE Access, Jan. 2020.
+## Published in 2020
 
-T. V. Nguyen, T. N. Do, D. B. da Costa, V. N. Q. Bao, and B. An
-“On the Performance of Multihop Cognitive Wireless Powered D2D Communications in WSNs”
-IEEE Transactions on Vehicular Technology, Mar. 2020.
+- Tri Nhu Do and Zygmunt J. Haas, "[On the Design of RD-MIMO: Spatial Multiplexing versus Opportunistic Transmission Schemes](https://ieeexplore.ieee.org/document/8974614)," *IEEE Access*, vol. 8, pp. 22733-22747, Jan. 2020.
 
-Published in 2019
-T. N. Do, V.-D. Nguyen, O.-S. Shin, and B. An
-“Simultaneous Uplink and Downlink Transmissions for Wireless Powered Communication Networks”
-IEEE Communications Letters, Feb. 2019.
+- Toan Van Nguyen, Tri Nhu Do, Daniel Benevides da Costa, Vo Nguyen Quoc Bao, and Beongku An, "[On the Performance of Multihop Cognitive Wireless Powered D2D Communications in WSNs](https://ieeexplore.ieee.org/document/8949544)," *IEEE Transactions on Vehicular Technology*, vol. 69, no. 3, pp. 2684-2699, Mar. 2020
 
-Code: Matlab code
+## Published in 2019
+
+- Tri Nhu Do, Van-Dinh Nguyen, Oh-Soon Shin and Beongku An, “[Simultaneous Uplink and Downlink Transmissions for Wireless Powered Communication Networks ](https://ieeexplore.ieee.org/document/8565946),'' *IEEE Communications Letters*, vol. 23, no. 2, pp. 374-377, Feb. 2019. ([MATLAB code](https://github.com/trinhudo)) 
 
 T. V. Nguyen, T. N. Do, V. N. Q. Bao, D. B. da Costa, and B. An
 “Performance Analysis of Multihop Cognitive WPCNs with Imperfect CSI”
@@ -98,22 +81,13 @@ T. V. Nguyen, V.-D. Nguyen, T. N. Do, D. B. da Costa, and B. An
 “Spectral Efficiency Maximization for Multi-User MISO-NOMA Downlink Systems with SWIPT”
 in Proc. IEEE GLOBECOM, Waikoloa, Hawaii, USA, Dec. 2019.
 
-Published in 2018
-T. N. Do, D. B. da Costa, T. Q. Duong, and B. An
-“Improving the Performance of Cell-Edge Users in NOMA Systems Using Cooperative Relaying”
-IEEE Transactions on Communications, May 2018.
+## Published in 2018
 
-Code: Matlab code
+- Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, and Beongku An, "[Improving the Performance of Cell-Edge Users in NOMA Systems Using Cooperative Relaying](https://ieeexplore.ieee.org/document/8267052/),'' *IEEE Transactions on Communications*, vol. 66, no. 5, pp. 1883-1901, May 2018. ([MATLAB code](https://github.com/trinhudo))
 
-T. N. Do, D. B. da Costa, T. Q. Duong, and B. An
-“Improving the Performance of Cell-Edge Users in MISO-NOMA Systems using TAS and SWIPT-based Cooperative Transmissions”
-IEEE Transactions on Green Communications and Networking, Mar. 2018.
+- Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, and Beongku An, [Improving the performance of cell-edge users in MISO-NOMA systems using TAS and SWIPT-based cooperative transmissions](http://ieeexplore.ieee.org/document/8119901/),'' *IEEE Transactions on Green Communications and Networking*, vol. 2, no. 1, pp. 49-62, Mar. 2018. ([MATLAB code](https://github.com/trinhudo))
 
-Code: Matlab code
-
-T. V. Nguyen, T. N. Do, V. N. Q. Bao, and B. An
-“Performance Analysis of Wireless Energy Harvesting Multihop Cluster-based Networks over Nakgami-m Fading Channels”
-IEEE Access, Feb. 2018.
+- Nguyen Toan Van, Tri Nhu Do, Vo Nguyen Quoc Bao, and Beongku An, "[Performance analysis of wireless energy harvesting multihop cluster-based networks over Nakgami-$m$ fading channels](http://ieeexplore.ieee.org/document/8239782/)'' *IEEE Access*, vol. 6, pp. 3068-3084, Feb. 2018.
 
 T. N. Do and B. An
 “Optimal Sum-Throughput Analysis for Downlink Cooperative SWIPT NOMA Systems”
