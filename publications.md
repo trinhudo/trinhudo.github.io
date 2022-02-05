@@ -42,15 +42,12 @@
 
 ## Book Chapters
 
-T. N. Do, G. Kaddoum, and T. L. Nguyen
-“Distributed Multi-IRS-aided 6G Wireless Networks: Channel Characterization and Performance Analysis”
+- Tri Nhu Do, Georges Kaddoum, and Thanh Luan Nguyen, “Distributed Multi-IRS-aided 6G Wireless Networks: Channel Characterization and Performance Analysis”
 (a book chapter in an upcoming book entitled _“Intelligent Reconfigurable Surfaces (IRS) for Prospective 6G Wireless Networks”_ (9781119875253) edited by Muhammad Ali Imran Lina Mohjazi, Lina Bariah, Sami Muhaidat, Tei Jun Cui, and Qammer H. Abbasi, will be published by Wiley on 2022.)
 
 ## Submitted Manuscripts
 
-T. L. Nguyen, T. N. Do, and G. Kaddoum,  
-“[Performance analysis of multi-user NOMA probabilistic wireless powered mMTC networks in stochastic geometry](https://arxiv.org/abs/2201.04784),”  
-(Submitted to IEEE Transactions on Communications).
+Thanh Luan Nguyen, Tri Nhu Do, and Georges Kaddoum, “[Performance analysis of multi-user NOMA probabilistic wireless powered mMTC networks in stochastic geometry](https://arxiv.org/abs/2201.04784),” _(Submitted to IEEE Transactions on Communications)_.
 
 ## Published in 2021
 
@@ -118,29 +115,15 @@ T. L. Nguyen, T. N. Do, and G. Kaddoum,
 
 ### Conference papers
 
-T. N. Do, D. B. da Costa, T. Q. Duong, and B. An
-“A full-Duplex Cooperative Scheme with Distributed Switch-and-Stay Combining for NOMA Networks”
-in Proc. IEEE GLOBECOM, Singapore, Dec. 2017.
+- Tri Nhu Do and Beongku An, "[Finding optimal power splitting ratio for cooperative SWIPT NOMA systems](http://www.iconi.org/portal/contents.do?menuNo=100274),” in *Proc. KSII The 9th International Conference on Internet (ICONI)*, Vientiane, Laos, Dec. 2017, pp. 135-136.
 
-T. N. Do, D. B. da Costa, T. Q. Duong, and B. An
-“Transmit Antenna Selection Schemes for MISO-NOMA Cooperative Downlink Transmissions with Hybrid SWIPT Protocol”
-in Proc. IEEE ICC, Paris, France, May 2017.
+- Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, and Beongku An, "[A full-duplex cooperative scheme with distributed switch-and-stay combining for NOMA networks](http://ieeexplore.ieee.org/document/8254917/),” in *Proc. 2017 IEEE Global Communications Conference (GLOBECOM)*, Singapore, Dec. 2017, pp. 1-6.
+	
+- Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, and Beongku An, "[Transmit antenna selection schemes for MISO-NOMA cooperative downlink transmissions with hybrid SWIPT protocol](http://ieeexplore.ieee.org/document/7997005/),” in *Proc. 2017 IEEE International Conference on Communications (ICC)*, Paris, France, May 2017, pp. 1-6.
 
-T. N. Do, D. B. da Costa, T. Q. Duong, V. N. Q. Bao, and B. An
-“Opportunistic Scheduling for Fixed-Gain Amplify-and-Forward-based Multi-User Multi-Relay SWIPT Cooperative Networks”
-in Proc. IEEE SigTelCom, Da Nang, Jan. 2017.
+- Kyusung Shim, Tri Nhu Do, and Beongku An, "[Secure transmission under considering physical layer secure channel state information in mobile ad-hoc wireless](http://www.dbpia.co.kr/Article/NODE07219476),” in *Proc. 2017 The Institute of Electronics Engineers of Korea (IEEK) Summer Conference*, Busan, South Korea, Jun. 2017, pp. 1282-1283.
 
-K. Shim, T. N. Do, and B. An
-“Secure Transmission under Physical Layer Secure Channel State Information in Mobile Ad-Hoc Wireless”
-in Proc. IEEK Summer Conference, Busan South Korea, Jun. 2017.
-
-T. N. Do and B. An
-“Finding Optimal Power Splitting Ratio for Cooperative SWIPT NOMA Systems”
-in Proc. KSII ICONI, Vientiane, Laos, Dec. 2017.
-
-K. Shim, T. N. Do, and B. An
-“A Source Relay Selection Scheme for Physical Layer Security in Multi-User Multi-Relay Amplify-and-Forward Cooperative Networks”
-in Proc. ICGHIT, Hangzhou, China, Feb. 2017.
+- Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, Vo Nguyen Quoc Bao, and Beongku An, "[Opportunistic scheduling for fixed-gain amplify-and-forward-based multiuser multirelay SWIPT cooperative networks](http://ieeexplore.ieee.org/document/7849794/),” in *Proc. 2017 IEEE International Conference on Recent Advances in Signal Processing, Telecommunications & Computing (SigTelCom)*, Da Nang, Jan. 2017, pp. 49-54.
 
 ## Published in 2016
 
@@ -153,29 +136,19 @@ in Proc. ICGHIT, Hangzhou, China, Feb. 2017.
 
 ### Conference papers
 
-T. N. Do, L. T. Dung, B. An and S.-Y. Nam
-“Connectivity of Hybrid Overlay/Underlay Cognitive Radio Ad Hoc Networks”
-in Proc. IEEE ICEIC, Da Nang, Vietnam, Jan. 2016.
+- Kyusung Shim, Tri Nhu Do, and Beongku An, “[A source relay selection scheme for physical layer security in multi-user multi-relay amplify-and-forward cooperative networks](https://scholarworks.bwise.kr/hongik/handle/2020.sw.hongik/8109),” in *Proc. 2017 International Conference on Green and Human Information Technology (ICGHIT)*, Hangzhou, China, Feb. 2016, pp. 339-340.
 
-K. Shim, T. N. Do, B. An and S.-Y. Nam ,
-“Outage Performance of Physical Layer Security for Multi-Hop Underlay Cognitive Radio Networks with Imperfect Channel State Information”
-in Proc. IEEE ICEIC, Da Nang, Vietnam, Jan. 2016.
+- Kyusung Shim, Tri Nhu Do, and Beongku An, "[Physical layer security under hard impairments in cooperative communication environments](http://www.dbpia.co.kr/Article/NODE06724789),” in *Proc. 2016 The Institute of Electronics Engineers of Korea (IEEK) Summer Conference*, Jeju Island, South Korea, Jun. 2016, pp. 1641-1643.
 
-K. Shim, T. N. Do, and B. An
-“Physical Layer Security under Hardware Impairments in Cooperative Communication Environments”
-in Proc. IEEK Summer Conference, Jeju Island, South Korea, Jun. 2016.
+- Kyusung Shim, Tri Nhu Do, and Beongku An, "[Optimal joint source and relay selection scheme for physical layer security in multi-user and multi-relay networks](http://www.iconi.org/portal/contents.do?menuNo=100297),” in *Proc. KSII The 8th International Conference on Internet (ICONI)*, Hong Kong, Jul. 2016, pp. 187-188.
 
-K. Shim, T. N. Do, and B. An
-“Optimal Joint Source and Relay Selection Scheme for Physical Layer Security in Multi-User and Multi-Relay Networks”
-in Proc. KSII ICONI, Hong Kong, Jul. 2016.
+- Le The Dung, Tri Nhu Do, and Beongku An, "[Cooperative spectrum sensing based routing protocol in mobile cognitive radio ad-hoc networks](https://scholarworks.bwise.kr/hongik/handle/2020.sw.hongik/10334),” in *Proc. 2016 International Conference on Green and Human Information Technology (ICGHIT)*, Angeles City, Philippines, Feb. 2016, pp. 124-125.
 
-L. T. Dung, T. N. Do, and B. An
-“Cooperative Spectrum Sensing based Routing Protocol in Mobile Cognitive Radio Ad-Hoc Networks”
-in Proc. ICGHIT, Angeles City, Philippines, Feb. 2016.
+- Kyusung Shim, Tri Nhu Do, and Beongku An, "[Physical layer security of wireless networks under hardware impairments](https://scholarworks.bwise.kr/hongik/handle/2020.sw.hongik/10335),” in *Proc. 2016 International Conference on Green and Human Information Technology (ICGHIT)*, Angeles City, Philippines, Feb. 2016, pp. 130-131.
 
-K. Shim, T. N. Do, and B. An
-“Physical Layer Security of Wireless Networks under Hardware Impairments”
-in Proc. ICGHIT, Angeles City, Philippines, Feb. 2016.
+- Tri Nhu Do, Le The Dung, Beongku An, and Sang-Yep Nam, "[Connectivity of hybrid overlay/underlay cognitive radio ad hoc networks](http://ieeexplore.ieee.org/document/7562945/),” in *Proc. 2016 IEEE International Conference on Electronics, Information, and Communication (ICEIC)*, Da Nang, Vietnam, Jan. 2016, pp. 1-4.
+
+- K. Shim, Tri Nhu Do, Beongku An, and Sang-Yep Nam, "[Outage performance of physical layer security for multi-hop underlay cognitive radio networks with imperfect channel state information](http://ieeexplore.ieee.org/document/7562946/),” in *Proc. 2016 IEEE International Conference on Electronics, Information, and Communication (ICEIC)*, Da Nang, Vietnam, Jan. 2016, pp. 1-4.
 
 ## Published in 2015
 
@@ -185,41 +158,23 @@ in Proc. ICGHIT, Angeles City, Philippines, Feb. 2016.
 
 ### Conference papers
 
-T. N. Do and B. An
-“Secure Transmission using Decode-and-Forward Protocol for Underlay Cognitive Radio Networks”
-in Proc. IEEE ICUFN, Sapporo, Japan, Jul. 2015.
+- Kyusung Shim, Tri Nhu Do, and Beongku An, "[Physical layer security under hardware impairment and imperfect CSI in relaying networks](http://www.dbpia.co.kr/Article/NODE07105617),” in *Proc. 2015 The Institute of Electronics Engineers of Korea (IEEK) Fall Conference*, Gwangju, South Korea, Nov. 2015, pp. 667-668.
 
-T. N. Do, V. N. Q. Bao, and B. An
-“A Relay Selection Protocol for Wireless Energy Harvesting Relay Networks"
-in Proc. IEEE ATC, HCMC, Vietnam, Oct. 2015.
+- Tri Nhu Do and Beongku An, "[Outage analysis of best relay selection scheme for wireless energy harvesting relay networks](http://www.dbpia.co.kr/Article/NODE07105618),” in *Proc. 2015 The Institute of Electronics Engineers of Korea (IEEK) Fall Conference*, Gwangju, South Korea, Nov. 2015, pp. 669-670.
 
-T. N. Do and B. An
-“Hybrid Cooperative Spectrum Sensing Scheme for Cognitive Radio Networks”
-in Proc. IEEE ICOIN, Siem Reap, Cambodia, Jan. 2015.
+- Tri Nhu Do, Vo Nguyen Quoc Bao, and Beongku An, "[A relay selection protocol for wireless energy harvesting relay networks](http://ieeexplore.ieee.org/document/7388327/)," in *Proc. 2015 IEEE International Conference on Advanced Technologies for Communications*, Ho Chi Minh city, Vietnam, Oct. 2015, pp. 243-247.
 
-T. N. Do and B. An
-“Outage Analysis of Best Relay Selection Scheme for Wireless Energy Harvesting Relay Networks”
-in Proc. IEEK Fall Conference, Gwangju, South Korea, Nov. 2015.
+- Kyusung Shim, Tri Nhu Do, and Beongku An, "[Secure transmission using DF on underlay cognitive radio](http://www.dbpia.co.kr/Article/NODE06385345),” in *Proc. 2015 The Institute of Electronics Engineers of Korea (IEEK) Summer Conference*, Jeju Island, South Korea, Jun. 2015, pp. 1418-1420.
 
-T. N. Do and B. An
-“A Physical Layer Security-based Multihop Relaying Protocol for Underlay Cognitive Radio Networks”
-in Proc. IEEK Summer Conference, Jeju Island, South Korea, Jun. 2015.
+- Tri Nhu Do and Beongku An, "[A physical layer security-based multihop relaying protocol for underlay cognitive radio networks](http://www.dbpia.co.kr/Article/NODE06385358),” in *Proc. 2015 The Institute of Electronics Engineers of Korea (IEEK) Summer Conference*, Jeju Island, South Korea, Jun. 2015, pp. 1454-1455.
 
-K. Shim, T. N. Do, and B. An
-“Physical Layer Security under Hardware Impairment and Imperfect CSI in Relaying Networks”
-in Proc. IEEK Fall Conference, Gwangju, South Korea, Nov. 2015.
+- Tri Nhu Do and Beongku An, "[Secure transmission using decode-and-forward protocol for underlay cognitive radio networks](http://ieeexplore.ieee.org/document/7182678/),” in *Proc. 2015 IEEE International Conference on Ubiquitous and Future Networks (ICUFN)*, Sapporo, Japan, Jul. 2015, pp. 914-918.
 
-K. Shim, T. N. Do, and B. An
-“Secure Transmission using DF on Underlay Cognitive Radio”
-in Proc. IEEK Summer Conference, Jeju Island, South Korea, Jun. 2015.
+- Tri Nhu Do, Beongku An, and Sang-Yep Nam, "[A likelihood ratio test based hard combination scheme for cooperative spectrum sensing in cognitive radio networks](https://edas.info/p18531),” in *Proc. 2015 International Conference on Green and Human Information Technology (ICGHIT)*, Da Nang, Vietnam, Feb. 2015, pp. 195-196.
 
-T. N. Do, B. An and S.-Y. Nam ,
-“A Likelihood Ratio Test based Hard Combination Scheme for Cooperative Spectrum Sensing in Cognitive Radio Networks”
-in Proc. ICGHIT, Da Nang, Vietnam, Feb. 2015.
+- Tri Nhu Do and Beongku An, "[A comparison of Neyman-Pearson and minimum sensing error criterions for cooperative spectrum sensing in cognitive radio networks](https://edas.info/p18531),” in *Proc. 2015 International Conference on Green and Human Information Technology (ICGHIT)*, Da Nang, Vietnam, Feb. 2015, pp. 181-182.
 
-T. N. Do and B. An
-“A Comparison of Neyman-Pearson and Minimum Sensing Error Criterions for Cooperative Spectrum Sensing in Cognitive Radio Networks”
-in Proc. ICGHIT, Da Nang, Vietnam, Feb. 2015.
+- Tri Nhu Do and Beongku An, "[Hybrid cooperative spectrum sensing scheme for cognitive radio networks](http://ieeexplore.ieee.org/document/7057922/),” in *Proc. 2015 IEEE International Conference on Information Networking (ICOIN)*, Siem Reap, Cambodia, Jan. 2015, pp. 390-391.
 
 ## Published in 2014
 
