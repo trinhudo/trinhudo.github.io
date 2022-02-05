@@ -14,19 +14,19 @@ Tri-Nhu Do earned the Bachelor's degree in Electronics and Telecommunications En
 
 **Doctor of Philosophy (Ph.D.)**, 2018   
 Electronics and Computer Engineering  
-Hongik University, South Korea  
+[Hongik University](http://www.hongik.ac.kr/index.do), South Korea  
 *Thesis:* Cooperative Transmission Schemes for Energy and Spectral Efficient Wireless Networks  
 *Supervisor:* [Prof. Beongku An](http://unclab.hongik.ac.kr/professor.php)   
 
 **Master of Science (M.S.),** 2015     
 Electronics and Computer Engineering  
-Hongik University, South Korea  
+[Hongik University](http://www.hongik.ac.kr/index.do), South Korea  
 _Thesis_: Centralized Cooperative Spectrum Sensing Schemes for Cognitive Radio Networks  
 _Supervisor:_ [Prof. Beongku An](http://unclab.hongik.ac.kr/professor.php)    
 
 **Bachelor of Engineering (B.Eng.)**, 2012     
 Electronics and Telecommunication Engineering  
-Posts and Telecommunications Institute of Technology, Vietnam  
+[Posts and Telecommunications Institute of Technology](http://hcm.ptit.edu.vn), Vietnam  
 _Thesis_: A Study on Multiple-Input Multiple-Output (MIMO) Technique in Evolved High Speed Packet Access (HSPA+) Networks   
 _Supervisor:_ [Prof. Vo Nguyen Quoc Bao](https://sites.google.com/site/baovnq)  
 
@@ -47,14 +47,14 @@ _Supervisor:_ [Prof. Zygmunt J. Haas](https://personal.utdallas.edu/~haas/)
 **Graduate Research Assistant**, 2013-2018     
 Ubiquitous Networks & Convergence Laboratory (UNC Lab)  
 Department of Software and Communications Engineering  
-Hongik University, South Korea  
+[Hongik University](http://www.hongik.ac.kr/index.do), South Korea  
 _Supervisor:_ [Prof. Beongku An](http://unclab.hongik.ac.kr/professor.php)  
 
 # Teaching Experiences
 
 **Teaching Associate**  
 Department of Software and Communications Engineering  
-Hongik University, South Korea  
+[Hongik University](http://www.hongik.ac.kr/index.do), South Korea  
 - Course [012301]: Computer Engineering–Introduction and Practice, Sping–2017/2018  
 - Course [704410]: Computer Architecture, Fall–2017  
 
