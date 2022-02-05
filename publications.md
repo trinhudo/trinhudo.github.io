@@ -47,7 +47,7 @@
 
 ## Submitted Manuscripts
 
-Thanh Luan Nguyen, Tri Nhu Do, and Georges Kaddoum, “[Performance analysis of multi-user NOMA probabilistic wireless powered mMTC networks in stochastic geometry](https://arxiv.org/abs/2201.04784),” _(Submitted to IEEE Transactions on Communications)_.
+- Thanh Luan Nguyen, Tri Nhu Do, and Georges Kaddoum, “[Performance analysis of multi-user NOMA probabilistic wireless powered mMTC networks in stochastic geometry](https://arxiv.org/abs/2201.04784),” _(Submitted to IEEE Transactions on Communications)_.
 
 ## Published in 2021
 
@@ -55,7 +55,7 @@ Thanh Luan Nguyen, Tri Nhu Do, and Georges Kaddoum, “[Performance analysis of 
 
 - Tri Nhu Do, Georges Kaddoum, Thanh Luan Nguyen, Daniel Benevides da Costa, Zygmunt J. Haas, "[Multi-RIS-aided Wireless Systems: Statistical Characterization and Performance Analysis](https://github.com/trinhudo/Multi-RIS)," *IEEE Transactions on Communications*, Sep. 2021.
 
-- Kyusung Shim, Tri Nhu Do, Toan-Van Nguyen, Daniel Benevides da Costa, and Beongku An, "[Enhancing PHY-Security of FD-Enabled NOMA Systems Using Jamming and User Selection: Performance Analysis and DNN Evaluation](https://github.com/trinhudo/PHY_Security_NOMA_FD_DNN)," *IEEE Internet of Things Journal*, May 2021.
+- Kyusung Shim, Tri Nhu Do, Toan Van Nguyen, Daniel Benevides da Costa, and Beongku An, "[Enhancing PHY-Security of FD-Enabled NOMA Systems Using Jamming and User Selection: Performance Analysis and DNN Evaluation](https://github.com/trinhudo/PHY_Security_NOMA_FD_DNN)," *IEEE Internet of Things Journal*, May 2021.
 
 ### Conference papers
 
@@ -77,9 +77,9 @@ Thanh Luan Nguyen, Tri Nhu Do, and Georges Kaddoum, “[Performance analysis of 
 
 ### Conference papers
 
-- Toan-Van Nguyen, Tri Nhu Do, Vo Nguyen Quoc Bao, Daniel Benevides da Costa, and Beongku An, “[Performance Analysis of Multihop Cognitive WPCNs with Imperfect CSI](https://ieeexplore.ieee.org/document/9014208),” in *Proc. 2019 IEEE Global Communications Conference (GLOBECOM 2019)*, Waikoloa, Hawaii, USA, Dec. 2019.
+- Toan Van Nguyen, Tri Nhu Do, Vo Nguyen Quoc Bao, Daniel Benevides da Costa, and Beongku An, “[Performance Analysis of Multihop Cognitive WPCNs with Imperfect CSI](https://ieeexplore.ieee.org/document/9014208),” in *Proc. 2019 IEEE Global Communications Conference (GLOBECOM 2019)*, Waikoloa, Hawaii, USA, Dec. 2019.
 
-- Toan-Van Nguyen, Van-Dinh Nguyen, Tri Nhu Do, Daniel Benevides da Costa, and Beongku An, “[Spectral Efficiency Maximization for Multiuser MISO-NOMA Downlink Systems with SWIPT](https://ieeexplore.ieee.org/document/9014339),” in *Proc. 2019 IEEE Global Communications Conference (GLOBECOM 2019)*, Waikoloa, Hawaii, USA, Dec. 2019.
+- Toan Van Nguyen, Van-Dinh Nguyen, Tri Nhu Do, Daniel Benevides da Costa, and Beongku An, “[Spectral Efficiency Maximization for Multiuser MISO-NOMA Downlink Systems with SWIPT](https://ieeexplore.ieee.org/document/9014339),” in *Proc. 2019 IEEE Global Communications Conference (GLOBECOM 2019)*, Waikoloa, Hawaii, USA, Dec. 2019.
 
 ## Published in 2018
 
@@ -89,7 +89,7 @@ Thanh Luan Nguyen, Tri Nhu Do, and Georges Kaddoum, “[Performance analysis of 
 
 - Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, and Beongku An, [Improving the performance of cell-edge users in MISO-NOMA systems using TAS and SWIPT-based cooperative transmissions](http://ieeexplore.ieee.org/document/8119901/),'' *IEEE Transactions on Green Communications and Networking*, vol. 2, no. 1, pp. 49-62, Mar. 2018. ([MATLAB code](https://github.com/trinhudo))
 
-- Nguyen Toan Van, Tri Nhu Do, Vo Nguyen Quoc Bao, and Beongku An, "[Performance analysis of wireless energy harvesting multihop cluster-based networks over Nakgami-m fading channels](http://ieeexplore.ieee.org/document/8239782/)'' *IEEE Access*, vol. 6, pp. 3068-3084, Feb. 2018.
+- Toan Van Nguyen, Tri Nhu Do, Vo Nguyen Quoc Bao, and Beongku An, "[Performance analysis of wireless energy harvesting multihop cluster-based networks over Nakgami-m fading channels](http://ieeexplore.ieee.org/document/8239782/)'' *IEEE Access*, vol. 6, pp. 3068-3084, Feb. 2018.
 
 ### Conference papers
 
@@ -184,40 +184,24 @@ Thanh Luan Nguyen, Tri Nhu Do, and Georges Kaddoum, “[Performance analysis of 
 
 ### Conference papers
 
-T. N. Do, B. An and K.-T. Lee,
-“A Cooperative Spectrum Sensing Scheme using the Concept of Underlay Cognitive Radio”
-in Proc. IEEE ICEIC, Kota Kinabalu, Malaysia, Jan. 2014.
+- Tri Nhu Do and Beongku An, "[A location information-based data fusion scheme for cooperative spectrum sensing in cognitive radio networks](http://www.dbpia.co.kr/Article/NODE06264525),” in *Proc. 2014 The Institute of Electronics Engineers of Korea (IEEK) Fall Conference*, Seoul, South Korea, Nov. 2014, pp. 726-727.
 
-T. N. Do and B. An
-“Cooperative Spectrum Sensing Schemes with the Interference Constraint in Cognitive Radio Networks"
-in Proc. IEEE IS3C, Taichung, Taiwan, Jun. 2014.
+- Tri Nhu Do and Beongku An, "[Log-likelihood ratio test based spectrum sensing for cognitive radio in small-scale fading channels](http://www.dbpia.co.kr/Article/NODE02438890),” in *Proc. 2014 The Institute of Electronics Engineers of Korea (IEEK) Summer Conference*, Jeju Island, South Korea, Jun. 2014, pp. 1472-1473.
 
-T. N. Do and B. An
-“A Location Information-based Data Fusion Scheme for Cooperative Spectrum Sensing in Cognitive Radio Networks”
-in Proc. IEEK Fall Conference, Seoul, South Korea, Nov. 2014.
+- Tri Nhu Do and Beongku An, "[Cooperative spectrum sensing schemes with the interference constraint in cognitive radio networks](http://ieeexplore.ieee.org/document/6846056/)," in *Proc. 2014 IEEE International Symposium on Computer, Consumer and Control (IS3C)*, Taichung, Taiwan, Jun. 2014, pp. 1010-1013.
 
-T. N. Do and B. An
-“Log-Likelihood Ratio Test based Spectrum Sensing for Cognitive Radio in Small-Scale Fading Channels”
-in Proc. IEEK Summer Conference, Jeju Island, South Korea, Jun. 2014.
+- Tri Nhu Do and Beongku An, "[Location-based user selection scheme for cooperative spectrum sensing in cognitive radio networks](http://2014.icghit.org/data/icghit2014-program.pdf),” in *Proc. 2014 International Conference on Green and Human Information Technology (ICGHIT)*, Ho Chi Minh City, Vietnam, Feb. 2014, pp. 355-356.
 
-T. N. Do and B. An
-“Location-based User Selection Scheme for Cooperative Spectrum Sensing in Cognitive Radio Networks”
-in Proc. ICGHIT, HCMC, Vietnam, Feb. 2014.
+- Tri Nhu Do and Beongku An, "[Underlay approach-based soft combination schemes for cooperative spectrum sensing in cognitive radio networks](http://2014.icghit.org/data/icghit2014-program.pdf),” in *Proc. 2014 International Conference on Green and Human Information Technology (ICGHIT)*, Ho Chi Minh City, Vietnam, Feb. 2014, pp. 201-202.)
 
-T. N. Do and B. An
-“Underlay Approach-based Soft Combination Schemes for Cooperative Spectrum Sensing in Cognitive Radio Networks”
-in Proc. ICGHIT, HCMC, Vietnam, Feb. 2014.
+- Tri Nhu Do, Beongku An, and Kyu-Tae Lee, [A cooperative spectrum sensing scheme using the concept of underlay cognitive radio](http://ieeexplore.ieee.org/document/6914441/),” in *Proc. 2014 IEEE International Conference on Electronics, Information, and Communication (ICEIC)*, Kota Kinabalu, Malaysia, Jan. 2014, pp. 1-3.
 
 ## Published in 2013
 
 ### Conference papers
 
-T. N. Do and B. An
-“Cooperative Spectrum Sensing in Cognitive Radio Networks under Interference Constraint”
-in Proc. IEEK Fall Conference, Seoul, South Korea, Nov. 2013.
-
-T. N. Do and B. An
-“A Discussion of Cooperative Spectrum Sensing using Alamouti Code in Cognitive Radio Networks”
-in Proc. IEEK Summer Conference, Jeju Island, South Korea, Jun. 2013.
+- Tri Nhu Do and Beongku An, "[Cooperative spectrum sensing in cognitive radio networks under interference constraint](http://www.dbpia.co.kr/Article/NODE02341590),” in *Proc. 2013 The Institute of Electronics Engineers of Korea (IEEK) Fall Conference*, Seoul, South Korea, Nov. 2013, pp. 902-903.
+		
+- Tri Nhu Do and Beongku An, "[A discussion of cooperative spectrum sensing using Alamouti code in cognitive radio networks](http://www.dbpia.co.kr/Article/NODE02242725),” in *Proc. 2013 The Institute of Electronics Engineers of Korea (IEEK) Summer Conference*, Jeju Island, South Korea, Jun. 2013, pp. 1437-1438.
 
 [Home](./)
