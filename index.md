@@ -21,13 +21,13 @@ Hongik University, South Korea
 Electronics and Computer Engineering  
 Hongik University, South Korea  
 _Thesis_: Centralized Cooperative Spectrum Sensing Schemes for Cognitive Radio Networks  
-_Advisor_: [Prof. Beongku An](http://unclab.hongik.ac.kr/professor.php)    
+_Supervisor:_ [Prof. Beongku An](http://unclab.hongik.ac.kr/professor.php)    
 
 **Bachelor of Engineering (B.Eng.)**, 2012     
 Electronics and Telecommunication Engineering  
 Posts and Telecommunications Institute of Technology, Vietnam  
 _Thesis_: A Study on Multiple-Input Multiple-Output (MIMO) Technique in Evolved High Speed Packet Access (HSPA+) Networks   
-_Advisor_: [Prof. Vo Nguyen Quoc Bao](https://sites.google.com/site/baovnq)  
+_Supervisor:_ [Prof. Vo Nguyen Quoc Bao](https://sites.google.com/site/baovnq)  
 
 # Research Experiences
 
@@ -36,19 +36,19 @@ Resilient Machine Learning Institute (ReMI)
 Department of Electrical Engineering  
 École de Technologie Supérieure (ÉTS)  
 Université du Québec, Montreal, Canada  
-_Supervisor_: [Prof. Georges Kaddoum](https://www.etsmtl.ca/Professeurs/gkaddoum/Accueil?lang=en-CA)  
+_Supervisor:_ [Prof. Georges Kaddoum](https://www.etsmtl.ca/Professeurs/gkaddoum/Accueil?lang=en-CA)  
 
-**Postdoctoral Research Associate**  
+**Postdoctoral Research Associate**, 2019  
 Department of Computer Science  
 The University of Texas at Dallas, TX, USA  
-Supervisor: [Prof. Zygmunt J. Haas](https://personal.utdallas.edu/~haas/)
-2019
+_Supervisor:_ [Prof. Zygmunt J. Haas](https://personal.utdallas.edu/~haas/)
+
 
 **Graduate Research Assistant**  
 Ubiquitous Networks & Convergence Laboratory (UNC Lab)  
 Department of Software and Communications Engineering  
 Hongik University, South Korea  
-Supervisor: [Prof. Beongku An](http://unclab.hongik.ac.kr/professor.php)  
+_Supervisor:_ [Prof. Beongku An](http://unclab.hongik.ac.kr/professor.php)  
 2013-2018
 
 # Teaching Experiences
