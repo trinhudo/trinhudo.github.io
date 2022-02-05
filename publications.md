@@ -45,36 +45,17 @@
 
 T. N. Do, G. Kaddoum, and T. L. Nguyen
 “Distributed Multi-IRS-aided 6G Wireless Networks: Channel Characterization and Performance Analysis”
-(a book chapter in an upcoming book entitled “Intelligent Reconfigurable Surfaces (IRS) for Prospective 6G Wireless Networks” (9781119875253) edited by Muhammad Ali Imran Lina Mohjazi, Lina Bariah, Sami Muhaidat, Tei Jun Cui, and Qammer H. Abbasi, will be published by Wiley on 2022.)
+(a book chapter in an upcoming book entitled _“Intelligent Reconfigurable Surfaces (IRS) for Prospective 6G Wireless Networks”_ (9781119875253) edited by Muhammad Ali Imran Lina Mohjazi, Lina Bariah, Sami Muhaidat, Tei Jun Cui, and Qammer H. Abbasi, will be published by Wiley on 2022.)
 
-## Manuscripts in preparation
-T. N. Do, A. Pourranjbar, R. Mitra, G. Kaddoum, and G. Poitau
-“Deep Reinforcement Learning-enabled Anti-Reactive Jamming Strategies for Tactical Wireless Networks”
-(Paper completed, in finalizing to submit to IEEE Transactions on Communications).
+## Submitted Manuscripts
 
-T. L. Nguyen, T. N. Do, and G. Kaddoum
-“Performance Analysis of Multi-User NOMA Probabilistic Wireless Powered mMTC Networks in Stochastic Geometry”
-(Paper completed, in finalizing to submit to IEEE Transactions on Communications).
-
-H. Bouzabia, T. N. Do, and G. Kaddoum
-“Deep Learning-enabled Deceptive Jammer Detection for Low Probability of Intercept Communications”
-(Paper completed, in preparation to submitting to IEEE Systems Journal).
-
-## Ongoing Manuscripts
-T. L. Nguyen, T. N. Do, G. Kaddoum, D. B. da Costa, and Z. J. Haas
-“RIS-aided THz Communications with Stochastic User Orientation: Channel Modeling and Performance Analysis”
-(Results obtained, in preparation to submitting to IEEE Transactions on Vehicular Technology.)
-
-M. Rahim, T. N. Do, and G. Kaddoum
-“Matching Theory-based Node Deployment in RIS-aided THz Communication”
-(Ongoing manuscript).
-
-M. Ghous, T. N. Do, and G. Kaddoum
-“Transfer Learning-based Performance Prediction for RIS-aided URLLC”
-(Ongoing manuscript).
+T. L. Nguyen, T. N. Do, and G. Kaddoum,  
+“[Performance analysis of multi-user NOMA probabilistic wireless powered mMTC networks in stochastic geometry](https://arxiv.org/abs/2201.04784),”  
+(Submitted to IEEE Transactions on Communications).
 
 ## Published in 2021
-T. N. Do, G. Kaddoum, T. L. Nguyen, D. B. da Costa, Z. J. Haas
+
+T. N. Do, G. Kaddoum, T. L. Nguyen, D. B. da Costa, Z. J. Haas  
 “Multi-RIS-aided Wireless Systems: Statistical Characterization and Performance Analysis”
 IEEE Transactions on Communications, Dec. 2021.
 
