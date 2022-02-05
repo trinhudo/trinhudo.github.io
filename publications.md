@@ -55,9 +55,10 @@ T. L. Nguyen, T. N. Do, and G. Kaddoum,
 
 ## Published in 2021
 
-T. N. Do, G. Kaddoum, T. L. Nguyen, D. B. da Costa, Z. J. Haas  
-“Multi-RIS-aided Wireless Systems: Statistical Characterization and Performance Analysis”
-IEEE Transactions on Communications, Dec. 2021.
+- Tri Nhu Do, Georges Kaddoum, Thanh Luan Nguyen, Daniel Benevides da Costa, Zygmunt J. Haas, "[Multi-RIS-aided Wireless Systems: Statistical Characterization and Performance Analysis](https://github.com/trinhudo/Multi-RIS)," *IEEE Transactions on Communications*, Sep. 2021.
+
+- Kyusung Shim, Tri Nhu Do, Toan-Van Nguyen, Daniel Benevides da Costa, and Beongku An, "[Enhancing PHY-Security of FD-Enabled NOMA Systems Using Jamming and User Selection: Performance Analysis and DNN Evaluation](https://github.com/trinhudo/PHY_Security_NOMA_FD_DNN)," *IEEE Internet of Things Journal*, May 2021
+
 
 Code: Matlab code
 
