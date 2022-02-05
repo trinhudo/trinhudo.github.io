@@ -40,7 +40,7 @@
 
 # Publications
 
-## Book Chapter
+## Book Chapters
 
 T. N. Do, G. Kaddoum, and T. L. Nguyen
 “Distributed Multi-IRS-aided 6G Wireless Networks: Channel Characterization and Performance Analysis”
@@ -62,10 +62,7 @@ T. L. Nguyen, T. N. Do, and G. Kaddoum,
 
 ### Conference papers
 
-T. N. Do, G. Kaddoum, T. L. Nguyen, D. B. da Costa, and Z. J. Haas
-"Aerial Reconfigurable Intelligent Surface-Aided Wireless Communication Systems”
-in Proc. IEEE PIMRC, Helsinki, Finland, Sep. 2021.  
-Code: Matlab and Python code
+- Tri Nhu Do, Georges Kaddoum, Thanh Luan Nguyen, Daniel Benevides da Costa, and Zygmunt J. Haas, "[Aerial Reconfigurable Intelligent Surface-Aided Wireless Communication Systems](https://github.com/trinhudo/Aerial-RIS)," in *Proc. 2021 IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)*, Sep. 2021.
 
 ## Published in 2020
 
@@ -83,13 +80,9 @@ Code: Matlab and Python code
 
 ### Conference papers
 
-T. V. Nguyen, T. N. Do, V. N. Q. Bao, D. B. da Costa, and B. An
-“Performance Analysis of Multihop Cognitive WPCNs with Imperfect CSI”
-in Proc. IEEE GLOBECOM, Waikoloa, Hawaii, USA, Dec. 2019.
+- Toan-Van Nguyen, Tri Nhu Do, Vo Nguyen Quoc Bao, Daniel Benevides da Costa, and Beongku An, “[Performance Analysis of Multihop Cognitive WPCNs with Imperfect CSI](https://ieeexplore.ieee.org/document/9014208),” in *Proc. 2019 IEEE Global Communications Conference (GLOBECOM 2019)*, Waikoloa, Hawaii, USA, Dec. 2019.
 
-T. V. Nguyen, V.-D. Nguyen, T. N. Do, D. B. da Costa, and B. An
-“Spectral Efficiency Maximization for Multi-User MISO-NOMA Downlink Systems with SWIPT”
-in Proc. IEEE GLOBECOM, Waikoloa, Hawaii, USA, Dec. 2019.
+- Toan-Van Nguyen, Van-Dinh Nguyen, Tri Nhu Do, Daniel Benevides da Costa, and Beongku An, “[Spectral Efficiency Maximization for Multiuser MISO-NOMA Downlink Systems with SWIPT](https://ieeexplore.ieee.org/document/9014339),” in *Proc. 2019 IEEE Global Communications Conference (GLOBECOM 2019)*, Waikoloa, Hawaii, USA, Dec. 2019.
 
 ## Published in 2018
 
@@ -103,30 +96,15 @@ in Proc. IEEE GLOBECOM, Waikoloa, Hawaii, USA, Dec. 2019.
 
 ### Conference papers
 
-T. N. Do and B. An
-“Optimal Sum-Throughput Analysis for Downlink Cooperative SWIPT NOMA Systems”
-in Proc. IEEE SigTelCom, HCMC, Vietnam, Jan. 2018.
+- Kyusung Shim, Tri Nhu Do, Beongku An, "[Improving Physical Layer Security of NOMA Networks by Using Opportunistic Scheduling](https://ieeexplore.ieee.org/document/8436962/),” in *Proc. 2018 IEEE International Conference on Ubiquitous and Future Networks (ICUFN)*, Prague, Czech Republic, Jul. 2018, pp. 262-267. **_Best Paper Award_**
 
-Code: Matlab code
+- Kyusung Shim, Hyukchun Oh, Tri Nhu Do, Beongku An, "[A Physical Layer Security-Based Transmit Antenna Selection Scheme for NOMA Systems](https://ieeexplore.ieee.org/document/8436960/),” in *Proc. 2018 IEEE International Conference on Ubiquitous and Future Networks (ICUFN)*, Prague, Czech Republic, Jul. 2018, pp. 597-602.
 
-K. Shim, T. N. Do, B. An
-“Improving Physical Layer Security of NOMA Networks by Using Opportunistic Scheduling”
-in Proc. IEEE ICUFN, Prague, Czech Republic, Jul. 2018.
-Best Paper Award
+- Tri Nhu Do, and Beongku An, “[Optimal sum-throughput analysis for downlink cooperative SWIPT NOMA systems](https://ieeexplore.ieee.org/document/8325811),” in *Proc. 2018 IEEE International Conference on Recent Advances in Signal Processing, Telecommunications & Computing (SigTelCom)*, Ho Chi Minh city, Vietnam, Jan. 2018, pp. 85-90. ([MATLAB code](https://github.com/trinhudo))
 
-K. Shim, T. N. Do and B. An
-“A Physical Layer Security-based Routing Protocol in Mobile Ad-Hoc Wireless Networks”
-in Proc. IEEE ICACT, Gangwon-do, South Korea, Feb. 2018.
-Outstanding Paper Award
+- Kyusung Shim, Tri Nhu Do, Beongku An, and Sang-Yep Nam, “[A Wireless Power Transfer-based Routing Protocol for Heterogeneous Wireless Networks](https://scholarworks.bwise.kr/hongik/handle/2020.sw.hongik/6117),” in *Proc. 2018 International Conference on Green and Human Information Technology (ICGHIT)*, Chiang Mai, Thailand, Feb. 2018, pp. 75-79. **_Best Paper Award_**
 
-K. Shim, H. Oh, T. N. Do, B. An
-“A Physical Layer Security-based Transmit Antenna Selection Scheme for NOMA Systems”
-in Proc. IEEE ICUFN, Prague, Czech Republic, Jul. 2018.
-
-K. Shim, T. N. Do, B. An and S.-Y. Nam ,
-“A Wireless Power Transfer-based Routing Protocol for Heterogeneous Wireless Networks”
-in Proc. ICGHIT, Chiang Mai, Thailand, Feb. 2018.
-Best Paper Award
+- Kyusung Shim, Tri Nhu Do, and Beongku An, “[A physical layer security-based routing protocol in mobile ad-hoc wireless networks](https://ieeexplore.ieee.org/document/8323778),” in *Proc. 20th IEEE International Conference on Advanced Communications Technology (ICACT)*, Gangwon-do, South Korea, Feb. 2018, pp. 417-422. **_Outstanding Paper Award_**
 
 ## Published in 2017
 
