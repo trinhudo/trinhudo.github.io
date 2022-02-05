@@ -62,8 +62,8 @@ Hongik University, South Korea
 # Academic Services
 
 **Reviewer**
-- Exemplary Reviewer for the IEEE Transactions on Communications in 2020
-- Top reviewers in Computer Science (top 1% in Field) in 2018-2019 by Publons
+- [Exemplary Reviewer](https://www.comsoc.org/publications/journals/ieee-tcom/exemplary-reviewers) for the IEEE Transactions on Communications in 2020
+- [Top reviewers](https://publons.com/author/1242622/tri-nhu-do) in Computer Science (top 1% in Field) in 2018-2019
 
 **Technical Program Committee (TPC) Member**
 - WCNC, GLOBECOM, VTC, ANTS
