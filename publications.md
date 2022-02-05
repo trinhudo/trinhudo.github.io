@@ -54,9 +54,13 @@ T. L. Nguyen, T. N. Do, and G. Kaddoum,
 
 ## Published in 2021
 
+### Journal papers
+
 - Tri Nhu Do, Georges Kaddoum, Thanh Luan Nguyen, Daniel Benevides da Costa, Zygmunt J. Haas, "[Multi-RIS-aided Wireless Systems: Statistical Characterization and Performance Analysis](https://github.com/trinhudo/Multi-RIS)," *IEEE Transactions on Communications*, Sep. 2021.
 
 - Kyusung Shim, Tri Nhu Do, Toan-Van Nguyen, Daniel Benevides da Costa, and Beongku An, "[Enhancing PHY-Security of FD-Enabled NOMA Systems Using Jamming and User Selection: Performance Analysis and DNN Evaluation](https://github.com/trinhudo/PHY_Security_NOMA_FD_DNN)," *IEEE Internet of Things Journal*, May 2021.
+
+### Conference papers
 
 T. N. Do, G. Kaddoum, T. L. Nguyen, D. B. da Costa, and Z. J. Haas
 "Aerial Reconfigurable Intelligent Surface-Aided Wireless Communication Systems”
@@ -87,7 +91,7 @@ in Proc. IEEE GLOBECOM, Waikoloa, Hawaii, USA, Dec. 2019.
 
 - Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, and Beongku An, [Improving the performance of cell-edge users in MISO-NOMA systems using TAS and SWIPT-based cooperative transmissions](http://ieeexplore.ieee.org/document/8119901/),'' *IEEE Transactions on Green Communications and Networking*, vol. 2, no. 1, pp. 49-62, Mar. 2018. ([MATLAB code](https://github.com/trinhudo))
 
-- Nguyen Toan Van, Tri Nhu Do, Vo Nguyen Quoc Bao, and Beongku An, "[Performance analysis of wireless energy harvesting multihop cluster-based networks over Nakgami-$m$ fading channels](http://ieeexplore.ieee.org/document/8239782/)'' *IEEE Access*, vol. 6, pp. 3068-3084, Feb. 2018.
+- Nguyen Toan Van, Tri Nhu Do, Vo Nguyen Quoc Bao, and Beongku An, "[Performance analysis of wireless energy harvesting multihop cluster-based networks over Nakgami-m fading channels](http://ieeexplore.ieee.org/document/8239782/)'' *IEEE Access*, vol. 6, pp. 3068-3084, Feb. 2018.
 
 T. N. Do and B. An
 “Optimal Sum-Throughput Analysis for Downlink Cooperative SWIPT NOMA Systems”
@@ -114,22 +118,13 @@ K. Shim, T. N. Do, B. An and S.-Y. Nam ,
 in Proc. ICGHIT, Chiang Mai, Thailand, Feb. 2018.
 Best Paper Award
 
-Published in 2017
-T. N. Do, D. B. da Costa, T. Q. Duong, V. N. Q. Bao, and B. An
-“Exploiting Direct Links in Multiuser Multirelay SWIPT Cooperative Networks with Opportunistic Scheduling”
-IEEE Transactions on Wireless Communications, Aug. 2017.
+## Published in 2017
 
-Code: Matlab code
+- Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, Vo Nguyen Quoc Bao, and Beongku An, "[Exploiting direct links in multiuser multirelay SWIPT cooperative networks with opportunistic scheduling](http://ieeexplore.ieee.org/document/7945528/),'' *IEEE Transactions on Wireless Communications*, vol. 16, no. 8, pp. 5410-5427, Aug. 2017. ([MATLAB code](https://github.com/trinhudo))
 
-T. N. Do, D. B. da Costa, T. Q. Duong, and B. An
-“A BNBF User Selection Scheme for NOMA-based Cooperative Relaying Systems with SWIPT”
-IEEE Communications Letters, Mar. 2017.
+- Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, and Beongku An, "[A BNBF user selection scheme for NOMA-based cooperative relaying systems with SWIPT](http://ieeexplore.ieee.org/document/7752882/),'' *IEEE Communications Letters*, vol. 21, no. 3, pp. 664-667, Mar. 2017. ([MATLAB code](https://github.com/trinhudo))
 
-Code: Matlab code
-
-K. Shim, T. N. Do, and B. An
-“Performance Analysis of Physical Layer Security of Opportunistic Scheduling in Multi-User Multi-Relay Cooperative Networks”
-Sensors, Feb. 2017.
+- Kyusung Shim, Tri Nhu Do, and Beongku An, "[Performance analysis of physical layer security of opportunistic scheduling in multiuser multirelay cooperative networks](http://www.mdpi.com/1424-8220/17/2/377),'' *Sensors*, vol. 17, no. 2, pp. 377-396, Feb. 2017.
 
 T. N. Do, D. B. da Costa, T. Q. Duong, and B. An
 “A full-Duplex Cooperative Scheme with Distributed Switch-and-Stay Combining for NOMA Networks”
@@ -155,22 +150,12 @@ K. Shim, T. N. Do, and B. An
 “A Source Relay Selection Scheme for Physical Layer Security in Multi-User Multi-Relay Amplify-and-Forward Cooperative Networks”
 in Proc. ICGHIT, Hangzhou, China, Feb. 2017.
 
-Published in 2016
-T. N. Do, D. B. da Costa, and B. An
-“Performance Analysis of Multi-Relay RF Energy Harvesting Cooperative Networks with Hardware Impairments”
-IET Communications, Jun. 2016.
+## Published in 2016
 
-T. N. Do, V. N. Q. Bao, and B. An
-“Outage Performance Analysis of Relay Selection Schemes in Wireless Energy Harvesting Cooperative Networks over Non-Identical Rayleigh Fading Channels”
-Sensors, Feb. 2016.
+- Tri Nhu Do, Daniel Benevides da Costa, and Beongku An, "[Performance analysis of multirelay RF energy harvesting cooperative networks with hardware impairments](http://ieeexplore.ieee.org/document/7782117/),'' *IET Communications*, vol. 10, no. 18, pp. 2551-2558, Jun. 2016.
 
-K. Shim, T. N. Do, and B. An
-“An Analysis Modeling Architecture for Supporting Physical Layer Security of Wireless Networks under Hardware Impairments”
-International Journal of Security and Its Applications, 2016.
-
-K. Shim, T. N. Do, and B. An
-“The Impact of Hardware Impairments and Imperfect Channel State Information on Physical Layer Security”
-Journal of the Institute of Electronics and Information Engineers, Apr. 2016.
+- Tri Nhu Do, Vo Nguyen Quoc Bao, and Beongku An
+“[Outage Performance Analysis of Relay Selection Schemes in Wireless Energy Harvesting Cooperative Networks over Non-Identical Rayleigh Fading Channels](https://www.mdpi.com/1424-8220/16/3/295),” _Sensors_, vol. 16, no.3, pp. 295, Feb. 2016.
 
 T. N. Do, L. T. Dung, B. An and S.-Y. Nam
 “Connectivity of Hybrid Overlay/Underlay Cognitive Radio Ad Hoc Networks”
@@ -196,10 +181,9 @@ K. Shim, T. N. Do, and B. An
 “Physical Layer Security of Wireless Networks under Hardware Impairments”
 in Proc. ICGHIT, Angeles City, Philippines, Feb. 2016.
 
-Published in 2015
-T. N. Do and B. An
-“A Soft-Hard Combination-based Cooperative Spectrum Sensing Scheme for Cognitive Radio Networks”
-Sensors, Feb. 2015.
+## Published in 2015
+
+- Tri Nhu Do and Beongku An, "[A soft-hard combination-based cooperative spectrum sensing scheme for cognitive radio networks](http://www.mdpi.com/1424-8220/15/2/4388),'' *Sensors*, vol. 15, no. 2, pp. 4388-4407, Feb. 2015.
 
 T. N. Do and B. An
 “Secure Transmission using Decode-and-Forward Protocol for Underlay Cognitive Radio Networks”
@@ -237,10 +221,9 @@ T. N. Do and B. An
 “A Comparison of Neyman-Pearson and Minimum Sensing Error Criterions for Cooperative Spectrum Sensing in Cognitive Radio Networks”
 in Proc. ICGHIT, Da Nang, Vietnam, Feb. 2015.
 
-Published in 2014
-T. N. Do and B. An
-“Cooperative Spectrum Sensing Schemes with the Interference Constraint in Cognitive Radio Networks”
-Sensors, May 2014.
+## Published in 2014
+
+- Tri Nhu Do and Beongku An, "[Cooperative spectrum sensing schemes with the interference constraint in cognitive radio networks](http://www.mdpi.com/1424-8220/14/5/8037),'' *Sensors*, vol. 14, no. 5, pp. 8037-8056, May 2014.
 
 T. N. Do, B. An and K.-T. Lee,
 “A Cooperative Spectrum Sensing Scheme using the Concept of Underlay Cognitive Radio”
@@ -266,7 +249,8 @@ T. N. Do and B. An
 “Underlay Approach-based Soft Combination Schemes for Cooperative Spectrum Sensing in Cognitive Radio Networks”
 in Proc. ICGHIT, HCMC, Vietnam, Feb. 2014.
 
-Published in 2013
+## Published in 2013
+
 T. N. Do and B. An
 “Cooperative Spectrum Sensing in Cognitive Radio Networks under Interference Constraint”
 in Proc. IEEK Fall Conference, Seoul, South Korea, Nov. 2013.
