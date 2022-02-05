@@ -1,7 +1,8 @@
 **Postdoctoral Research Fellow**  
 Resilient Machine Learning Institute (ReMI)  
 École de Technologie Supérieure (ÉTS)  
-Université du Québec, Montreal, Canada  
+Université du Québec   
+Montreal, Canada  
 *Email:* `tri-nhu.do.1 (at) ens.etsmtl.ca`
 
 # Biography
@@ -10,48 +11,44 @@ Tri-Nhu Do earned the Bachelor's degree in Electronics and Telecommunications En
 
 # Education
 
-**Doctor of Philosophy (Ph.D.)** 
+**Doctor of Philosophy (Ph.D.)**, 2018   
 Electronics and Computer Engineering  
 Hongik University, South Korea  
 *Thesis:* Cooperative Transmission Schemes for Energy and Spectral Efficient Wireless Networks  
-*Supervisor:* Prof. Beongku An  
-2018 
+*Supervisor:* [Prof. Beongku An](http://unclab.hongik.ac.kr/professor.php)   
 
-Master of Science (M.S.)  
+**Master of Science (M.S.),** 2015     
 Electronics and Computer Engineering  
 Hongik University, South Korea  
-Thesis: Centralized Cooperative Spectrum Sensing Schemes for Cognitive Radio Networks  
-Advisor: Prof. Beongku An  
-2015  
+_Thesis_: Centralized Cooperative Spectrum Sensing Schemes for Cognitive Radio Networks  
+_Advisor_: [Prof. Beongku An](http://unclab.hongik.ac.kr/professor.php)    
 
-Bachelor of Engineering (B.Eng.)  
+**Bachelor of Engineering (B.Eng.)**, 2012     
 Electronics and Telecommunication Engineering  
 Posts and Telecommunications Institute of Technology, Vietnam  
-Thesis: A Study on Multiple-Input Multiple-Output (MIMO) Technique in Evolved High Speed Packet Access (HSPA+) Networks  
-Advisor: Prof. Vo Nguyen Quoc Bao  
-2012
+_Thesis_: A Study on Multiple-Input Multiple-Output (MIMO) Technique in Evolved High Speed Packet Access (HSPA+) Networks   
+_Advisor_: [Prof. Vo Nguyen Quoc Bao](https://sites.google.com/site/baovnq)  
 
 # Research Experiences
 
-**Postdoctoral Research Fellow**  
+**Postdoctoral Research Fellow**, 2020 to _present_       
 Resilient Machine Learning Institute (ReMI)  
 Department of Electrical Engineering  
 École de Technologie Supérieure (ÉTS)  
 Université du Québec, Montreal, Canada  
-Supervisor: Prof. Georges Kaddoum  
-2020 to present  
+_Supervisor_: [Prof. Georges Kaddoum](https://www.etsmtl.ca/Professeurs/gkaddoum/Accueil?lang=en-CA)  
 
 **Postdoctoral Research Associate**  
 Department of Computer Science  
 The University of Texas at Dallas, TX, USA  
-Supervisor: Prof. Zygmunt J. Haas
+Supervisor: [Prof. Zygmunt J. Haas](https://personal.utdallas.edu/~haas/)
 2019
 
 **Graduate Research Assistant**  
 Ubiquitous Networks & Convergence Laboratory (UNC Lab)  
 Department of Software and Communications Engineering  
 Hongik University, South Korea  
-Supervisor: Prof. Beongku An  
+Supervisor: [Prof. Beongku An](http://unclab.hongik.ac.kr/professor.php)  
 2013-2018
 
 # Teaching Experiences
