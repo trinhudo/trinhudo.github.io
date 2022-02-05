@@ -43,13 +43,11 @@ Department of Computer Science
 The University of Texas at Dallas, TX, USA  
 _Supervisor:_ [Prof. Zygmunt J. Haas](https://personal.utdallas.edu/~haas/)
 
-
-**Graduate Research Assistant**  
+**Graduate Research Assistant**, 2013-2018     
 Ubiquitous Networks & Convergence Laboratory (UNC Lab)  
 Department of Software and Communications Engineering  
 Hongik University, South Korea  
 _Supervisor:_ [Prof. Beongku An](http://unclab.hongik.ac.kr/professor.php)  
-2013-2018
 
 # Teaching Experiences
 
