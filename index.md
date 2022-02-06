@@ -4,7 +4,7 @@ Resilient Machine Learning Institute (ReMI)
 École de Technologie Supérieure (ÉTS)  
 Université du Québec   
 Montreal, Canada  
-*Email:* `tri-nhu.do.1 (at) ens.etsmtl.ca`
+*Email:* tri-nhu.do.1 (at) ens.etsmtl.ca
 
 # Biography
 
