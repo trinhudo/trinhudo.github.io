@@ -1,7 +1,7 @@
 # Tri-Nhu Do
 **Postdoctoral Research Fellow**  
-Resilient Machine Learning Institute (ReMI)  
-École de Technologie Supérieure (ÉTS)  
+[Resilient Machine Learning Institute (ReMI)](https://remi-institute.com/) 
+[École de Technologie Supérieure (ÉTS)](https://www.etsmtl.ca/) 
 Université du Québec   
 Montreal, Canada  
 *Email:* tri-nhu.do.1 (at) ens.etsmtl.ca
@@ -27,7 +27,7 @@ _Supervisor:_ [Prof. Beongku An](http://unclab.hongik.ac.kr/professor.php)
 **Bachelor of Engineering (B.Eng.)**, 2012     
 Electronics and Telecommunication Engineering  
 [Posts and Telecommunications Institute of Technology](http://hcm.ptit.edu.vn), Vietnam  
-_Thesis_: A Study on Multiple-Input Multiple-Output (MIMO) Technique in Evolved High Speed Packet Access (HSPA+) Networks   
+_Thesis_: A Study on Multiple-Input Multiple-Output (MIMO) Technique in Evolved High Speed Packet Access (HSPA+) Networks  
 _Supervisor:_ [Prof. Vo Nguyen Quoc Bao](https://sites.google.com/site/baovnq)  
 
 # Research Experiences
