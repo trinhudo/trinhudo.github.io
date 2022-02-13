@@ -47,6 +47,9 @@
 
 ## Submitted Manuscripts
 
+- Tri Nhu Do, Ali Pourranjbar, Rangeet Mitra, Georges Kaddoum, and Gwenael Poitau,
+“Deep reinforcement learning-enabled anti-reactive jamming strategies for tactical wireless networks” _(Submitted to IEEE Transactions on Communications)_
+
 - Thanh Luan Nguyen, Tri Nhu Do, and Georges Kaddoum, “[Performance analysis of multi-user NOMA probabilistic wireless powered mMTC networks in stochastic geometry](https://arxiv.org/abs/2201.04784),” _(Submitted to IEEE Transactions on Communications)_. ([MATLAB code](https://github.com/trinhudo)) 
 
 ## Published in 2021
