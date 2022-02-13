@@ -25,13 +25,13 @@
   - *Topic:* Generative Learning-enabled Jamming Detection in Tactical Wireless Networks
   - From 2021 to *present*
 
-- **Thanh Luan Nguyen**
+- **[Thanh Luan Nguyen](https://scholar.google.com/citations?user=5RuFP-IAAAAJ&hl=en)**
   - *Topic:* Performance Analysis of Wireless Communications: A Stochastic Approach
   - From 2020 to *present*
 
 *(under the supervision of Prof. Beongku An at Hongik University)*
 
-- **Kyusung Shim**
+- **[Kyusung Shim](https://scholar.google.com/citations?user=6mWz69sAAAAJ&hl=en)**
   - *Topic:* Physical Layer Security (PHY-Security) in Wireless Communications
   - From 2017 to 2021
   - *Current status:* Post-doc at Hongik University
