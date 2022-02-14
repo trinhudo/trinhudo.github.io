@@ -1,9 +1,13 @@
 # Research Interests
 
-- Wireless communications
-- Tactical wireless networks
-- Channel modeling and characterization
-- Machine learning and intelligent artificial
+- Wireless communications channel modeling and statistical characterization
+- Resource allocation and performance analysis of advanced wireless networks
+- Applied probability and statistics in wireless communications
+- Applied artificial intelligence and machine learning in wireless:
+	- Missing data reconstruction using generative learning for estimating sparse channel matrices, power allocation, and beamforming
+	- Generative learning-based latent distribution estimation for predicting wireless channel fading models and statistical characteristics
+	- Federated learning, transfer learning, and meta learning for signal detection and classification in distributed tactical wireless networks and typical wireless networks
+	- Reinforcement learning-enabled real-time reaction for jamming counterattacks in tactical wireless networks and resource allocation in typical wireless networks
 
 # PhD Student Mentoring
 
