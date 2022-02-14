@@ -50,6 +50,8 @@
 - Tri Nhu Do, Ali Pourranjbar, Rangeet Mitra, Georges Kaddoum, and Gwenael Poitau,
 “Deep Reinforcement Learning-enabled Anti-Reactive Jamming Strategies for Tactical Wireless Networks” _(Submitted to IEEE Transactions on Communications, the copyright of the manuscript belongs to [Ultra Intelligence & Communications](https://www.ultra.group/our-business-units/intelligence-communications/))_
 
+- Hamda Bouzabia, Tri Nhu Do, and Georges Kaddoum,"Deep Learning-enabled Deceptive Jammer Detection for Low Probability of Intercept Communications," _(Submitted to IEEE Systems Journal, the copyright of the manuscript belongs to [Ultra Intelligence & Communications](https://www.ultra.group/our-business-units/intelligence-communications/))_
+	
 - Thanh Luan Nguyen, Tri Nhu Do, and Georges Kaddoum, “[Performance Analysis of Multi-user NOMA Wireless-Powered mMTC Networks: A Stochastic Geometry Approach](https://arxiv.org/abs/2201.04784),” _(Submitted to IEEE Transactions on Communications)_. ([MATLAB code](https://github.com/trinhudo)) 
 
 ## Published in 2021
