@@ -3,7 +3,7 @@
 - Wireless communications channel modeling and statistical characterization
 - Resource allocation and performance analysis of advanced wireless networks
 - Applied probability and statistics in wireless communications
-- Applied artificial intelligence and machine learning in wireless:
+- Applied artificial intelligence and machine learning in wireless communications:
 	- Missing data reconstruction using generative learning for estimating sparse channel matrices, power allocation, and beamforming
 	- Generative learning-based latent distribution estimation for predicting wireless channel fading models and statistical characteristics
 	- Federated learning, transfer learning, and meta learning for signal detection and classification in distributed tactical wireless networks and typical wireless networks
