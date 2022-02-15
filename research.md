@@ -15,6 +15,8 @@
 	- Federated learning, transfer learning, and meta learning for signal detection and classification in distributed tactical wireless networks and typical wireless networks
 	- Reinforcement learning-enabled real-time reaction for jamming counterattacks in tactical wireless networks and resource allocation in typical wireless networks
 
+---
+
 # PhD Student Mentoring
 
 *(under the supervision of Prof. Georges Kaddoum at ETS)*
@@ -46,4 +48,4 @@
   - From 2017 to 2021
   - *Current status:* Post-doc at Hongik University
 
----
+[Home](./)
