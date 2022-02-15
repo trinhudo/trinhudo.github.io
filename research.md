@@ -1,8 +1,8 @@
 # Research Interests
 
-- Applied probability and statistics for wireless communications channel modeling and statistical characterization
+- Applied probability and statistics in wireless communications channel modeling and statistical characterization:
   - Estimation methods for estimating wireless channel fading models and statistical characteristics
-- Resource allocation and performance analysis of advanced wireless networks
+- Resource allocation and performance analysis of advanced wireless networks:
   - Reconfigurable intelligent surfaces
   - Non-terrestrial communications
   - Wireless powered communications
