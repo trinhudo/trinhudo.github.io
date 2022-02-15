@@ -1,54 +1,11 @@
-# Research Interests
-
-- Wireless communications channel modeling and statistical characterization
-- Resource allocation and performance analysis of advanced wireless networks
-- Applied probability and statistics in wireless communications:
-	- Estimation methods for estimating wireless channel fading models and statistical characteristics
-- Applied artificial intelligence and machine learning in wireless communications:
-	- Missing data reconstruction using generative learning for estimating sparse channel matrices, power allocation, and beamforming
-	- Generative learning-based latent distribution estimation for predicting wireless channel fading models and statistical characteristics
-	- Federated learning, transfer learning, and meta learning for signal detection and classification in distributed tactical wireless networks and typical wireless networks
-	- Reinforcement learning-enabled real-time reaction for jamming counterattacks in tactical wireless networks and resource allocation in typical wireless networks
-
-# PhD Student Mentoring
-
-*(under the supervision of Prof. Georges Kaddoum at ETS)*
-
-- **Aida Meftah** 
-  - *Topic:* Signal Calssification using Federated Learning (FL) in Tactical Wireless Networks
-  - From 2022 to *present*
-
-- **Mujtaba Ghous**
-  - *Topic:* Transfer Learning-enabled Ultra Reliable Low Latency Communication (URLLC) in Tactical Wireless Networks
-  - From 2021 to *present*
-
-- **Muddasir Rahim**
-  - *Topic:* Intelligent Reflecting Surface (IRS)-aided TeraHerzt (THz) Communications
-  - From 2021 to *present*
-
-- **Hamda Bouzabia**
-  - *Topic:* Generative Learning-enabled Jamming Detection in Tactical Wireless Networks
-  - From 2021 to *present*
-
-- **[Thanh Luan Nguyen](https://scholar.google.com/citations?user=5RuFP-IAAAAJ&hl=en)**
-  - *Topic:* Performance Analysis of Wireless Communications: A Stochastic Approach
-  - From 2020 to *present*
-
-*(under the supervision of Prof. Beongku An at Hongik University)*
-
-- **[Kyusung Shim](https://scholar.google.com/citations?user=6mWz69sAAAAJ&hl=en)**
-  - *Topic:* Physical Layer Security (PHY-Security) in Wireless Communications
-  - From 2017 to 2021
-  - *Current status:* Post-doc at Hongik University
-
----
-
 # Publications
 
 ## Book Chapters
 
 - Tri Nhu Do, Georges Kaddoum, and Thanh Luan Nguyen, “Distributed Multi-IRS-aided 6G Wireless Networks: Channel Characterization and Performance Analysis”
 (a book chapter in an upcoming book entitled _“Intelligent Reconfigurable Surfaces (IRS) for Prospective 6G Wireless Networks”_ (9781119875253) edited by Muhammad Ali Imran Lina Mohjazi, Lina Bariah, Sami Muhaidat, Tei Jun Cui, and Qammer H. Abbasi, will be published by Wiley on 2022.)
+
+---
 
 ## Submitted Manuscripts
 
@@ -58,6 +15,8 @@
 - Hamda Bouzabia, Tri Nhu Do, and Georges Kaddoum, "Deep Learning-enabled Deceptive Jammer Detection for Low Probability of Intercept Communications," _(Submitted to IEEE Systems Journal, the copyright of the manuscript belongs to [Ultra Intelligence & Communications](https://www.ultra.group/our-business-units/intelligence-communications/))_
 	
 - Thanh Luan Nguyen, Tri Nhu Do, and Georges Kaddoum, “[Performance Analysis of Multi-user NOMA Wireless-Powered mMTC Networks: A Stochastic Geometry Approach](https://arxiv.org/abs/2201.04784),” _(Submitted to IEEE Transactions on Communications)_. ([MATLAB code](https://github.com/trinhudo)) 
+
+---
 
 ## Published in 2021
 
@@ -71,6 +30,8 @@
 
 - Tri Nhu Do, Georges Kaddoum, Thanh Luan Nguyen, Daniel Benevides da Costa, and Zygmunt J. Haas, "[Aerial Reconfigurable Intelligent Surface-Aided Wireless Communication Systems](https://github.com/trinhudo/Aerial-RIS)," in *Proc. 2021 IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)*, Sep. 2021. ([MATLAB and Python code](https://github.com/trinhudo)) 
 
+---
+
 ## Published in 2020
 
 ### Journal papers
@@ -78,6 +39,8 @@
 - Tri Nhu Do and Zygmunt J. Haas, "[On the Design of RD-MIMO: Spatial Multiplexing versus Opportunistic Transmission Schemes](https://ieeexplore.ieee.org/document/8974614)," *IEEE Access*, vol. 8, pp. 22733-22747, Jan. 2020.
 
 - Toan Van Nguyen, Tri Nhu Do, Daniel Benevides da Costa, Vo Nguyen Quoc Bao, and Beongku An, "[On the Performance of Multihop Cognitive Wireless Powered D2D Communications in WSNs](https://ieeexplore.ieee.org/document/8949544)," *IEEE Transactions on Vehicular Technology*, vol. 69, no. 3, pp. 2684-2699, Mar. 2020
+
+---
 
 ## Published in 2019
 
@@ -90,6 +53,8 @@
 - Toan Van Nguyen, Tri Nhu Do, Vo Nguyen Quoc Bao, Daniel Benevides da Costa, and Beongku An, “[Performance Analysis of Multihop Cognitive WPCNs with Imperfect CSI](https://ieeexplore.ieee.org/document/9014208),” in *Proc. 2019 IEEE Global Communications Conference (GLOBECOM 2019)*, Waikoloa, Hawaii, USA, Dec. 2019.
 
 - Toan Van Nguyen, Van-Dinh Nguyen, Tri Nhu Do, Daniel Benevides da Costa, and Beongku An, “[Spectral Efficiency Maximization for Multiuser MISO-NOMA Downlink Systems with SWIPT](https://ieeexplore.ieee.org/document/9014339),” in *Proc. 2019 IEEE Global Communications Conference (GLOBECOM 2019)*, Waikoloa, Hawaii, USA, Dec. 2019.
+
+---
 
 ## Published in 2018
 
@@ -113,6 +78,8 @@
 
 - Kyusung Shim, Tri Nhu Do, and Beongku An, “[A physical layer security-based routing protocol in mobile ad-hoc wireless networks](https://ieeexplore.ieee.org/document/8323778),” in *Proc. 20th IEEE International Conference on Advanced Communications Technology (ICACT)*, Gangwon-do, South Korea, Feb. 2018, pp. 417-422. **_Outstanding Paper Award_**
 
+---
+
 ## Published in 2017
 
 ### Journal papers
@@ -134,6 +101,8 @@
 - Kyusung Shim, Tri Nhu Do, and Beongku An, "[Secure transmission under considering physical layer secure channel state information in mobile ad-hoc wireless](http://www.dbpia.co.kr/Article/NODE07219476),” in *Proc. 2017 The Institute of Electronics Engineers of Korea (IEEK) Summer Conference*, Busan, South Korea, Jun. 2017, pp. 1282-1283.
 
 - Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, Vo Nguyen Quoc Bao, and Beongku An, "[Opportunistic scheduling for fixed-gain amplify-and-forward-based multiuser multirelay SWIPT cooperative networks](http://ieeexplore.ieee.org/document/7849794/),” in *Proc. 2017 IEEE International Conference on Recent Advances in Signal Processing, Telecommunications & Computing (SigTelCom)*, Da Nang, Jan. 2017, pp. 49-54.
+
+---
 
 ## Published in 2016
 
@@ -159,6 +128,8 @@
 - Tri Nhu Do, Le The Dung, Beongku An, and Sang-Yep Nam, "[Connectivity of hybrid overlay/underlay cognitive radio ad hoc networks](http://ieeexplore.ieee.org/document/7562945/),” in *Proc. 2016 IEEE International Conference on Electronics, Information, and Communication (ICEIC)*, Da Nang, Vietnam, Jan. 2016, pp. 1-4.
 
 - K. Shim, Tri Nhu Do, Beongku An, and Sang-Yep Nam, "[Outage performance of physical layer security for multi-hop underlay cognitive radio networks with imperfect channel state information](http://ieeexplore.ieee.org/document/7562946/),” in *Proc. 2016 IEEE International Conference on Electronics, Information, and Communication (ICEIC)*, Da Nang, Vietnam, Jan. 2016, pp. 1-4.
+
+---
 
 ## Published in 2015
 
@@ -186,6 +157,8 @@
 
 - Tri Nhu Do and Beongku An, "[Hybrid cooperative spectrum sensing scheme for cognitive radio networks](http://ieeexplore.ieee.org/document/7057922/),” in *Proc. 2015 IEEE International Conference on Information Networking (ICOIN)*, Siem Reap, Cambodia, Jan. 2015, pp. 390-391.
 
+---
+
 ## Published in 2014
 
 ### Journal papers
@@ -205,6 +178,8 @@
 - Tri Nhu Do and Beongku An, "[Underlay approach-based soft combination schemes for cooperative spectrum sensing in cognitive radio networks](http://2014.icghit.org/data/icghit2014-program.pdf),” in *Proc. 2014 International Conference on Green and Human Information Technology (ICGHIT)*, Ho Chi Minh City, Vietnam, Feb. 2014, pp. 201-202.)
 
 - Tri Nhu Do, Beongku An, and Kyu-Tae Lee, [A cooperative spectrum sensing scheme using the concept of underlay cognitive radio](http://ieeexplore.ieee.org/document/6914441/),” in *Proc. 2014 IEEE International Conference on Electronics, Information, and Communication (ICEIC)*, Kota Kinabalu, Malaysia, Jan. 2014, pp. 1-3.
+
+---
 
 ## Published in 2013
 
