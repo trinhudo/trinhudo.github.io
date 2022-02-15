@@ -1,7 +1,10 @@
 # Research Interests
 
-- Applied probability and statistics in wireless communications channel modeling and statistical characterization:
-  - Estimation methods for estimating wireless channel fading models and statistical characteristics
+- Applied statistics and probability in wireless communications channel modeling and statistical characterization:
+	- Estimation methods for estimating wireless channel fading models and statistical characteristics
+	- Method of moments
+	- Likelihood ratio test and maximum likelihood estimation
+	- Bayes estimation method
 - Resource allocation and performance analysis of advanced wireless networks:
   - Reconfigurable intelligent surfaces
   - Non-terrestrial communications
