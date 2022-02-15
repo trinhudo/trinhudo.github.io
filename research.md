@@ -2,9 +2,9 @@
 
 - Applied statistics and probability in wireless communications channel modeling and statistical characterization:
 	- Estimation methods for estimating wireless channel fading models and statistical characteristics
-	- Method of moments
+	- Methods of moments estimation
 	- Likelihood ratio test and maximum likelihood estimation
-	- Bayes estimation method
+	- Bayes estimation methods
 - Resource allocation and performance analysis of advanced wireless networks:
   - Reconfigurable intelligent surfaces
   - Non-terrestrial communications
