@@ -8,7 +8,7 @@ Montreal, Canada
 
 # Biography
 
-Tri-Nhu Do was born and raised in Da Nang, Vietnam. He received a Bachelor’s degree in Electronics and Telecommunications Engineering from the Posts and Telecommunications Institute of Technology, Vietnam, in 2012 and the M.S. and Ph.D. degrees in Electronics and Computer Engineering from Hongik University, South Korea, in 2015 and 2018, respectively. He was a Teaching Associate with the Department of Software and Communications Engineering at Hongik University from 2017-2018. He was a Research Associate with the Department of Computer Science at the University of Texas at Dallas, TX, USA, in 2019. He is currently a Postdoctoral Research Fellow with the Department of Electrical Engineering at the Ecole de Technologie Superieure (ETS) at the University of Quebec, Montreal, Canada. His research interests include wireless communications and machine learning.
+Tri-Nhu Do was born and raised in Da Nang, Vietnam. He received a Bachelor’s degree in Electronics and Telecommunications Engineering from the Posts and Telecommunications Institute of Technology, Vietnam, in 2012 and the M.S. and Ph.D. degrees in Electronics and Computer Engineering from Hongik University, South Korea, in 2015 and 2018, respectively. He was a Teaching Associate with the Department of Software and Communications Engineering at Hongik University from 2017-2018. He was a Research Associate with the Department of Computer Science at the University of Texas at Dallas, TX, USA, in 2019. He is currently a Postdoctoral Research Fellow with the Department of Electrical Engineering at the École de technologie supérieure (ÉTS) at the University of Quebec, Montreal, Canada. His research interests include wireless communications and machine learning.
 
 ---
 
