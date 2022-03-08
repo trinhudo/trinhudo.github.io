@@ -9,6 +9,8 @@
 
 ## Submitted Manuscripts
 
+- Thanh Luan Nguyen, Tri Nhu Do, Georges Kaddoum, Daniel Benevides da Costa, and Zygmunt J. Haas, "Channel Characterization for RIS-aided Terahertz Communications: A Stochastic Approach," *(submitted to IEEE Wireless Communications Letters)*.
+
 - Tri Nhu Do, Ali Pourranjbar, Rangeet Mitra, Georges Kaddoum, and Gwenael Poitau,
 “Deep Reinforcement Learning-enabled Anti-Reactive Jamming Strategies for Tactical Wireless Networks” _(submitted to IEEE Transactions on Communications, the copyright of the manuscript belongs to [Ultra Intelligence & Communications](https://www.ultra.group/our-business-units/intelligence-communications/))_
 
@@ -22,7 +24,7 @@
 
 ### Journal papers
 
-- Tri Nhu Do, Georges Kaddoum, Thanh Luan Nguyen, Daniel Benevides da Costa, Zygmunt J. Haas, "[Multi-RIS-aided Wireless Systems: Statistical Characterization and Performance Analysis](https://github.com/trinhudo/Multi-RIS)," *IEEE Transactions on Communications*, Sep. 2021. ([MATLAB code](https://github.com/trinhudo)) 
+- Tri Nhu Do, Georges Kaddoum, Thanh Luan Nguyen, Daniel Benevides da Costa, and Zygmunt J. Haas, "[Multi-RIS-aided Wireless Systems: Statistical Characterization and Performance Analysis](https://github.com/trinhudo/Multi-RIS)," *IEEE Transactions on Communications*, Sep. 2021. ([MATLAB code](https://github.com/trinhudo)) 
 
 - Kyusung Shim, Tri Nhu Do, Toan Van Nguyen, Daniel Benevides da Costa, and Beongku An, "[Enhancing PHY-Security of FD-Enabled NOMA Systems Using Jamming and User Selection: Performance Analysis and DNN Evaluation](https://github.com/trinhudo/PHY_Security_NOMA_FD_DNN)," *IEEE Internet of Things Journal*, May 2021. ([MATLAB and Python code](https://github.com/trinhudo)) 
 
