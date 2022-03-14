@@ -10,7 +10,6 @@ Montreal, Canada
 
 Tri-Nhu Do was born in Da Nang, Vietnam. He received a Bachelor’s degree in Electronics and Telecommunications Engineering from the Posts and Telecommunications Institute of Technology, Vietnam, in 2012 and the M.S. and Ph.D. degrees in Electronics and Computer Engineering from Hongik University, South Korea, in 2015 and 2018, respectively. He was a Teaching Associate with the Department of Software and Communications Engineering at Hongik University from 2017-2018. He was a Research Associate with the Department of Computer Science at the University of Texas at Dallas, TX, USA, in 2019. He is currently a Postdoctoral Research Fellow with the Department of Electrical Engineering at the École de technologie supérieure (ÉTS) at the University of Quebec, Montreal, Canada. His research interests include wireless communications and machine learning.
 
----
 
 # Education
 
@@ -32,7 +31,6 @@ Electronics and Telecommunication Engineering
 _Thesis_: A Study on Multiple-Input Multiple-Output (MIMO) Technique in Evolved High Speed Packet Access (HSPA+) Networks  
 _Supervisor:_ [Prof. Vo Nguyen Quoc Bao](https://sites.google.com/site/baovnq)  
 
----
 
 # Research Experiences
 
@@ -54,7 +52,6 @@ Department of Software and Communications Engineering
 [Hongik University](http://www.hongik.ac.kr/index.do), South Korea  
 _Supervisor:_ [Prof. Beongku An](http://unclab.hongik.ac.kr/professor.php)  
 
----
 
 # Research Interests
 
@@ -76,7 +73,6 @@ _Supervisor:_ [Prof. Beongku An](http://unclab.hongik.ac.kr/professor.php)
 	- Federated learning, transfer learning, and meta learning for signal detection and classification in distributed tactical wireless networks and typical wireless networks
 	- Reinforcement learning-enabled real-time reaction for jamming counterattacks in tactical wireless networks and resource allocation in typical wireless networks
 
----
 
 # PhD Student Mentoring
 
@@ -109,7 +105,7 @@ _Supervisor:_ [Prof. Beongku An](http://unclab.hongik.ac.kr/professor.php)
   - From 2017 to 2021
   - *Current status:* Post-doc at Hongik University
 
---- 
+
 # Teaching Experiences
 
 **Teaching Associate**  
