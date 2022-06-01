@@ -20,7 +20,9 @@
 ## Published in 2022
 
 ### Journal papers
-- Hamda Bouzabia, Tri Nhu Do, and Georges Kaddoum, "Deep Learning-enabled Deceptive Jammer Detection for Low Probability of Intercept Communications," *IEEE Systems Journal*, May 2022
+- Hamda Bouzabia, Tri Nhu Do, and Georges Kaddoum, "Deep Learning-enabled Deceptive Jammer Detection for Low Probability of Intercept Communications," *IEEE Systems Journal*, May 2022.
+
+---
 
 ## Published in 2021
 
