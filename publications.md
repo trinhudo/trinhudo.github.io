@@ -9,7 +9,9 @@
 
 ## Submitted Manuscripts
 
-- Thanh Luan Nguyen, Tri Nhu Do, Georges Kaddoum, Daniel Benevides da Costa, and Zygmunt J. Haas, "Channel Characterization for RIS-aided Terahertz Communications: A Stochastic Approach," *(submitted to IEEE Wireless Communications Letters)*.
+- Muddasir Rahim, Tri Nhu Do, and Georges Kaddoum, "Matching Theory-based Deployment of Intelligent Reconfigurable Surface-aided Terahertz Networks," *(submitted to IEEE Transactions on Vehicular Technology)*.
+
+- Thanh Luan Nguyen, Tri Nhu Do, Georges Kaddoum, Daniel Benevides da Costa, and Zygmunt J. Haas, "Channel Characterization for RIS-aided Terahertz Communications: A Stochastic Approach," *(submitted to IEEE Wireless Communications Letters, minor revision)*.
 
 - Tri Nhu Do, Ali Pourranjbar, Rangeet Mitra, Georges Kaddoum, and Gwenael Poitau,
 “Deep Reinforcement Learning-enabled Anti-Reactive Jamming Strategies for Tactical Wireless Networks” _(submitted to IEEE Transactions on Communications, the copyright of the manuscript belongs to [Ultra Intelligence & Communications](https://www.ultra.group/our-business-units/intelligence-communications/))_
