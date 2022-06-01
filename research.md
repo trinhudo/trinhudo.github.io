@@ -1,22 +1,8 @@
 # Research Interests
 
-- Applied statistics and probability in wireless communications channel modeling and statistical characterization:
-	- Estimation methods for estimating wireless channel fading models and statistical characteristics
-	- Method of moments estimation
-	- Likelihood ratio test and maximum likelihood estimation
-	- Bayes estimation methods
-- Resource allocation and performance analysis of advanced wireless networks:
-  - Reconfigurable intelligent surfaces
-  - Non-terrestrial communications
-  - Wireless powered communications
-  - Multiple access techniques
-  - Secure communications
-  - Ultra reliable and low latency communications
-- Applied artificial intelligence and machine learning in wireless communications:
-	- Missing data reconstruction using generative learning for estimating sparse channel matrices, power allocation, and beamforming
-	- Generative learning-based latent distribution estimation for predicting wireless channel fading models and statistical characteristics
-	- Federated learning, transfer learning, and meta learning for signal detection and classification in distributed tactical wireless networks and typical wireless networks
-	- Reinforcement learning-enabled real-time reaction for jamming counterattacks in tactical wireless networks and resource allocation in typical wireless networks
+- Applied statistics and probability in wireless communications channel modeling and statistical characterization
+- Resource allocation and performance analysis of wireless networks
+- Applied artificial intelligence and machine learning in wireless communications
 
 ---
 
