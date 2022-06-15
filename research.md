@@ -6,7 +6,7 @@
 
 ---
 
-# PhD Student Mentoring
+# PhD Students
 
 *(under the supervision of Prof. Georges Kaddoum at ETS)*
 
