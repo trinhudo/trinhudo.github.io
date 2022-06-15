@@ -8,7 +8,7 @@
 
 # PhD Students
 
-*(under the supervision of Prof. Georges Kaddoum at ETS)*
+*(Co-supervise with Prof. Georges Kaddoum at ETS)*
 
 - **Aida Meftah** 
   - *Topic:* Signal Calssification using Federated Learning (FL) in Tactical Wireless Networks
@@ -26,11 +26,5 @@
   - *Topic:* Generative Learning-enabled Jamming Detection in Tactical Wireless Networks
   - From 2021 to *present*
 
-*(under the supervision of Prof. Beongku An at Hongik University)*
-
-- **[Kyusung Shim](https://scholar.google.com/citations?user=6mWz69sAAAAJ&hl=en)**
-  - *Topic:* Physical Layer Security (PHY-Security) in Wireless Communications
-  - From 2017 to 2021
-  - *Current status:* Post-doc at Hongik University
 
 [Home](./)
