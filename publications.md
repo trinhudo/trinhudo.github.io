@@ -11,12 +11,12 @@
 
 - Muddasir Rahim, Tri Nhu Do, and Georges Kaddoum, "Matching Theory-based Deployment of Intelligent Reconfigurable Surface-aided Terahertz Networks," *(submitted to IEEE Transactions on Vehicular Technology)*.
 
-- Thanh Luan Nguyen, Tri Nhu Do, Georges Kaddoum, Daniel Benevides da Costa, and Zygmunt J. Haas, "Channel Characterization for RIS-aided Terahertz Communications: A Stochastic Approach," *(submitted to IEEE Wireless Communications Letters, minor revision)*.
-
 - Tri Nhu Do, Ali Pourranjbar, Rangeet Mitra, Georges Kaddoum, and Gwenael Poitau,
-“Deep Reinforcement Learning-enabled Anti-Reactive Jamming Strategies for Tactical Wireless Networks” _(submitted to IEEE Transactions on Communications, the copyright of the manuscript belongs to [Ultra Intelligence & Communications](https://www.ultra.group/our-business-units/intelligence-communications/))_
-	
-- Thanh Luan Nguyen, Tri Nhu Do, and Georges Kaddoum, “[Performance Analysis of Multi-user NOMA Wireless-Powered mMTC Networks: A Stochastic Geometry Approach](https://arxiv.org/abs/2201.04784),” _(submitted to IEEE Transactions on Communications)_. ([MATLAB code](https://github.com/trinhudo)) 
+“Deep Reinforcement Learning-enabled Anti-Reactive Jamming Strategies for Tactical Wireless Networks” _(submitted to IEEE Transactions on Communications)_
+
+- Thanh Luan Nguyen, Tri Nhu Do, and Georges Kaddoum, “[Performance Analysis of Multi-user NOMA Wireless-Powered mMTC Networks: A Stochastic Geometry Approach](https://arxiv.org/abs/2201.04784),” _(submitted to IEEE Transactions on Communications, under Major Revision)_. ([MATLAB code](https://github.com/trinhudo)) 
+
+- Thanh Luan Nguyen, Tri Nhu Do, Georges Kaddoum, Daniel Benevides da Costa, and Zygmunt J. Haas, "Channel Characterization for RIS-aided Terahertz Communications: A Stochastic Approach," *(submitted to IEEE Wireless Communications Letters, minor revision)*.
 
 ---
 ## Published in 2022
