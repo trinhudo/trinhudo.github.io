@@ -9,9 +9,6 @@
 
 ## Submitted Manuscripts
 
-- Tri Nhu Do, Ali Pourranjbar, Rangeet Mitra, Georges Kaddoum, and Gwenael Poitau,
-"Deep Reinforcement Learning-enabled Anti-Reactive Jamming Strategies for Tactical Wireless Networks," _submitted to IEEE Transactions on Communications._
-
 - Muddasir Rahim, Tri Nhu Do, and Georges Kaddoum, "Matching Theory-based Deployment of Intelligent Reconfigurable Surface-aided Terahertz Networks," _submitted to IEEE Transactions on Vehicular Technology._
 
 - Thanh Luan Nguyen, Tri Nhu Do, and Georges Kaddoum, "[Performance Analysis of Multi-user NOMA Wireless-Powered mMTC Networks: A Stochastic Geometry Approach](https://arxiv.org/abs/2201.04784)," _submitted to IEEE Transactions on Communications, under Major Revision._ [MATLAB code](https://github.com/trinhudo/mMTC-NOMA) 
@@ -19,7 +16,6 @@
 - Hamda Bouzabia, Georges Kaddoum, and Tri Nhu Do, "Deep Learning-based Interference Detection and Classification for LPI/LPD Radar Systems," _submitted to Military Communications Conference (MILCOM 2022)._
 
 - Aida Meftah, Georges Kaddoum, and Tri Nhu Do, "Federated Learning-based Jamming Detection for Distributed Tactical Wireless Networks," _submitted to Military Communications Conference (MILCOM 2022)._
-
 
 ---
 ## Published in 2022
