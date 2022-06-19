@@ -16,12 +16,15 @@
 
 - Thanh Luan Nguyen, Tri Nhu Do, and Georges Kaddoum, “[Performance Analysis of Multi-user NOMA Wireless-Powered mMTC Networks: A Stochastic Geometry Approach](https://arxiv.org/abs/2201.04784),” _(submitted to IEEE Transactions on Communications, under Major Revision)_. ([MATLAB code](https://github.com/trinhudo)) 
 
-- Thanh Luan Nguyen, Tri Nhu Do, Georges Kaddoum, Daniel Benevides da Costa, and Zygmunt J. Haas, "Channel Characterization for RIS-aided Terahertz Communications: A Stochastic Approach," *(submitted to IEEE Wireless Communications Letters, minor revision)*.
 
 ---
 ## Published in 2022
 
 ### Journal papers
+
+- Thanh Luan Nguyen, Tri Nhu Do, Georges Kaddoum, Daniel Benevides da Costa, and Zygmunt J. Haas, "Channel Characterization for RIS-aided Terahertz Communications: A Stochastic Approach," _IEEE Wireless Communications Letters_, Jun. 2022. [MATLAB code](https://github.com/trinhudo/THz-RIS-Stochastic)
+
+
 - Hamda Bouzabia, Tri Nhu Do, and Georges Kaddoum, "[Deep Learning-enabled Deceptive Jammer Detection for Low Probability of Intercept Communications](https://ieeexplore.ieee.org/document/9795207)," *IEEE Systems Journal*, May 2022.
 
 ---
