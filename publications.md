@@ -20,8 +20,6 @@
 ---
 ## Published in 2022
 
-### Journal papers
-
 - Thanh Luan Nguyen, Tri Nhu Do, Georges Kaddoum, Daniel Benevides da Costa, and Zygmunt J. Haas, "Channel Characterization for RIS-aided Terahertz Communications: A Stochastic Approach," _IEEE Wireless Communications Letters_, Jun. 2022. ([MATLAB code](https://github.com/trinhudo/THz-RIS-Stochastic))
 
 - Hamda Bouzabia, Tri Nhu Do, and Georges Kaddoum, "[Deep Learning-enabled Deceptive Jammer Detection for Low Probability of Intercept Communications](https://ieeexplore.ieee.org/document/9795207)," *IEEE Systems Journal*, May 2022.
@@ -30,21 +28,15 @@
 
 ## Published in 2021
 
-### Journal papers
-
 - Tri Nhu Do, Georges Kaddoum, Thanh Luan Nguyen, Daniel Benevides da Costa, and Zygmunt J. Haas, "[Multi-RIS-aided Wireless Systems: Statistical Characterization and Performance Analysis](https://github.com/trinhudo/Multi-RIS)," *IEEE Transactions on Communications*, Sep. 2021. ([MATLAB code](https://github.com/trinhudo)) 
 
-- Kyusung Shim, Tri Nhu Do, Toan Van Nguyen, Daniel Benevides da Costa, and Beongku An, "[Enhancing PHY-Security of FD-Enabled NOMA Systems Using Jamming and User Selection: Performance Analysis and DNN Evaluation](https://github.com/trinhudo/PHY_Security_NOMA_FD_DNN)," *IEEE Internet of Things Journal*, May 2021. ([MATLAB and Python code](https://github.com/trinhudo)) 
-
-### Conference papers
-
 - Tri Nhu Do, Georges Kaddoum, Thanh Luan Nguyen, Daniel Benevides da Costa, and Zygmunt J. Haas, "[Aerial Reconfigurable Intelligent Surface-Aided Wireless Communication Systems](https://github.com/trinhudo/Aerial-RIS)," in *Proc. 2021 IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)*, Sep. 2021. ([MATLAB and Python code](https://github.com/trinhudo)) 
+
+- Kyusung Shim, Tri Nhu Do, Toan Van Nguyen, Daniel Benevides da Costa, and Beongku An, "[Enhancing PHY-Security of FD-Enabled NOMA Systems Using Jamming and User Selection: Performance Analysis and DNN Evaluation](https://github.com/trinhudo/PHY_Security_NOMA_FD_DNN)," *IEEE Internet of Things Journal*, May 2021. ([MATLAB and Python code](https://github.com/trinhudo)) 
 
 ---
 
 ## Published in 2020
-
-### Journal papers
 
 - Tri Nhu Do and Zygmunt J. Haas, "[On the Design of RD-MIMO: Spatial Multiplexing versus Opportunistic Transmission Schemes](https://ieeexplore.ieee.org/document/8974614)," *IEEE Access*, vol. 8, pp. 22733-22747, Jan. 2020.
 
@@ -54,11 +46,7 @@
 
 ## Published in 2019
 
-### Journal papers
-
 - Tri Nhu Do, Van-Dinh Nguyen, Oh-Soon Shin and Beongku An, “[Simultaneous Uplink and Downlink Transmissions for Wireless Powered Communication Networks ](https://ieeexplore.ieee.org/document/8565946),'' *IEEE Communications Letters*, vol. 23, no. 2, pp. 374-377, Feb. 2019. ([MATLAB code](https://github.com/trinhudo)) 
-
-### Conference papers
 
 - Toan Van Nguyen, Tri Nhu Do, Vo Nguyen Quoc Bao, Daniel Benevides da Costa, and Beongku An, “[Performance Analysis of Multihop Cognitive WPCNs with Imperfect CSI](https://ieeexplore.ieee.org/document/9014208),” in *Proc. 2019 IEEE Global Communications Conference (GLOBECOM 2019)*, Waikoloa, Hawaii, USA, Dec. 2019.
 
@@ -68,21 +56,17 @@
 
 ## Published in 2018
 
-### Journal papers
-
 - Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, and Beongku An, "[Improving the Performance of Cell-Edge Users in NOMA Systems Using Cooperative Relaying](https://ieeexplore.ieee.org/document/8267052/),'' *IEEE Transactions on Communications*, vol. 66, no. 5, pp. 1883-1901, May 2018. ([MATLAB code](https://github.com/trinhudo))
 
 - Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, and Beongku An, [Improving the performance of cell-edge users in MISO-NOMA systems using TAS and SWIPT-based cooperative transmissions](http://ieeexplore.ieee.org/document/8119901/),'' *IEEE Transactions on Green Communications and Networking*, vol. 2, no. 1, pp. 49-62, Mar. 2018. ([MATLAB code](https://github.com/trinhudo))
 
-- Toan Van Nguyen, Tri Nhu Do, Vo Nguyen Quoc Bao, and Beongku An, "[Performance analysis of wireless energy harvesting multihop cluster-based networks over Nakgami-m fading channels](http://ieeexplore.ieee.org/document/8239782/)'' *IEEE Access*, vol. 6, pp. 3068-3084, Feb. 2018.
+- Tri Nhu Do, and Beongku An, “[Optimal sum-throughput analysis for downlink cooperative SWIPT NOMA systems](https://ieeexplore.ieee.org/document/8325811),” in *Proc. 2018 IEEE International Conference on Recent Advances in Signal Processing, Telecommunications & Computing (SigTelCom)*, Ho Chi Minh city, Vietnam, Jan. 2018, pp. 85-90. ([MATLAB code](https://github.com/trinhudo))
 
-### Conference papers
+- Toan Van Nguyen, Tri Nhu Do, Vo Nguyen Quoc Bao, and Beongku An, "[Performance analysis of wireless energy harvesting multihop cluster-based networks over Nakgami-m fading channels](http://ieeexplore.ieee.org/document/8239782/)'' *IEEE Access*, vol. 6, pp. 3068-3084, Feb. 2018.
 
 - Kyusung Shim, Tri Nhu Do, Beongku An, "[Improving Physical Layer Security of NOMA Networks by Using Opportunistic Scheduling](https://ieeexplore.ieee.org/document/8436962/),” in *Proc. 2018 IEEE International Conference on Ubiquitous and Future Networks (ICUFN)*, Prague, Czech Republic, Jul. 2018, pp. 262-267. **_Best Paper Award_**
 
 - Kyusung Shim, Hyukchun Oh, Tri Nhu Do, Beongku An, "[A Physical Layer Security-Based Transmit Antenna Selection Scheme for NOMA Systems](https://ieeexplore.ieee.org/document/8436960/),” in *Proc. 2018 IEEE International Conference on Ubiquitous and Future Networks (ICUFN)*, Prague, Czech Republic, Jul. 2018, pp. 597-602.
-
-- Tri Nhu Do, and Beongku An, “[Optimal sum-throughput analysis for downlink cooperative SWIPT NOMA systems](https://ieeexplore.ieee.org/document/8325811),” in *Proc. 2018 IEEE International Conference on Recent Advances in Signal Processing, Telecommunications & Computing (SigTelCom)*, Ho Chi Minh city, Vietnam, Jan. 2018, pp. 85-90. ([MATLAB code](https://github.com/trinhudo))
 
 - Kyusung Shim, Tri Nhu Do, Beongku An, and Sang-Yep Nam, “[A Wireless Power Transfer-based Routing Protocol for Heterogeneous Wireless Networks](https://scholarworks.bwise.kr/hongik/handle/2020.sw.hongik/6117),” in *Proc. 2018 International Conference on Green and Human Information Technology (ICGHIT)*, Chiang Mai, Thailand, Feb. 2018, pp. 75-79. **_Best Paper Award_**
 
@@ -92,15 +76,9 @@
 
 ## Published in 2017
 
-### Journal papers
-
 - Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, Vo Nguyen Quoc Bao, and Beongku An, "[Exploiting direct links in multiuser multirelay SWIPT cooperative networks with opportunistic scheduling](http://ieeexplore.ieee.org/document/7945528/),'' *IEEE Transactions on Wireless Communications*, vol. 16, no. 8, pp. 5410-5427, Aug. 2017. ([MATLAB code](https://github.com/trinhudo))
 
 - Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, and Beongku An, "[A BNBF user selection scheme for NOMA-based cooperative relaying systems with SWIPT](http://ieeexplore.ieee.org/document/7752882/),'' *IEEE Communications Letters*, vol. 21, no. 3, pp. 664-667, Mar. 2017. ([MATLAB code](https://github.com/trinhudo))
-
-- Kyusung Shim, Tri Nhu Do, and Beongku An, "[Performance analysis of physical layer security of opportunistic scheduling in multiuser multirelay cooperative networks](http://www.mdpi.com/1424-8220/17/2/377),'' *Sensors*, vol. 17, no. 2, pp. 377-396, Feb. 2017.
-
-### Conference papers
 
 - Tri Nhu Do and Beongku An, "[Finding optimal power splitting ratio for cooperative SWIPT NOMA systems](http://www.iconi.org/portal/contents.do?menuNo=100274),” in *Proc. KSII The 9th International Conference on Internet (ICONI)*, Vientiane, Laos, Dec. 2017, pp. 135-136.
 
@@ -108,9 +86,11 @@
 	
 - Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, and Beongku An, "[Transmit antenna selection schemes for MISO-NOMA cooperative downlink transmissions with hybrid SWIPT protocol](http://ieeexplore.ieee.org/document/7997005/),” in *Proc. 2017 IEEE International Conference on Communications (ICC)*, Paris, France, May 2017, pp. 1-6.
 
-- Kyusung Shim, Tri Nhu Do, and Beongku An, "[Secure transmission under considering physical layer secure channel state information in mobile ad-hoc wireless](http://www.dbpia.co.kr/Article/NODE07219476),” in *Proc. 2017 The Institute of Electronics Engineers of Korea (IEEK) Summer Conference*, Busan, South Korea, Jun. 2017, pp. 1282-1283.
-
 - Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, Vo Nguyen Quoc Bao, and Beongku An, "[Opportunistic scheduling for fixed-gain amplify-and-forward-based multiuser multirelay SWIPT cooperative networks](http://ieeexplore.ieee.org/document/7849794/),” in *Proc. 2017 IEEE International Conference on Recent Advances in Signal Processing, Telecommunications & Computing (SigTelCom)*, Da Nang, Jan. 2017, pp. 49-54.
+
+- Kyusung Shim, Tri Nhu Do, and Beongku An, "[Performance analysis of physical layer security of opportunistic scheduling in multiuser multirelay cooperative networks](http://www.mdpi.com/1424-8220/17/2/377),'' *Sensors*, vol. 17, no. 2, pp. 377-396, Feb. 2017.
+
+- Kyusung Shim, Tri Nhu Do, and Beongku An, "[Secure transmission under considering physical layer secure channel state information in mobile ad-hoc wireless](http://www.dbpia.co.kr/Article/NODE07219476),” in *Proc. 2017 The Institute of Electronics Engineers of Korea (IEEK) Summer Conference*, Busan, South Korea, Jun. 2017, pp. 1282-1283.
 
 ---
 
