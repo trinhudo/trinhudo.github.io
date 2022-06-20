@@ -10,6 +10,9 @@
 
 *(Co-supervise with Prof. Georges Kaddoum at ETS)*
 
+- **Thanh Luan Nguyen** 
+  - (will be joining ETS on Sept. 2022)
+
 - **Aida Meftah** 
   - *Topic:* Signal Calssification using Federated Learning (FL) in Tactical Wireless Networks
   - From 2022 to *present*
