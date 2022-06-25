@@ -18,7 +18,7 @@
 - Aida Meftah, Georges Kaddoum, and Tri Nhu Do, "Federated Learning-based Jamming Detection for Distributed Tactical Wireless Networks," _submitted to Military Communications Conference (MILCOM 2022)._
 
 ---
-## Published in 2022
+## 2022
 
 - Thanh Luan Nguyen, Tri Nhu Do, Georges Kaddoum, Daniel Benevides da Costa, and Zygmunt J. Haas, "[Channel Characterization for RIS-aided Terahertz Communications: A Stochastic Approach](https://ieeexplore.ieee.org/document/9805798)," _IEEE Wireless Communications Letters_, Jun. 2022. ([MATLAB code](https://github.com/trinhudo/THz-RIS-Stochastic))
 
@@ -26,7 +26,7 @@
 
 ---
 
-## Published in 2021
+## 2021
 
 - Tri Nhu Do, Georges Kaddoum, Thanh Luan Nguyen, Daniel Benevides da Costa, and Zygmunt J. Haas, "[Multi-RIS-aided Wireless Systems: Statistical Characterization and Performance Analysis](https://github.com/trinhudo/Multi-RIS)," *IEEE Transactions on Communications*, Sep. 2021. ([MATLAB code](https://github.com/trinhudo)) 
 
@@ -36,7 +36,7 @@
 
 ---
 
-## Published in 2020
+## 2020
 
 - Tri Nhu Do and Zygmunt J. Haas, "[On the Design of RD-MIMO: Spatial Multiplexing versus Opportunistic Transmission Schemes](https://ieeexplore.ieee.org/document/8974614)," *IEEE Access*, vol. 8, pp. 22733-22747, Jan. 2020.
 
@@ -44,7 +44,7 @@
 
 ---
 
-## Published in 2019
+## 2019
 
 - Tri Nhu Do, Van-Dinh Nguyen, Oh-Soon Shin and Beongku An, “[Simultaneous Uplink and Downlink Transmissions for Wireless Powered Communication Networks ](https://ieeexplore.ieee.org/document/8565946),'' *IEEE Communications Letters*, vol. 23, no. 2, pp. 374-377, Feb. 2019. ([MATLAB code](https://github.com/trinhudo)) 
 
@@ -54,7 +54,7 @@
 
 ---
 
-## Published in 2018
+## 2018
 
 - Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, and Beongku An, "[Improving the Performance of Cell-Edge Users in NOMA Systems Using Cooperative Relaying](https://ieeexplore.ieee.org/document/8267052/),'' *IEEE Transactions on Communications*, vol. 66, no. 5, pp. 1883-1901, May 2018. ([MATLAB code](https://github.com/trinhudo))
 
@@ -74,7 +74,7 @@
 
 ---
 
-## Published in 2017
+## 2017
 
 - Tri Nhu Do, Daniel Benevides da Costa, Trung Q. Duong, Vo Nguyen Quoc Bao, and Beongku An, "[Exploiting direct links in multiuser multirelay SWIPT cooperative networks with opportunistic scheduling](http://ieeexplore.ieee.org/document/7945528/),'' *IEEE Transactions on Wireless Communications*, vol. 16, no. 8, pp. 5410-5427, Aug. 2017. ([MATLAB code](https://github.com/trinhudo))
 
@@ -94,16 +94,14 @@
 
 ---
 
-## Published in 2016
-
-### Journal papers
+## 2016
 
 - Tri Nhu Do, Daniel Benevides da Costa, and Beongku An, "[Performance analysis of multirelay RF energy harvesting cooperative networks with hardware impairments](http://ieeexplore.ieee.org/document/7782117/),'' *IET Communications*, vol. 10, no. 18, pp. 2551-2558, Jun. 2016.
 
 - Tri Nhu Do, Vo Nguyen Quoc Bao, and Beongku An
 “[Outage Performance Analysis of Relay Selection Schemes in Wireless Energy Harvesting Cooperative Networks over Non-Identical Rayleigh Fading Channels](https://www.mdpi.com/1424-8220/16/3/295),” _Sensors_, vol. 16, no.3, pp. 295, Feb. 2016.
 
-### Conference papers
+- Tri Nhu Do, Le The Dung, Beongku An, and Sang-Yep Nam, "[Connectivity of hybrid overlay/underlay cognitive radio ad hoc networks](http://ieeexplore.ieee.org/document/7562945/),” in *Proc. 2016 IEEE International Conference on Electronics, Information, and Communication (ICEIC)*, Da Nang, Vietnam, Jan. 2016, pp. 1-4.
 
 - Kyusung Shim, Tri Nhu Do, and Beongku An, “[A source relay selection scheme for physical layer security in multi-user multi-relay amplify-and-forward cooperative networks](https://scholarworks.bwise.kr/hongik/handle/2020.sw.hongik/8109),” in *Proc. 2017 International Conference on Green and Human Information Technology (ICGHIT)*, Hangzhou, China, Feb. 2016, pp. 339-340.
 
@@ -115,27 +113,17 @@
 
 - Kyusung Shim, Tri Nhu Do, and Beongku An, "[Physical layer security of wireless networks under hardware impairments](https://scholarworks.bwise.kr/hongik/handle/2020.sw.hongik/10335),” in *Proc. 2016 International Conference on Green and Human Information Technology (ICGHIT)*, Angeles City, Philippines, Feb. 2016, pp. 130-131.
 
-- Tri Nhu Do, Le The Dung, Beongku An, and Sang-Yep Nam, "[Connectivity of hybrid overlay/underlay cognitive radio ad hoc networks](http://ieeexplore.ieee.org/document/7562945/),” in *Proc. 2016 IEEE International Conference on Electronics, Information, and Communication (ICEIC)*, Da Nang, Vietnam, Jan. 2016, pp. 1-4.
-
 - K. Shim, Tri Nhu Do, Beongku An, and Sang-Yep Nam, "[Outage performance of physical layer security for multi-hop underlay cognitive radio networks with imperfect channel state information](http://ieeexplore.ieee.org/document/7562946/),” in *Proc. 2016 IEEE International Conference on Electronics, Information, and Communication (ICEIC)*, Da Nang, Vietnam, Jan. 2016, pp. 1-4.
 
 ---
 
-## Published in 2015
-
-### Journal papers
+## 2015
 
 - Tri Nhu Do and Beongku An, "[A soft-hard combination-based cooperative spectrum sensing scheme for cognitive radio networks](http://www.mdpi.com/1424-8220/15/2/4388),'' *Sensors*, vol. 15, no. 2, pp. 4388-4407, Feb. 2015.
-
-### Conference papers
-
-- Kyusung Shim, Tri Nhu Do, and Beongku An, "[Physical layer security under hardware impairment and imperfect CSI in relaying networks](http://www.dbpia.co.kr/Article/NODE07105617),” in *Proc. 2015 The Institute of Electronics Engineers of Korea (IEEK) Fall Conference*, Gwangju, South Korea, Nov. 2015, pp. 667-668.
 
 - Tri Nhu Do and Beongku An, "[Outage analysis of best relay selection scheme for wireless energy harvesting relay networks](http://www.dbpia.co.kr/Article/NODE07105618),” in *Proc. 2015 The Institute of Electronics Engineers of Korea (IEEK) Fall Conference*, Gwangju, South Korea, Nov. 2015, pp. 669-670.
 
 - Tri Nhu Do, Vo Nguyen Quoc Bao, and Beongku An, "[A relay selection protocol for wireless energy harvesting relay networks](http://ieeexplore.ieee.org/document/7388327/)," in *Proc. 2015 IEEE International Conference on Advanced Technologies for Communications*, Ho Chi Minh city, Vietnam, Oct. 2015, pp. 243-247.
-
-- Kyusung Shim, Tri Nhu Do, and Beongku An, "[Secure transmission using DF on underlay cognitive radio](http://www.dbpia.co.kr/Article/NODE06385345),” in *Proc. 2015 The Institute of Electronics Engineers of Korea (IEEK) Summer Conference*, Jeju Island, South Korea, Jun. 2015, pp. 1418-1420.
 
 - Tri Nhu Do and Beongku An, "[A physical layer security-based multihop relaying protocol for underlay cognitive radio networks](http://www.dbpia.co.kr/Article/NODE06385358),” in *Proc. 2015 The Institute of Electronics Engineers of Korea (IEEK) Summer Conference*, Jeju Island, South Korea, Jun. 2015, pp. 1454-1455.
 
@@ -147,15 +135,15 @@
 
 - Tri Nhu Do and Beongku An, "[Hybrid cooperative spectrum sensing scheme for cognitive radio networks](http://ieeexplore.ieee.org/document/7057922/),” in *Proc. 2015 IEEE International Conference on Information Networking (ICOIN)*, Siem Reap, Cambodia, Jan. 2015, pp. 390-391.
 
+- Kyusung Shim, Tri Nhu Do, and Beongku An, "[Physical layer security under hardware impairment and imperfect CSI in relaying networks](http://www.dbpia.co.kr/Article/NODE07105617),” in *Proc. 2015 The Institute of Electronics Engineers of Korea (IEEK) Fall Conference*, Gwangju, South Korea, Nov. 2015, pp. 667-668.
+
+- Kyusung Shim, Tri Nhu Do, and Beongku An, "[Secure transmission using DF on underlay cognitive radio](http://www.dbpia.co.kr/Article/NODE06385345),” in *Proc. 2015 The Institute of Electronics Engineers of Korea (IEEK) Summer Conference*, Jeju Island, South Korea, Jun. 2015, pp. 1418-1420.
+
 ---
 
 ## Published in 2014
 
-### Journal papers
-
 - Tri Nhu Do and Beongku An, "[Cooperative spectrum sensing schemes with the interference constraint in cognitive radio networks](http://www.mdpi.com/1424-8220/14/5/8037),'' *Sensors*, vol. 14, no. 5, pp. 8037-8056, May 2014.
-
-### Conference papers
 
 - Tri Nhu Do and Beongku An, "[A location information-based data fusion scheme for cooperative spectrum sensing in cognitive radio networks](http://www.dbpia.co.kr/Article/NODE06264525),” in *Proc. 2014 The Institute of Electronics Engineers of Korea (IEEK) Fall Conference*, Seoul, South Korea, Nov. 2014, pp. 726-727.
 
@@ -171,9 +159,7 @@
 
 ---
 
-## Published in 2013
-
-### Conference papers
+## 2013
 
 - Tri Nhu Do and Beongku An, "[Cooperative spectrum sensing in cognitive radio networks under interference constraint](http://www.dbpia.co.kr/Article/NODE02341590),” in *Proc. 2013 The Institute of Electronics Engineers of Korea (IEEK) Fall Conference*, Seoul, South Korea, Nov. 2013, pp. 902-903.
 		
