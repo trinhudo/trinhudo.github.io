@@ -20,7 +20,7 @@
 ---
 ## Published in 2022
 
-- Thanh Luan Nguyen, Tri Nhu Do, Georges Kaddoum, Daniel Benevides da Costa, and Zygmunt J. Haas, "Channel Characterization for RIS-aided Terahertz Communications: A Stochastic Approach," _IEEE Wireless Communications Letters_, Jun. 2022. ([MATLAB code](https://github.com/trinhudo/THz-RIS-Stochastic))
+- Thanh Luan Nguyen, Tri Nhu Do, Georges Kaddoum, Daniel Benevides da Costa, and Zygmunt J. Haas, "[Channel Characterization for RIS-aided Terahertz Communications: A Stochastic Approach](https://ieeexplore.ieee.org/document/9805798)," _IEEE Wireless Communications Letters_, Jun. 2022. ([MATLAB code](https://github.com/trinhudo/THz-RIS-Stochastic))
 
 - Hamda Bouzabia, Tri Nhu Do, and Georges Kaddoum, "[Deep Learning-enabled Deceptive Jammer Detection for Low Probability of Intercept Communications](https://ieeexplore.ieee.org/document/9795207)," *IEEE Systems Journal*, May 2022.
 
