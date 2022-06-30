@@ -10,7 +10,10 @@
 
 *(Co-supervise with Prof. Georges Kaddoum at ETS)*
 
-- **Thanh Luan Nguyen** 
+- **[Anh Tu Le](https://scholar.google.com/citations?user=lo6rXWoAAAAJ&hl)** 
+  - (will be joining ETS on Sept. 2023)
+
+- **[Thanh Luan Nguyen](https://scholar.google.com/citations?user=5RuFP-IAAAAJ&hl)** 
   - (will be joining ETS on Sept. 2022)
 
 - **Aida Meftah** 
@@ -21,11 +24,11 @@
   - *Topic:* Transfer Learning-enabled Ultra Reliable Low Latency Communication (URLLC) in Tactical Wireless Networks
   - From 2021 to *present*
 
-- **Muddasir Rahim**
+- **[Muddasir Rahim](https://www.researchgate.net/profile/Mudassir-Rahim)**
   - *Topic:* Intelligent Reflecting Surface (IRS)-aided TeraHerzt (THz) Communications
   - From 2021 to *present*
 
-- **Hamda Bouzabia**
+- **[Hamda Bouzabia](https://www.researchgate.net/profile/Hamda-Bouzabia-2)**
   - *Topic:* Generative Learning-enabled Jamming Detection in Tactical Wireless Networks
   - From 2021 to *present*
 
