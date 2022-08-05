@@ -35,7 +35,7 @@
 # Alumni
 
 - **[Kyusung Shim](https://scholar.google.com/citations?user=6mWz69sAAAAJ)**
-  - Assistant Professor at Hankyong National University
+  - Assistant Professor at Hankyong National University, Anseong, South Korea
   - Mentoring under the supervision of Prof. Beongku An at Hongik University
   - *Topic:* Physical Layer Security in Wireless Communications and Networking
   - From 2017 to 2021
