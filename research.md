@@ -32,5 +32,12 @@
   - *Topic:* Generative Learning-enabled Jamming Detection in Tactical Wireless Networks
   - From 2021 to *present*
 
+# Alumni
 
+- **[Kyusung Shim](https://scholar.google.com/citations?user=6mWz69sAAAAJ)**
+  - Assistant Professor at Hankyong National University
+  - Mentoring under the supervision of Prof. Beongku An at Hongik University
+  - *Topic:* Physical Layer Security in Wireless Communications and Networking
+  - From 2017 to 2021
+  
 [Home](./)
