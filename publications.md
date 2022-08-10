@@ -70,8 +70,6 @@
 - Tri Nhu Do and Beongku An, "[Secure transmission using decode-and-forward protocol for underlay cognitive radio networks](http://ieeexplore.ieee.org/document/7182678/),” in *Proc. 2015 IEEE International Conference on Ubiquitous and Future Networks (ICUFN)*, Sapporo, Japan, Jul. 2015, pp. 914-918.
 
 - Tri Nhu Do and Beongku An, "[Cooperative spectrum sensing schemes with the interference constraint in cognitive radio networks](http://ieeexplore.ieee.org/document/6846056/)," in *Proc. 2014 IEEE International Symposium on Computer, Consumer and Control (IS3C)*, Taichung, Taiwan, Jun. 2014, pp. 1010-1013.
-
-- Tri Nhu Do, Beongku An, and Kyu-Tae Lee, [A cooperative spectrum sensing scheme using the concept of underlay cognitive radio](http://ieeexplore.ieee.org/document/6914441/),” in *Proc. 2014 IEEE International Conference on Electronics, Information, and Communication (ICEIC)*, Kota Kinabalu, Malaysia, Jan. 2014, pp. 1-3.
 		
 - Tri Nhu Do and Beongku An, "[A discussion of cooperative spectrum sensing using Alamouti code in cognitive radio networks](http://www.dbpia.co.kr/Article/NODE02242725),” in *Proc. 2013 The Institute of Electronics Engineers of Korea (IEEK) Summer Conference*, Jeju Island, South Korea, Jun. 2013, pp. 1437-1438.
 
