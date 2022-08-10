@@ -42,7 +42,7 @@
 
 ---
 
-### Selected Conference Papers
+## Selected Conference Papers
 
 - Tri Nhu Do, Georges Kaddoum, Thanh Luan Nguyen, Daniel Benevides da Costa, and Zygmunt J. Haas, "[Aerial Reconfigurable Intelligent Surface-Aided Wireless Communication Systems](https://github.com/trinhudo/Aerial-RIS)," in *Proc. 2021 IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)*, Sep. 2021. ([MATLAB and Python code](https://github.com/trinhudo)) 
 
