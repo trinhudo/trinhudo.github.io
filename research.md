@@ -11,7 +11,7 @@
 *(Co-supervise with Prof. Georges Kaddoum at ETS)*
 
 - **Abdul Basit**
-  - *Topic:* Reinforcement Learning-based Cross-Layer Design for Tactical Wireless Networks
+  - *Topic:* Dynamic Medium Access Management using Artificial Intelligence in Heterogeneous Wireless Networks
   - From 2022 to *present*
 
 - **Manel Allani**
