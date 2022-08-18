@@ -10,6 +10,14 @@
 
 *(Co-supervise with Prof. Georges Kaddoum at ETS)*
 
+- **Abdul Basit**
+  - *Topic:* Reinforcement Learning-based Cross-Layer Design for Tactical Wireless Networks
+  - From 2022 to *present*
+
+- **Manel Allani**
+  - *Topic:* Machine Learning-enabled Transceiver Design for Tactical Wireless Networks
+  - From 2022 to *present*
+
 - **[Anh Tu Le](https://scholar.google.com/citations?user=lo6rXWoAAAAJ&hl)** 
   - (will be joining ETS on Sept. 2023)
 
