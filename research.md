@@ -10,8 +10,8 @@
 
 *(Co-supervise with Prof. Georges Kaddoum at ETS)*
 
-- **Abdul Basit**
-  - *Topic:* Dynamic Medium Access Management using Artificial Intelligence in Heterogeneous Wireless Networks
+- **[Abdul Basit](https://scholar.google.com/citations?user=_gvfK7cAAAAJ&hl=en)**
+  - *Topic:* Reinforcement Learning-based Medium Access Management in Heterogeneous Wireless Networks
   - From 2022 to *present*
 
 - **Manel Allani**
