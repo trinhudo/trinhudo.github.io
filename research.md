@@ -15,7 +15,7 @@
   - From 2022 to *present*
 
 - **Manel Allani**
-  - *Topic:* Machine Learning-based Transceiver Design for Tactical Wireless Networks
+  - *Topic:* Representation Learning-based Transceiver Design for Tactical Wireless Networks
   - From 2022 to *present*
 
 - **[Anh Tu Le](https://scholar.google.com/citations?user=lo6rXWoAAAAJ&hl)** 
