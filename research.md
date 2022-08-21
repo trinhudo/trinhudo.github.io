@@ -15,7 +15,7 @@
   - From 2022 to *present*
 
 - **Manel Allani**
-  - *Topic:* Representation Learning-based Transceiver Design for Tactical Wireless Networks
+  - *Topic:* Representation Learning-based Transceiver Design in Tactical Wireless Networks
   - From 2022 to *present*
 
 - **[Anh Tu Le](https://scholar.google.com/citations?user=lo6rXWoAAAAJ&hl)** 
@@ -25,11 +25,11 @@
   - (will be joining ETS on Sept. 2022)
 
 - **Aida Meftah** 
-  - *Topic:* Signal Calssification using Federated Learning (FL) in Tactical Wireless Networks
+  - *Topic:* Federated Learning-based Signal Detection and Calssification in Tactical Wireless Networks
   - From 2022 to *present*
 
 - **Mujtaba Ghous**
-  - *Topic:* Transfer Learning-enabled Ultra Reliable Low Latency Communication (URLLC) in Tactical Wireless Networks
+  - *Topic:* Transfer Learning-aided Ultra Reliable Low Latency Communication (URLLC) in Tactical Wireless Networks
   - From 2021 to *present*
 
 - **[Muddasir Rahim](https://www.researchgate.net/profile/Mudassir-Rahim)**
@@ -37,7 +37,7 @@
   - From 2021 to *present*
 
 - **[Hamda Bouzabia](https://www.researchgate.net/profile/Hamda-Bouzabia-2)**
-  - *Topic:* Generative Learning-enabled Jamming Detection in Tactical Wireless Networks
+  - *Topic:* Generative Learning-based Jamming Detection in Tactical Wireless Networks
   - From 2021 to *present*
 
 # Alumni
