@@ -40,7 +40,7 @@
   - *Topic:* Generative Learning-based Jamming Detection in Tactical Wireless Networks
   - From 2021 to *present*
 
-# Alumni
+# Former team members
 
 - **[Dr. Kyusung Shim](https://scholar.google.com/citations?user=6mWz69sAAAAJ)**
   - Assistant Professor at Hankyong National University, Anseong, South Korea
