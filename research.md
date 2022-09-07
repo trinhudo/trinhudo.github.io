@@ -15,7 +15,7 @@
 
 - **[Thanh Luan Nguyen](https://scholar.google.com/citations?user=5RuFP-IAAAAJ&hl)** 
   - *Topic:* Reconfigurable Intelligent and Holographic Surfaces for 6G Networks  
-  - From 2022 to *present
+  - From 2022 to *present*
 
 - **[Abdul Basit](https://scholar.google.com/citations?user=_gvfK7cAAAAJ&hl=en)**
   - *Topic:* Reinforcement Learning-based Medium Access Management in Heterogeneous Wireless Networks
