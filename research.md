@@ -10,6 +10,13 @@
 
 *(Co-supervise with Prof. Georges Kaddoum at ETS)*
 
+- **[Anh Tu Le](https://scholar.google.com/citations?user=lo6rXWoAAAAJ&hl)** 
+  - (will be joining ETS on Sept. 2023)
+
+- **[Thanh Luan Nguyen](https://scholar.google.com/citations?user=5RuFP-IAAAAJ&hl)** 
+  - *Topic:* Reconfigurable Intelligent and Holographic Surfaces for 6G Networks  
+  - From 2022 to *present
+
 - **[Abdul Basit](https://scholar.google.com/citations?user=_gvfK7cAAAAJ&hl=en)**
   - *Topic:* Reinforcement Learning-based Medium Access Management in Heterogeneous Wireless Networks
   - From 2022 to *present*
@@ -18,11 +25,6 @@
   - *Topic:* Representation Learning-based Transceiver Design in Tactical Wireless Networks
   - From 2022 to *present*
 
-- **[Anh Tu Le](https://scholar.google.com/citations?user=lo6rXWoAAAAJ&hl)** 
-  - (will be joining ETS on Sept. 2023)
-
-- **[Thanh Luan Nguyen](https://scholar.google.com/citations?user=5RuFP-IAAAAJ&hl)** 
-  - (will be joining ETS on Sept. 2022)
 
 - **Aida Meftah** 
   - *Topic:* Federated Learning-based Signal Detection and Calssification in Tactical Wireless Networks
