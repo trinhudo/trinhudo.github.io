@@ -59,7 +59,7 @@ Newly recruited Ph.D. students
 
 - **[Dr. Kyusung Shim](https://scholar.google.com/citations?user=6mWz69sAAAAJ)** 
   - Assistant Professor (tenured track) at Hankyong National University, Anseong, South Korea
-  - Mentoring under the supervision of Prof. Beongku An at Hongik University
+  - Mentoring at Hongik University
   - *Topic:* Physical Layer Security in Wireless Communications and Networking
   - From Mat. 2017 to Aug. 2021
   
