@@ -22,7 +22,7 @@ Newly recruited Ph.D. students
 
 - **[Thanh Luan Nguyen](https://scholar.google.com/citations?user=5RuFP-IAAAAJ&hl)**  
   `thanh-luan.nguyen.1@ens.etsmtl.ca`
-  - *Topic:* Reconfigurable Intelligent and Holographic RIS for 6G Networks  
+  - *Topic:* Reconfigurable Intelligent Surfaces (RIS) and Holographic RIS for 6G  
   - From Sep. 2022 to *present*
 
 - **[Abdul Basit](https://scholar.google.com/citations?user=_gvfK7cAAAAJ&hl=en)**  
