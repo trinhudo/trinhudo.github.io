@@ -20,11 +20,13 @@ Newly recruited Ph.D. students
 
 *(Co-supervise with Prof. Georges Kaddoum at ETS)*
 
-- **[Thanh Luan Nguyen](https://scholar.google.com/citations?user=5RuFP-IAAAAJ&hl)** `thanh-luan.nguyen.1@ens.etsmtl.ca`
+- **[Thanh Luan Nguyen](https://scholar.google.com/citations?user=5RuFP-IAAAAJ&hl)**  
+  `thanh-luan.nguyen.1@ens.etsmtl.ca`
   - *Topic:* Reconfigurable Intelligent and Holographic RIS for 6G Networks  
   - From Sep. 2022 to *present*
 
-- **[Abdul Basit](https://scholar.google.com/citations?user=_gvfK7cAAAAJ&hl=en)** `abdul.basit.1@ens.etsmtl.ca`
+- **[Abdul Basit](https://scholar.google.com/citations?user=_gvfK7cAAAAJ&hl=en)**  
+  `abdul.basit.1@ens.etsmtl.ca`
   - *Topic:* Reinforcement Learning-based Medium Access Management in Heterogeneous Wireless Networks
   - From Sep. 2022 to *present*
 
@@ -43,12 +45,12 @@ Newly recruited Ph.D. students
   - *Topic:* Transfer Learning-aided Ultra Reliable Low Latency Communication (URLLC) in Tactical Wireless Networks
   - From Sep. 2021 to *present*
 
-- **[Muddasir Rahim](https://www.researchgate.net/profile/Mudassir-Rahim)**   
+- **[Muddasir Rahim](https://www.researchgate.net/profile/Mudassir-Rahim)**  
   `muddasir.rahim.1@ens.etsmtl.ca`
   - *Topic:* Intelligent Reflecting Surface (IRS)-aided TeraHerzt (THz) Communications
   - From Aug. 2021 to *present*
 
-- **[Hamda Bouzabia](https://www.researchgate.net/profile/Hamda-Bouzabia-2)** 
+- **[Hamda Bouzabia](https://www.researchgate.net/profile/Hamda-Bouzabia-2)**  
   `hamda.bouzabia.1@ens.etsmtl.ca`
   - *Topic:* Generative Learning-based Jamming Detection in Tactical Wireless Networks
   - From Jan. 2021 to *present*
