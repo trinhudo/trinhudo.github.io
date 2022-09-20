@@ -14,6 +14,7 @@ Newly recruited Ph.D. students
   - (will start in Sept. 2023)
 
 - **Thien Hieu Hoang**
+  `thien-hieu.hoang@outlook.com`
   - (will start in May 2023)
 
 *(Co-supervise with Prof. Georges Kaddoum at ETS)*
