@@ -57,8 +57,9 @@ Newly recruited Ph.D. students
 
 # Former team members
 
-- **[Dr. Kyusung Shim](https://scholar.google.com/citations?user=6mWz69sAAAAJ)** 
-  - Assistant Professor (tenured track) at Hankyong National University, Anseong, South Korea
+- **[Dr. Kyusung Shim](https://scholar.google.com/citations?user=6mWz69sAAAAJ)**  
+  Assistant Professor (tenured track)  
+  Hankyong National University, Anseong, South Korea
   - Mentoring at Hongik University, South Korea
   - *Topic:* Physical Layer Security in Wireless Communications and Networking
   - From Mar. 2017 to Aug. 2021
