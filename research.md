@@ -61,6 +61,6 @@ Newly recruited Ph.D. students
   - Assistant Professor (tenured track) at Hankyong National University, Anseong, South Korea
   - Mentoring at Hongik University, South Korea
   - *Topic:* Physical Layer Security in Wireless Communications and Networking
-  - From Mat. 2017 to Aug. 2021
+  - From Mar. 2017 to Aug. 2021
   
 [Home](./)
