@@ -28,23 +28,28 @@ Newly recruited Ph.D. students
   - *Topic:* Reinforcement Learning-based Medium Access Management in Heterogeneous Wireless Networks
   - From Sep. 2022 to *present*
 
-- **Manel Allani** `manel.allani.1@ens.etsmtl.ca`
+- **Manel Allani**  
+  `manel.allani.1@ens.etsmtl.ca`
   - *Topic:* Representation Learning-based Transceiver Design in Tactical Wireless Networks
   - From Sep. 2022 to *present*
 
-- **Aida Meftah** `aida.meftah.1@ens.etsmtl.ca`
+- **Aida Meftah**  
+  `aida.meftah.1@ens.etsmtl.ca`
   - *Topic:* Federated Learning-based Signal Detection and Calssification in Tactical Wireless Networks
   - From Feb. 2022 to *present*
 
-- **Mujtaba Ghous** `mujtaba.ghous.1@ens.etsmtl.ca`
+- **Mujtaba Ghous**  
+  `mujtaba.ghous.1@ens.etsmtl.ca`
   - *Topic:* Transfer Learning-aided Ultra Reliable Low Latency Communication (URLLC) in Tactical Wireless Networks
   - From Sep. 2021 to *present*
 
-- **[Muddasir Rahim](https://www.researchgate.net/profile/Mudassir-Rahim)**  `muddasir.rahim.1@ens.etsmtl.ca`
+- **[Muddasir Rahim](https://www.researchgate.net/profile/Mudassir-Rahim)**   
+  `muddasir.rahim.1@ens.etsmtl.ca`
   - *Topic:* Intelligent Reflecting Surface (IRS)-aided TeraHerzt (THz) Communications
   - From Aug. 2021 to *present*
 
-- **[Hamda Bouzabia](https://www.researchgate.net/profile/Hamda-Bouzabia-2)** `hamda.bouzabia.1@ens.etsmtl.ca`
+- **[Hamda Bouzabia](https://www.researchgate.net/profile/Hamda-Bouzabia-2)** 
+  `hamda.bouzabia.1@ens.etsmtl.ca`
   - *Topic:* Generative Learning-based Jamming Detection in Tactical Wireless Networks
   - From Jan. 2021 to *present*
 
