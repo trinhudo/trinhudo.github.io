@@ -22,35 +22,34 @@ Newly recruited Ph.D. students
   - *Topic:* Reconfigurable Intelligent and Holographic RIS for 6G Networks  
   - From Sep. 2022 to *present*
 
-- **[Abdul Basit](https://scholar.google.com/citations?user=_gvfK7cAAAAJ&hl=en)**
+- **[Abdul Basit](https://scholar.google.com/citations?user=_gvfK7cAAAAJ&hl=en)** `abdul.basit.1@ens.etsmtl.ca`
   - *Topic:* Reinforcement Learning-based Medium Access Management in Heterogeneous Wireless Networks
-  - From 2022 to *present*
+  - From Sep. 2022 to *present*
 
-- **Manel Allani**
+- **Manel Allani** `manel.allani.1@ens.etsmtl.ca`
   - *Topic:* Representation Learning-based Transceiver Design in Tactical Wireless Networks
-  - From 2022 to *present*
+  - From Sep. 2022 to *present*
 
-
-- **Aida Meftah** 
+- **Aida Meftah** `aida.meftah.1@ens.etsmtl.ca`
   - *Topic:* Federated Learning-based Signal Detection and Calssification in Tactical Wireless Networks
-  - From 2022 to *present*
+  - From Feb. 2022 to *present*
 
-- **Mujtaba Ghous**
+- **Mujtaba Ghous** `mujtaba.ghous.1@ens.etsmtl.ca`
   - *Topic:* Transfer Learning-aided Ultra Reliable Low Latency Communication (URLLC) in Tactical Wireless Networks
-  - From 2021 to *present*
+  - From Sep. 2021 to *present*
 
-- **[Muddasir Rahim](https://www.researchgate.net/profile/Mudassir-Rahim)**
+- **[Muddasir Rahim](https://www.researchgate.net/profile/Mudassir-Rahim)**  `muddasir.rahim.1@ens.etsmtl.ca`
   - *Topic:* Intelligent Reflecting Surface (IRS)-aided TeraHerzt (THz) Communications
-  - From 2021 to *present*
+  - From Aug. 2021 to *present*
 
-- **[Hamda Bouzabia](https://www.researchgate.net/profile/Hamda-Bouzabia-2)**
+- **[Hamda Bouzabia](https://www.researchgate.net/profile/Hamda-Bouzabia-2)** `hamda.bouzabia.1@ens.etsmtl.ca`
   - *Topic:* Generative Learning-based Jamming Detection in Tactical Wireless Networks
-  - From 2021 to *present*
+  - From Jan. 2021 to *present*
 
 # Former team members
 
-- **[Dr. Kyusung Shim](https://scholar.google.com/citations?user=6mWz69sAAAAJ)**
-  - Assistant Professor at Hankyong National University, Anseong, South Korea
+- **[Dr. Kyusung Shim](https://scholar.google.com/citations?user=6mWz69sAAAAJ)** 
+  - Assistant Professor (tenured track) at Hankyong National University, Anseong, South Korea
   - Mentoring under the supervision of Prof. Beongku An at Hongik University
   - *Topic:* Physical Layer Security in Wireless Communications and Networking
   - From 2017 to 2021
