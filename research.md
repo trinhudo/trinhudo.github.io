@@ -10,11 +10,12 @@
 
 Newly recruited Ph.D. students
 
-- **[Anh Tu Le](https://scholar.google.com/citations?user=lo6rXWoAAAAJ&hl)** 
+- **[Anh Tu Le](https://scholar.google.com/citations?user=lo6rXWoAAAAJ&hl)**  
+  `anh-tu.le@outlook.com`  
   - (will start in Sept. 2023)
 
-- **Thien Hieu Hoang**
-  `thien-hieu.hoang@outlook.com`
+- **Thien Hieu Hoang**  
+  `thien-hieu.hoang@outlook.com`  
   - (will start in May 2023)
 
 *(Co-supervise with Prof. Georges Kaddoum at ETS)*
