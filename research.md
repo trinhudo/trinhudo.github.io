@@ -8,14 +8,19 @@
 
 # PhD Students
 
-*(Co-supervise with Prof. Georges Kaddoum at ETS)*
+Newly recruited Ph.D. students
 
 - **[Anh Tu Le](https://scholar.google.com/citations?user=lo6rXWoAAAAJ&hl)** 
-  - (will be joining ETS on Sept. 2023)
+  - (will start in Sept. 2023)
 
-- **[Thanh Luan Nguyen](https://scholar.google.com/citations?user=5RuFP-IAAAAJ&hl)** 
-  - *Topic:* Reconfigurable Intelligent and Holographic Surfaces for 6G Networks  
-  - From 2022 to *present*
+- **Thien Hieu Hoang**
+  - (will start in May 2023)
+
+*(Co-supervise with Prof. Georges Kaddoum at ETS)*
+
+- **[Thanh Luan Nguyen](https://scholar.google.com/citations?user=5RuFP-IAAAAJ&hl)** `thanh-luan.nguyen.1@ens.etsmtl.ca`
+  - *Topic:* Reconfigurable Intelligent and Holographic RIS for 6G Networks  
+  - From Sep. 2022 to *present*
 
 - **[Abdul Basit](https://scholar.google.com/citations?user=_gvfK7cAAAAJ&hl=en)**
   - *Topic:* Reinforcement Learning-based Medium Access Management in Heterogeneous Wireless Networks
