@@ -6,13 +6,9 @@
 (a book chapter in the book entitled "[Intelligent Reconfigurable Surfaces (IRS) for Prospective 6G Wireless Networks](https://books.google.ca/books/about/Intelligent_Reconfigurable_Surfaces_IRS.html?id=ce-vzgEACAAJ&redir_esc=y)," Wiley, 2022.)
 
 ---
-
-## Submitted Manuscripts
-
-- Thanh Luan Nguyen, Tri Nhu Do, and Georges Kaddoum, "[Performance Analysis of Multi-user NOMA Wireless-Powered mMTC Networks: A Stochastic Geometry Approach](https://arxiv.org/abs/2201.04784)," _submitted to IEEE Transactions on Communications, under Major Revision._ [MATLAB code](https://github.com/trinhudo/mMTC-NOMA) 
-
----
 ## Selected Journal Papers
+
+- Thanh Luan Nguyen, Tri Nhu Do, and Georges Kaddoum, "[Performance Analysis of Multi-user NOMA Wireless-Powered mMTC Networks: A Stochastic Geometry Approach](https://github.com/trinhudo/NOMA-mMTC)," _IEEE Transactions on Communications,_ Oct., 2022 [MATLAB code](https://github.com/trinhudo/NOMA-mMTC) 
 
 - Thanh Luan Nguyen, Tri Nhu Do, Georges Kaddoum, Daniel B. da Costa, and Zygmunt J. Haas, "[Channel Characterization for RIS-aided Terahertz Communications: A Stochastic Approach](https://ieeexplore.ieee.org/document/9805798)," _IEEE Wireless Communications Letters_, Jun. 2022. ([MATLAB code](https://github.com/trinhudo/THz-RIS-Stochastic))
 
