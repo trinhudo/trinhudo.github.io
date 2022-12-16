@@ -4,7 +4,6 @@
 [École de Technologie Supérieure (ÉTS)](https://www.etsmtl.ca/)  
 Université du Québec    
 Montreal, Canada  
-*Email:* tri-nhu.do (at) etsmtl.ca
 
 # Biography
 
