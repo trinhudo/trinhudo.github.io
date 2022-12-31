@@ -29,26 +29,29 @@ h3 {
 }
 
 a:link {
-    color: #1434A4;
-    text-decoration: none
-}
-a:visited {
-    color: navy;
-    text-decoration: none
-}
-a:hover {
-    color: #191970;
+    color: black;
     text-decoration: none;
     font-weight: bold;
 }
+a:visited {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover {
+    color: #0F52BA;
+    text-decoration: underline ;
+    font-weight: bold;
+}
 a:active {
-    color: navy;
-    text-decoration: none
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
 }
 
 
 #content {
-    width:700px;
+    width:700 px;
     margin:0 auto;
 }
 
@@ -111,15 +114,4 @@ a:active {
   text-align: center;
 }
 
-#menu_foot li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 16px;
-  text-decoration: none;
-  background-color: none;
-}
-
-#menu_foot li a:hover {
-  background-color: #0096FF;
 }
