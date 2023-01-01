@@ -62,10 +62,14 @@ a:active {
 
 
 #content {
-    width:668px;
+    width:660px;
     margin:0 auto;
     font-family: 'Georgia', serif;
     line-height: 1.3em;
+}
+
+#content ul {
+    line-height: 1.33em;
 }
 
 
