@@ -82,17 +82,20 @@ a:active {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #0F52BA;
+    background-color: #357EC7;
     font-family: helvetica, arial;
+    margin-left: 0;
+    list-style: none;
+    text-align: center;
+}
+
+#menu ul li {
+  display: inline-block;
 }
 
 #menu li {
-  float: right;
+  float: center;
   font-family: helvetica, arial;
-}
-
-#menu li:first-child {
-  float: left;
 }
 
 #menu li a {
@@ -110,10 +113,12 @@ a:active {
 }
 
 
+
+
 #my_footer {
-    padding-top:2em;
-    padding-bottom:2em;
-    background-color: #0F52BA;
+    padding-top:1em;
+    padding-bottom:1em;
+    background-color: #357EC7;
     font-family: helvetica, arial;
     color: white;
     text-align: center;
