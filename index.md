@@ -6,7 +6,9 @@
 Université du Québec    
 Montréal, QC, Canada  
 
-*Email:* tri-nhu.do (at) etsmtl.ca
+*Email:*  tri-nhu.do (at) etsmtl.ca  
+
+---
 
 # Biography
 
