@@ -2,9 +2,15 @@
 
 ## Selected Journal Papers
 
-- Thanh Luan Nguyen, Georges Kaddoum, Tri Nhu Do, Daniel Benevides da Costa, and Zygmunt J. Haas, "[Adaptive Decoding Mechanisms for UAV-enabled Double-Uplink Coordinated NOMA](https://github.com/trinhudo/Uplink-NOMA-UAV-Mobility)," *IEEE Transactions on Vehicular Technology*, Mar. 2023.  
+- Thanh Luan Nguyen, Georges Kaddoum, Tri Nhu Do, Daniel Benevides da Costa, and Zygmunt J. Haas,  
+	"[Adaptive Decoding Mechanisms for UAV-enabled Double-Uplink Coordinated NOMA](https://github.com/trinhudo/Uplink-NOMA-UAV-Mobility),"  
+	*IEEE Transactions on Vehicular Technology*,  
+	Mar. 2023.  
 
-- Thanh Luan Nguyen, Tri Nhu Do, and Georges Kaddoum, "[Performance Analysis of Multi-user NOMA Wireless-Powered mMTC Networks: A Stochastic Geometry Approach](https://github.com/trinhudo/NOMA-mMTC)," *IEEE Transactions on Communications*, Oct. 2022.  
+- Thanh Luan Nguyen, Tri Nhu Do, and Georges Kaddoum, 
+	"[Performance Analysis of Multi-user NOMA Wireless-Powered mMTC Networks: A Stochastic Geometry Approach](https://github.com/trinhudo/NOMA-mMTC),"  
+	*IEEE Transactions on Communications*,  
+	Oct. 2022.  
 
 - Thanh Luan Nguyen, Tri Nhu Do, Georges Kaddoum, Daniel B. da Costa, and Zygmunt J. Haas, "[Channel Characterization for RIS-aided Terahertz Communications: A Stochastic Approach](https://ieeexplore.ieee.org/document/9805798)," _IEEE Wireless Communications Letters_, Jun. 2022. ([MATLAB code](https://github.com/trinhudo/THz-RIS-Stochastic))
 
