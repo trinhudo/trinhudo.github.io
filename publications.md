@@ -1,5 +1,7 @@
 # Publications
 
+---  
+
 ## Selected Journal Papers
 
 - Thanh Luan Nguyen, Georges Kaddoum, Tri Nhu Do, Daniel Benevides da Costa, and Zygmunt J. Haas, "[Adaptive Decoding Mechanisms for UAV-enabled Double-Uplink Coordinated NOMA](https://github.com/trinhudo/Uplink-NOMA-UAV-Mobility)," *IEEE Transactions on Vehicular Technology*, Mar. 2023.  
