@@ -1,18 +1,10 @@
 # Publications
 
-## Book Chapters
-
-- Tri Nhu Do, Georges Kaddoum, and Thanh Luan Nguyen, “**Distributed Multi-IRS-aided 6G Wireless Networks: Channel Characterization and Performance Analysis**”
-(a book chapter in the book entitled "[Intelligent Reconfigurable Surfaces (IRS) for Prospective 6G Wireless Networks](https://books.google.ca/books/about/Intelligent_Reconfigurable_Surfaces_IRS.html?id=ce-vzgEACAAJ&redir_esc=y)," Wiley, 2022.)
-
----
-
-## Submitted Manuscripts
-
-- Thanh Luan Nguyen, Tri Nhu Do, and Georges Kaddoum, "[Performance Analysis of Multi-user NOMA Wireless-Powered mMTC Networks: A Stochastic Geometry Approach](https://arxiv.org/abs/2201.04784)," _submitted to IEEE Transactions on Communications, under Major Revision._ [MATLAB code](https://github.com/trinhudo/mMTC-NOMA) 
-
----
 ## Selected Journal Papers
+
+- Thanh Luan Nguyen, Georges Kaddoum, Tri Nhu Do, Daniel Benevides da Costa, and Zygmunt J. Haas, "[Adaptive Decoding Mechanisms for UAV-enabled Double-Uplink Coordinated NOMA](https://github.com/trinhudo/Uplink-NOMA-UAV-Mobility)," *IEEE Transactions on Vehicular Technology*, Mar. 2023.  
+
+- Thanh Luan Nguyen, Tri Nhu Do, and Georges Kaddoum, "[Performance Analysis of Multi-user NOMA Wireless-Powered mMTC Networks: A Stochastic Geometry Approach](https://github.com/trinhudo/NOMA-mMTC)," *IEEE Transactions on Communications*, Oct. 2022.  
 
 - Thanh Luan Nguyen, Tri Nhu Do, Georges Kaddoum, Daniel B. da Costa, and Zygmunt J. Haas, "[Channel Characterization for RIS-aided Terahertz Communications: A Stochastic Approach](https://ieeexplore.ieee.org/document/9805798)," _IEEE Wireless Communications Letters_, Jun. 2022. ([MATLAB code](https://github.com/trinhudo/THz-RIS-Stochastic))
 
@@ -47,6 +39,8 @@
 
 ## Selected Conference Papers
 
+
+
 - Tri Nhu Do, Georges Kaddoum, Thanh Luan Nguyen, Daniel B. da Costa, and Zygmunt J. Haas, "[Aerial Reconfigurable Intelligent Surface-Aided Wireless Communication Systems](https://github.com/trinhudo/Aerial-RIS)," in *Proc. 2021 IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)*, Sep. 2021. ([MATLAB and Python code](https://github.com/trinhudo)) 
 
 - Tri Nhu Do, and Beongku An, “[Optimal sum-throughput analysis for downlink cooperative SWIPT NOMA systems](https://ieeexplore.ieee.org/document/8325811),” in *Proc. 2018 IEEE International Conference on Recent Advances in Signal Processing, Telecommunications & Computing (SigTelCom)*, Ho Chi Minh city, Vietnam, Jan. 2018, pp. 85-90. ([MATLAB code](https://github.com/trinhudo))
@@ -72,5 +66,13 @@
 - Tri Nhu Do and Beongku An, "[Cooperative spectrum sensing schemes with the interference constraint in cognitive radio networks](http://ieeexplore.ieee.org/document/6846056/)," in *Proc. 2014 IEEE International Symposium on Computer, Consumer and Control (IS3C)*, Taichung, Taiwan, Jun. 2014, pp. 1010-1013.
 		
 - Tri Nhu Do and Beongku An, "[A discussion of cooperative spectrum sensing using Alamouti code in cognitive radio networks](http://www.dbpia.co.kr/Article/NODE02242725),” in *Proc. 2013 The Institute of Electronics Engineers of Korea (IEEK) Summer Conference*, Jeju Island, South Korea, Jun. 2013, pp. 1437-1438.
+
+---
+
+## Book Chapters
+
+- Tri Nhu Do, Georges Kaddoum, and Thanh Luan Nguyen, “**Distributed Multi-IRS-aided 6G Wireless Networks: Channel Characterization and Performance Analysis**”
+(a book chapter in the book entitled "[Intelligent Reconfigurable Surfaces (IRS) for Prospective 6G Wireless Networks](https://books.google.ca/books/about/Intelligent_Reconfigurable_Surfaces_IRS.html?id=ce-vzgEACAAJ&redir_esc=y)," Wiley, 2022.)
+
 
 [Home](./)
