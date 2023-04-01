@@ -1,8 +1,8 @@
 # Publications
 
----  
 
-## Selected Journal Papers
+## Selected Journal Papers  
+---  
 
 - Thanh Luan Nguyen, Georges Kaddoum, Tri Nhu Do, Daniel Benevides da Costa, and Zygmunt J. Haas, "[Adaptive Decoding Mechanisms for UAV-enabled Double-Uplink Coordinated NOMA](https://github.com/trinhudo/Uplink-NOMA-UAV-Mobility)," *IEEE Transactions on Vehicular Technology*, Mar. 2023.  
 
@@ -37,10 +37,9 @@
 
 - Tri Nhu Do and Beongku An, "[Cooperative spectrum sensing schemes with the interference constraint in cognitive radio networks](http://www.mdpi.com/1424-8220/14/5/8037),'' *Sensors*, vol. 14, no. 5, pp. 8037-8056, May 2014.
 
----
 
-## Selected Conference Papers
-
+## Selected Conference Papers  
+---  
 
 
 - Tri Nhu Do, Georges Kaddoum, Thanh Luan Nguyen, Daniel B. da Costa, and Zygmunt J. Haas, "[Aerial Reconfigurable Intelligent Surface-Aided Wireless Communication Systems](https://github.com/trinhudo/Aerial-RIS)," in *Proc. 2021 IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)*, Sep. 2021. ([MATLAB and Python code](https://github.com/trinhudo)) 
@@ -69,9 +68,8 @@
 		
 - Tri Nhu Do and Beongku An, "[A discussion of cooperative spectrum sensing using Alamouti code in cognitive radio networks](http://www.dbpia.co.kr/Article/NODE02242725),” in *Proc. 2013 The Institute of Electronics Engineers of Korea (IEEK) Summer Conference*, Jeju Island, South Korea, Jun. 2013, pp. 1437-1438.
 
----
-
-## Book Chapters
+## Book Chapters  
+---  
 
 - Tri Nhu Do, Georges Kaddoum, and Thanh Luan Nguyen, “**Distributed Multi-IRS-aided 6G Wireless Networks: Channel Characterization and Performance Analysis**”
 (a book chapter in the book entitled "[Intelligent Reconfigurable Surfaces (IRS) for Prospective 6G Wireless Networks](https://books.google.ca/books/about/Intelligent_Reconfigurable_Surfaces_IRS.html?id=ce-vzgEACAAJ&redir_esc=y)," Wiley, 2022.)
