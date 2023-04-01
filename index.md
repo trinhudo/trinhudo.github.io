@@ -61,7 +61,7 @@ _Supervisor:_ <a href="http://unclab.hongik.ac.kr/professor.php" target="_blank"
 
 **Teaching Associate**  
 Department of Software and Communications Engineering  
-<a href="http://www.hongik.ac.kr/index.do" target="_blank">Hongik University</a>, South Korea  
+Hongik University, South Korea  
 - Course [012301]: Computer Engineering–Introduction and Practice, Sping–2017/2018  
 - Course [704410]: Computer Architecture, Fall–2017  
 
