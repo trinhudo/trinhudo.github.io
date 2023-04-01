@@ -9,10 +9,6 @@ Montréal, QC, Canada
 
 *Email:*  tri-nhu.do (at) etsmtl.ca  
 
-
-<a href="http" target="_blank">Hello</a>  
-
-
 # Biography
 ---
 
@@ -35,9 +31,9 @@ _Supervisor:_ <a href="http://unclab.hongik.ac.kr/professor.php" target="_blank"
 
 **Bachelor of Engineering (B.Eng.)**, 2012     
 Electronics and Telecommunication Engineering  
-<a href="http" target="_blank">Hello</a>  [Posts and Telecommunications Institute of Technology](http://hcm.ptit.edu.vn){:target="_blank"}, Vietnam  
+<a href="http://hcm.ptit.edu.vn" target="_blank">Posts and Telecommunications Institute of Technology</a>, Vietnam  
 _Thesis_: A Study on Multiple-Input Multiple-Output (MIMO) Technique in Evolved High Speed Packet Access (HSPA+) Networks  
-_Supervisor:_ <a href="http" target="_blank">Hello</a>  [Prof. Vo Nguyen Quoc Bao](https://sites.google.com/site/baovnq){:target="_blank"}  
+_Supervisor:_ <a href="https://sites.google.com/site/baovnq" target="_blank">Prof. Vo Nguyen Quoc Bao</a>    
 
 # Research Experiences  
 ---  
@@ -52,13 +48,13 @@ _Supervisor:_ <a href="https://www.etsmtl.ca/Professeurs/gkaddoum/Accueil?lang=e
 **Postdoctoral Research Associate**, 2019  
 Department of Computer Science  
 The University of Texas at Dallas, TX, USA  
-_Supervisor:_ [Prof. Zygmunt J. Haas](https://personal.utdallas.edu/~haas/){:target="_blank"}
+_Supervisor:_ <a href="https://personal.utdallas.edu/~haas/" target="_blank">Prof. Zygmunt J. Haas</a>  
 
 **Graduate Research Assistant**, 2013-2018     
 Ubiquitous Networks & Convergence Laboratory (UNC Lab)  
 Department of Software and Communications Engineering  
 <a href="http://www.hongik.ac.kr/index.do" target="_blank">Hongik University</a>, South Korea  
-_Supervisor:_ <a href="http://unclab.hongik.ac.kr/professor.php" target="_blank">Prof. Beongku An</a>    
+_Supervisor:_ <a href="http://unclab.hongik.ac.kr/professor.php" target="_blank">Prof. Beongku An</a>  
 
 # Teaching Experiences  
 ---  
@@ -73,8 +69,8 @@ Department of Software and Communications Engineering
 ---  
 
 **Reviewer**
-- [Exemplary Reviewer](https://www.comsoc.org/publications/journals/ieee-tcom/exemplary-reviewers){:target="_blank"} for the IEEE Transactions on Communications in 2020
-- [Top reviewers](https://publons.com/author/1242622/tri-nhu-do){:target="_blank"} in Computer Science (top 1% in Field) in 2018-2019
+- <a href="https://www.comsoc.org/publications/journals/ieee-tcom/exemplary-reviewers" target="_blank">Exemplary Reviewer</a> for the IEEE Transactions on Communications in 2020
+- <a href="https://publons.com/author/1242622/tri-nhu-do" target="_blank">Top reviewers</a> in Computer Science (top 1% in Field) in 2018-2019
 
 **Technical Program Committee (TPC) Member**
 - WCNC, GLOBECOM, VTC, ANTS
