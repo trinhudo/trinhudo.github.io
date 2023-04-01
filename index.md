@@ -53,7 +53,7 @@ _Supervisor:_ <a href="https://personal.utdallas.edu/~haas/" target="_blank">Pro
 **Graduate Research Assistant**, 2013-2018     
 Ubiquitous Networks & Convergence Laboratory (UNC Lab)  
 Department of Software and Communications Engineering  
-<a href="http://www.hongik.ac.kr/index.do" target="_blank">Hongik University</a>, South Korea  
+Hongik University, South Korea  
 _Supervisor:_ <a href="http://unclab.hongik.ac.kr/professor.php" target="_blank">Prof. Beongku An</a>  
 
 # Teaching Experiences  
