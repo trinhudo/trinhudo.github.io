@@ -7,6 +7,8 @@
 Université du Québec    
 Montréal, QC, Canada  
 
+<a href="http://example.com/" target="_blank">Hello, world!</a>
+
 *Email:*  tri-nhu.do (at) etsmtl.ca  
 
 # Biography
