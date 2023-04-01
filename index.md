@@ -70,7 +70,7 @@ Hongik University, South Korea
 
 **Reviewer**
 - <a href="https://www.comsoc.org/publications/journals/ieee-tcom/exemplary-reviewers" target="_blank">Exemplary Reviewer</a> for the IEEE Transactions on Communications in 2020
-- <a href="https://publons.com/author/1242622/tri-nhu-do" target="_blank">Top reviewers</a> in Computer Science (top 1% in Field) in 2018-2019
+- <a href="https://www.webofscience.com/wos/author/record/1600629" target="_blank">Top reviewers</a> in Computer Science (top 1% in Field) in 2018-2019
 
 **Technical Program Committee (TPC) Member**
 - WCNC, GLOBECOM, VTC, ANTS
