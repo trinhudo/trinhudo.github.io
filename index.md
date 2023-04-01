@@ -23,21 +23,21 @@ Tri-Nhu Do was born in Da Nang, Vietnam. In 2012, he received a bachelor's degre
 
 **Doctor of Philosophy (Ph.D.)**, 2018   
 Electronics and Computer Engineering  
-[Hongik University](http://www.hongik.ac.kr/index.do){:target="_blank"}, South Korea  
+<a href="http://www.hongik.ac.kr/index.do" target="_blank">Hongik University</a>, South Korea  
 *Thesis:* Cooperative Transmission Schemes for Energy and Spectral Efficient Wireless Networks  
-*Supervisor:* [Prof. Beongku An](http://unclab.hongik.ac.kr/professor.php){:target="_blank"}   
+*Supervisor:* <a href="http://unclab.hongik.ac.kr/professor.php" target="_blank">Prof. Beongku An</a>  
 
 **Master of Science (M.S.),** 2015     
 Electronics and Computer Engineering  
-[Hongik University](http://www.hongik.ac.kr/index.do){:target="_blank"}, South Korea  
+<a href="http://www.hongik.ac.kr/index.do" target="_blank">Hongik University</a>, South Korea  
 _Thesis_: Centralized Cooperative Spectrum Sensing Schemes for Cognitive Radio Networks  
-_Supervisor:_ [Prof. Beongku An](http://unclab.hongik.ac.kr/professor.php){:target="_blank"}    
+_Supervisor:_ <a href="http://unclab.hongik.ac.kr/professor.php" target="_blank">Prof. Beongku An</a>      
 
 **Bachelor of Engineering (B.Eng.)**, 2012     
 Electronics and Telecommunication Engineering  
-[Posts and Telecommunications Institute of Technology](http://hcm.ptit.edu.vn){:target="_blank"}, Vietnam  
+<a href="http" target="_blank">Hello</a>  [Posts and Telecommunications Institute of Technology](http://hcm.ptit.edu.vn){:target="_blank"}, Vietnam  
 _Thesis_: A Study on Multiple-Input Multiple-Output (MIMO) Technique in Evolved High Speed Packet Access (HSPA+) Networks  
-_Supervisor:_ [Prof. Vo Nguyen Quoc Bao](https://sites.google.com/site/baovnq){:target="_blank"}  
+_Supervisor:_ <a href="http" target="_blank">Hello</a>  [Prof. Vo Nguyen Quoc Bao](https://sites.google.com/site/baovnq){:target="_blank"}  
 
 # Research Experiences  
 ---  
@@ -47,7 +47,7 @@ Resilient Machine Learning Institute (ReMI)
 Department of Electrical Engineering  
 École de Technologie Supérieure (ÉTS)  
 Université du Québec, Montreal, Canada  
-_Supervisor:_ [Prof. Georges Kaddoum](https://www.etsmtl.ca/Professeurs/gkaddoum/Accueil?lang=en-CA){:target="_blank"}  
+_Supervisor:_ <a href="https://www.etsmtl.ca/Professeurs/gkaddoum/Accueil?lang=en-CA" target="_blank">Prof. Georges Kaddoum</a>    
 
 **Postdoctoral Research Associate**, 2019  
 Department of Computer Science  
@@ -57,15 +57,15 @@ _Supervisor:_ [Prof. Zygmunt J. Haas](https://personal.utdallas.edu/~haas/){:tar
 **Graduate Research Assistant**, 2013-2018     
 Ubiquitous Networks & Convergence Laboratory (UNC Lab)  
 Department of Software and Communications Engineering  
-[Hongik University](http://www.hongik.ac.kr/index.do), South Korea  
-_Supervisor:_ [Prof. Beongku An](http://unclab.hongik.ac.kr/professor.php){:target="_blank"}  
+<a href="http://www.hongik.ac.kr/index.do" target="_blank">Hongik University</a>, South Korea  
+_Supervisor:_ <a href="http://unclab.hongik.ac.kr/professor.php" target="_blank">Prof. Beongku An</a>    
 
 # Teaching Experiences  
 ---  
 
 **Teaching Associate**  
 Department of Software and Communications Engineering  
-[Hongik University](http://www.hongik.ac.kr/index.do){:target="_blank"}, South Korea  
+<a href="http://www.hongik.ac.kr/index.do" target="_blank">Hongik University</a>, South Korea  
 - Course [012301]: Computer Engineering–Introduction and Practice, Sping–2017/2018  
 - Course [704410]: Computer Architecture, Fall–2017  
 
