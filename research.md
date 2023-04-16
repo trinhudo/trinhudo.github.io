@@ -54,5 +54,3 @@ Newly recruited Ph.D. students
   Hankyong National University, Anseong, South Korea
   - *Topic:* Physical Layer Security in Wireless Communications and Networkings
   - From Mar. 2017 to Aug. 2021
-  
-[Home](./)

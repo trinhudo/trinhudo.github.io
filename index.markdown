@@ -74,5 +74,3 @@ Hongik University, South Korea
 **Technical Program Committee (TPC) Member**
 - WCNC, GLOBECOM, VTC, ANTS
 
-[Home](./)
-
