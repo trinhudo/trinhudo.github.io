@@ -1,12 +1,15 @@
+---
+layout: home
+title: Research
+---
+
 # Research Interests
 
 - Applied probability and statistics for wireless channel modeling and statistical characterization
 - Resource allocation and performance analysis of wireless networks
-- Applied artificial intelligence and machine learning for wireless communications
+- Applied artificial intelligence and machine learning for wireless communications  
 
-
-# PhD Students  
----  
+# PhD Students
 
 Newly recruited Ph.D. students
 
@@ -44,7 +47,6 @@ Newly recruited Ph.D. students
   - From Jan. 2021 to *present*
 
 # Former team members
----  
 
 - **[Dr. Kyusung Shim](https://scholar.google.com/citations?user=6mWz69sAAAAJ)**  
   Assistant Professor (tenured track)  

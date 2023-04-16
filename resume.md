@@ -1,4 +1,6 @@
-# Tri-Nhu Do
+---
+layout: home
+title: Resume
 ---
 
 **Postdoctoral Research Fellow**  
