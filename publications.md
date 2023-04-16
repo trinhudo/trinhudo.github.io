@@ -4,6 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
+- [**Google Scholar**](https://scholar.google.com/citations?user=cwdP-oYAAAAJ&hl=en){:target="_blank"}
+- [**Code on GitHub**](https://github.com/trinhudo?tab=repositories){:target="_blank"}
+
 ## Selected Journal Papers
 
 - Thanh Luan Nguyen, Georges Kaddoum, Tri Nhu Do, Daniel Benevides da Costa, and Zygmunt J. Haas, "[Adaptive Decoding Mechanisms for UAV-enabled Double-Uplink Coordinated NOMA](https://github.com/trinhudo/Uplink-NOMA-UAV-Mobility)," *IEEE Transactions on Vehicular Technology*, Mar. 2023.  
