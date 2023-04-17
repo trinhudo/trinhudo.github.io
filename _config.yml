@@ -5,12 +5,8 @@ author:
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description:
-  Postdoctoral Research Fellow,   
-  Resilient Machine Learning Institute (ReMI),    
-  École de Technologie Supérieure (ÉTS),  
-  Université du Québec,  
-  Montréal, QC, Canada  
+#description: >
+
 
 # Build settings
 
