@@ -12,7 +12,7 @@ Montréal, QC, Canada
 
 *Email:*  tri-nhu.do (at) etsmtl.ca
 
-# Education 
+## Education 
 
 **Doctor of Philosophy (Ph.D.)**, 2018   
 Electronics and Computer Engineering  
@@ -32,7 +32,7 @@ Electronics and Telecommunication Engineering
 _Thesis_: A Study on Multiple-Input Multiple-Output (MIMO) Technique in Evolved High Speed Packet Access (HSPA+) Networks  
 _Supervisor:_ <a href="https://sites.google.com/site/baovnq" target="_blank">Prof. Vo Nguyen Quoc Bao</a>    
 
-# Research Experiences
+## Research Experiences
 
 **Postdoctoral Research Fellow**, 2020 to _present_       
 Resilient Machine Learning Institute (ReMI)  
@@ -52,7 +52,7 @@ Department of Software and Communications Engineering
 Hongik University, South Korea  
 _Supervisor:_ <a href="http://unclab.hongik.ac.kr/professor.php" target="_blank">Prof. Beongku An</a>  
 
-# Teaching Experiences   
+## Teaching Experiences   
 
 **Teaching Associate**  
 Department of Software and Communications Engineering  
@@ -60,7 +60,7 @@ Hongik University, South Korea
 - Course [012301]: Computer Engineering–Introduction and Practice, Sping–2017/2018  
 - Course [704410]: Computer Architecture, Fall–2017  
 
-# Academic Services 
+## Academic Services 
 
 **Reviewer**
 - <a href="https://www.comsoc.org/publications/journals/ieee-tcom/exemplary-reviewers" target="_blank">Exemplary Reviewer</a> for the IEEE Transactions on Communications in 2020
