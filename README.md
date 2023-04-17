@@ -6,3 +6,7 @@ Université du Québec
 Montréal, Canada  
 *Email: tri-nhu.do (at) etsmtl.ca*
 
+# Jekyll / minima
+
+- [Jekyll](https://jekyllrb.com/){:target="_blank"}
+- [minima v3](https://github.com/jekyll/minima){:target="_blank"}
