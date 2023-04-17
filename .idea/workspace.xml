@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adb7e891-b499-4d8d-bcd4-e75b5fc90e31" name="Changes" comment="GitHub Desktop / PyCharm">
-      <change afterPath="$PROJECT_DIR$/_posts/2023-04-16-latex-and-mathjax.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-04-16-welcome-to-jekyll.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-04-16-welcome-to-jekyll.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2023/04/16/welcome-to-jekyll.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2023/04/16/welcome-to-jekyll.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-04-16-latex-and-mathjax.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-04-16-latex-and-mathjax.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2023/04/16/latex-and-mathjax.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2023/04/16/latex-and-mathjax.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +17,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -237,7 +236,28 @@
       <option name="project" value="LOCAL" />
       <updated>1681701570183</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="GitHub Desktop / PyCharm">
+      <created>1681702177527</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1681702177527</updated>
+    </task>
+    <task id="LOCAL-00028" summary="GitHub Desktop / PyCharm">
+      <created>1681702383834</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1681702383834</updated>
+    </task>
+    <task id="LOCAL-00029" summary="GitHub Desktop / PyCharm">
+      <created>1681702404038</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1681702404038</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

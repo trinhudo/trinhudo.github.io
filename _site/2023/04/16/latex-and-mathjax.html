@@ -8,8 +8,8 @@
 <meta property="og:title" content="Latex and Mathjax" />
 <meta name="author" content="Tri-Nhu" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="In line: $x^2 + y^2 = z^2$" />
-<meta property="og:description" content="In line: $x^2 + y^2 = z^2$" />
+<meta name="description" content="Let $Y$ be an RV following a Gamma distribution, parameterized by $\alpha$ and $\theta$, with PDF and CDF, respectively, given by" />
+<meta property="og:description" content="Let $Y$ be an RV following a Gamma distribution, parameterized by $\alpha$ and $\theta$, with PDF and CDF, respectively, given by" />
 <link rel="canonical" href="http://localhost:4000/2023/04/16/latex-and-mathjax.html" />
 <meta property="og:url" content="http://localhost:4000/2023/04/16/latex-and-mathjax.html" />
 <meta property="og:site_name" content="Tri-Nhu Do’s Academic Profile" />
@@ -18,7 +18,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Latex and Mathjax" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Tri-Nhu"},"dateModified":"2023-04-16T00:00:00-04:00","datePublished":"2023-04-16T00:00:00-04:00","description":"In line: $x^2 + y^2 = z^2$","headline":"Latex and Mathjax","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2023/04/16/latex-and-mathjax.html"},"url":"http://localhost:4000/2023/04/16/latex-and-mathjax.html"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Tri-Nhu"},"dateModified":"2023-04-16T00:00:00-04:00","datePublished":"2023-04-16T00:00:00-04:00","description":"Let $Y$ be an RV following a Gamma distribution, parameterized by $\\alpha$ and $\\theta$, with PDF and CDF, respectively, given by","headline":"Latex and Mathjax","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2023/04/16/latex-and-mathjax.html"},"url":"http://localhost:4000/2023/04/16/latex-and-mathjax.html"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Tri-Nhu Do&apos;s Academic Profile" />
 </head>
@@ -69,14 +69,37 @@
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    <p>In line: $x^2 + y^2 = z^2$</p>
-
-<p>Math display:</p>
+    <p>Let $Y$ be an RV following a Gamma distribution, 
+parameterized by $\alpha$ and $\theta$, 
+with PDF and CDF, respectively, 
+given by</p>
 
 \[\begin{align}
-x &amp;=1 \\
-y &amp;=2 \\
-z &amp;= x+y^2
+	f_Y (y ; \alpha, \theta) &amp;= \frac{1}{\Gamma(\alpha) \theta^\alpha} y^{\alpha - 1} \exp \left( -\frac{y}{\theta}\right), y \geq 0, \label{PDF_Gamma} \\
+	F_Y (y ; \alpha, \theta) &amp;= \frac{1}{\Gamma(\alpha)} \gamma\left( \alpha, \frac{y}{\theta}\right), y \geq 0 . \label{CDF_Gamma}
+\end{align}\]
+
+<p>Matrix:</p>
+
+\[\renewcommand{\vec}[1]{\boldsymbol{\mathrm{#1}}}
+\newcommand{\hub}{\mathsf{H}}
+\newcommand{\user}{\mathrm{U}}
+\newcommand{\Tx}{\mathrm{T}}
+\newcommand{\Rx}{\mathrm{R}}
+\newcommand{\jammer}{\mathrm{J}}
+\newcommand{\snr}{\mathtt{SNR}}
+\newcommand{\ccch}{\mathrm{C}}
+\newcommand{\data}{\mathrm{D}}
+\begin{align} 
+	\vec{H} = 
+	\begin{bmatrix}
+	    \tilde{h}_{\hub}^{f_1} &amp;  \dots  &amp; \tilde{h}_{\hub}^{f_k}  &amp; \dots &amp;\tilde{h}_{\hub}^{f_K} \\
+	    \tilde{h}_{\Tx_1 \Rx_1}^{f_1} &amp;  \dots  &amp; \tilde{h}_{\Tx_1 \Rx_1}^{f_k}  &amp; \dots &amp;\tilde{h}_{\Tx_1 \Rx_1}^{f_K} \\
+	    \vdots &amp; \vdots &amp; \vdots &amp; \ddots &amp; \vdots \\
+	    \tilde{h}_{\Tx_n \Rx_n}^{f_1} &amp;  \dots  &amp; \tilde{h}_{\Tx_n \Rx_n}^{f_k}  &amp; \dots &amp;\tilde{h}_{\Tx_n \Rx_n}^{f_K} \\
+	    \vdots &amp; \vdots &amp; \vdots &amp; \ddots &amp; \vdots \\
+	    \tilde{h}_{\Tx_N \Rx_N}^{f_1} &amp;  \dots  &amp; \tilde{h}_{\Tx_N \Rx_N}^{f_k}  &amp; \dots &amp;\tilde{h}_{\Tx_N \Rx_N}^{f_K} \\
+	\end{bmatrix},
 \end{align}\]
 
 <h2 id="reference">Reference</h2>

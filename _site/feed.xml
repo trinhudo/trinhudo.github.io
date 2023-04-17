@@ -1,17 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-16T23:32:49-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Tri-Nhu Do’s Academic Profile</title><author><name>Tri-Nhu Do</name><email>tri-nhu.do@etsmtl.ca</email></author><entry><title type="html">Latex and Mathjax</title><link href="http://localhost:4000/2023/04/16/latex-and-mathjax.html" rel="alternate" type="text/html" title="Latex and Mathjax" /><published>2023-04-16T00:00:00-04:00</published><updated>2023-04-16T00:00:00-04:00</updated><id>http://localhost:4000/2023/04/16/latex-and-mathjax</id><content type="html" xml:base="http://localhost:4000/2023/04/16/latex-and-mathjax.html"><![CDATA[<p>In line: $x^2 + y^2 = z^2$</p>
-
-<p>Math display:</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-16T23:47:19-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Tri-Nhu Do’s Academic Profile</title><author><name>Tri-Nhu Do</name><email>tri-nhu.do@etsmtl.ca</email></author><entry><title type="html">Latex and Mathjax</title><link href="http://localhost:4000/2023/04/16/latex-and-mathjax.html" rel="alternate" type="text/html" title="Latex and Mathjax" /><published>2023-04-16T00:00:00-04:00</published><updated>2023-04-16T00:00:00-04:00</updated><id>http://localhost:4000/2023/04/16/latex-and-mathjax</id><content type="html" xml:base="http://localhost:4000/2023/04/16/latex-and-mathjax.html"><![CDATA[<p>Let $Y$ be an RV following a Gamma distribution, 
+parameterized by $\alpha$ and $\theta$, 
+with PDF and CDF, respectively, 
+given by</p>
 
 \[\begin{align}
-x &amp;=1 \\
-y &amp;=2 \\
-z &amp;= x+y^2
+	f_Y (y ; \alpha, \theta) &amp;= \frac{1}{\Gamma(\alpha) \theta^\alpha} y^{\alpha - 1} \exp \left( -\frac{y}{\theta}\right), y \geq 0, \label{PDF_Gamma} \\
+	F_Y (y ; \alpha, \theta) &amp;= \frac{1}{\Gamma(\alpha)} \gamma\left( \alpha, \frac{y}{\theta}\right), y \geq 0 . \label{CDF_Gamma}
+\end{align}\]
+
+<p>Matrix:</p>
+
+\[\renewcommand{\vec}[1]{\boldsymbol{\mathrm{#1}}}
+\newcommand{\hub}{\mathsf{H}}
+\newcommand{\user}{\mathrm{U}}
+\newcommand{\Tx}{\mathrm{T}}
+\newcommand{\Rx}{\mathrm{R}}
+\newcommand{\jammer}{\mathrm{J}}
+\newcommand{\snr}{\mathtt{SNR}}
+\newcommand{\ccch}{\mathrm{C}}
+\newcommand{\data}{\mathrm{D}}
+\begin{align} 
+	\vec{H} = 
+	\begin{bmatrix}
+	    \tilde{h}_{\hub}^{f_1} &amp;  \dots  &amp; \tilde{h}_{\hub}^{f_k}  &amp; \dots &amp;\tilde{h}_{\hub}^{f_K} \\
+	    \tilde{h}_{\Tx_1 \Rx_1}^{f_1} &amp;  \dots  &amp; \tilde{h}_{\Tx_1 \Rx_1}^{f_k}  &amp; \dots &amp;\tilde{h}_{\Tx_1 \Rx_1}^{f_K} \\
+	    \vdots &amp; \vdots &amp; \vdots &amp; \ddots &amp; \vdots \\
+	    \tilde{h}_{\Tx_n \Rx_n}^{f_1} &amp;  \dots  &amp; \tilde{h}_{\Tx_n \Rx_n}^{f_k}  &amp; \dots &amp;\tilde{h}_{\Tx_n \Rx_n}^{f_K} \\
+	    \vdots &amp; \vdots &amp; \vdots &amp; \ddots &amp; \vdots \\
+	    \tilde{h}_{\Tx_N \Rx_N}^{f_1} &amp;  \dots  &amp; \tilde{h}_{\Tx_N \Rx_N}^{f_k}  &amp; \dots &amp;\tilde{h}_{\Tx_N \Rx_N}^{f_K} \\
+	\end{bmatrix},
 \end{align}\]
 
 <h2 id="reference">Reference</h2>
 <ul>
   <li><a href="https://scaomath.github.io/blog/welcome-to-jekyll/">Jekyll with Mathjax</a></li>
-</ul>]]></content><author><name>Tri-Nhu</name></author><summary type="html"><![CDATA[In line: $x^2 + y^2 = z^2$]]></summary></entry><entry><title type="html">Welcome To Jekyll</title><link href="http://localhost:4000/2023/04/16/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome To Jekyll" /><published>2023-04-16T00:00:00-04:00</published><updated>2023-04-16T00:00:00-04:00</updated><id>http://localhost:4000/2023/04/16/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2023/04/16/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+</ul>]]></content><author><name>Tri-Nhu</name></author><summary type="html"><![CDATA[Let $Y$ be an RV following a Gamma distribution, parameterized by $\alpha$ and $\theta$, with PDF and CDF, respectively, given by]]></summary></entry><entry><title type="html">Welcome To Jekyll</title><link href="http://localhost:4000/2023/04/16/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome To Jekyll" /><published>2023-04-16T00:00:00-04:00</published><updated>2023-04-16T00:00:00-04:00</updated><id>http://localhost:4000/2023/04/16/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2023/04/16/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
 <p>To add new posts, simply add a file in the <code class="language-plaintext highlighter-rouge">_posts</code> directory that follows the convention <code class="language-plaintext highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
 
