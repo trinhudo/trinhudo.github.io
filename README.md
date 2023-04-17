@@ -8,5 +8,5 @@ Montréal, Canada
 
 # Jekyll / minima
 
-- [Jekyll](https://jekyllrb.com/){:target="_blank"}
-- [minima v3](https://github.com/jekyll/minima){:target="_blank"}
+- [Jekyll](https://jekyllrb.com/)
+- [minima v3](https://github.com/jekyll/minima)
