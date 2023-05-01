@@ -12,12 +12,11 @@ permalink: /research/
 
 ## PhD Students
 
-Newly recruited Ph.D. students
+*(Co-supervise with Prof. Georges Kaddoum at ETS)*
 
 - **Thien Hieu Hoang**  
-  - (will start in May 2023)
-
-*(Co-supervise with Prof. Georges Kaddoum at ETS)*
+  - *Topic:* Federated Learning-aided Mobile Edge Computing  
+  - From May. 2023 to *present*
 
 - **[Thanh Luan Nguyen](https://scholar.google.com/citations?user=5RuFP-IAAAAJ&hl)**  
   - *Topic:* Reconfigurable Intelligent Surfaces (RIS) and Holographic RIS for 6G  
@@ -31,17 +30,9 @@ Newly recruited Ph.D. students
   - *Topic:* Representation Learning-based Transceiver Design in Tactical Wireless Networks
   - From Sep. 2022 to *present*
 
-- **Aida Meftah**  
+- **[Aida Meftah](https://www.researchgate.net/profile/Aida-Meftah)**  
   - *Topic:* Federated Learning-based Signal Detection and Calssification in Tactical Wireless Networks
   - From Feb. 2022 to *present*
-
-- **Mujtaba Ghous**  
-  - *Topic:* Transfer Learning-aided Ultra Reliable Low Latency Communication (URLLC) in Tactical Wireless Networks
-  - From Sep. 2021 to *present*
-
-- **[Muddasir Rahim](https://www.researchgate.net/profile/Mudassir-Rahim)**  
-  - *Topic:* Intelligent Reflecting Surface (IRS)-aided TeraHerzt (THz) Communications
-  - From Aug. 2021 to *present*
 
 - **[Hamda Bouzabia](https://www.researchgate.net/profile/Hamda-Bouzabia-2)**  
   - *Topic:* Generative Learning-based Jamming Detection in Tactical Wireless Networks
