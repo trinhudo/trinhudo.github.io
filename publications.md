@@ -10,8 +10,8 @@ permalink: /publications/
 ## Selected Journal Papers
 
 - Aida Meftah, Tri Nhu Do, Georges Kaddoum, Chamseddine Talhi, and Satinder Singh, 
-	**"[Federated Learning-Enabled Jamming Detection and Waveform Classification 
-  	for Distributed Tactical Wireless Networks](https://ieeexplore.ieee.org/document/10111007),"** 
+	"**[Federated Learning-Enabled Jamming Detection and Waveform Classification 
+  	for Distributed Tactical Wireless Networks](https://ieeexplore.ieee.org/document/10111007),**" 
 	*IEEE Transactions on Network and Service Management*, Apr. 2023.  
 
 - Thanh Luan Nguyen, Georges Kaddoum, Tri Nhu Do, Daniel Benevides da Costa, and Zygmunt J. Haas, "**[Adaptive Decoding Mechanisms for UAV-enabled Double-Uplink Coordinated NOMA](https://github.com/trinhudo/Uplink-NOMA-UAV-Mobility)**," *IEEE Transactions on Vehicular Technology*, Mar. 2023.  
