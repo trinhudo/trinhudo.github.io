@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-**TRI-NHU DO**  
-**Postdoctoral Research Fellow**  
+**Tri Nhu DO**  
+**_Postdoctoral Research Fellow_**  
 <a href="https://remi-institute.com/" target="_blank">Resilient Machine Learning Institute (ReMI)</a>  
 <a href="https://www.etsmtl.ca/" target="_blank">École de Technologie Supérieure (ÉTS)</a>  
 Université du Québec    
