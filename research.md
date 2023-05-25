@@ -10,7 +10,7 @@ permalink: /research/
 - Resource allocation and performance analysis of wireless networks
 - Applied artificial intelligence and machine learning for wireless communications  
 
-## PhD Students
+## Students
 
 *(Co-supervise with Prof. Georges Kaddoum at ETS)*
 
@@ -20,10 +20,6 @@ permalink: /research/
 
 - **[Thanh Luan Nguyen](https://scholar.google.com/citations?user=5RuFP-IAAAAJ&hl)**  
   - *Topic:* Reconfigurable Intelligent Surfaces (RIS) and Holographic RIS for 6G  
-  - From Sep. 2022 to *present*
-
-- **[Abdul Basit](https://scholar.google.com/citations?user=_gvfK7cAAAAJ&hl=en)**  
-  - *Topic:* Reinforcement Learning-based Medium Access Management in Heterogeneous Wireless Networks
   - From Sep. 2022 to *present*
 
 - **Manel Allani**  
