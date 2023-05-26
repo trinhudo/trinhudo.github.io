@@ -25,6 +25,18 @@ permalink: /research/
 - **[Thanh Luan Nguyen](https://scholar.google.com/citations?user=5RuFP-IAAAAJ&hl)**  
   - *Topic:* Reconfigurable Intelligent Surfaces (RIS) and Holographic RIS for 6G 
   - From Sep. 2022 to *present*
+ 
+ - **[Abdul Basit](https://scholar.google.com/citations?user=_gvfK7cAAAAJ&hl=en)**  
+  - *Topic:* Reinforcement Learning-based Medium Access Management in Heterogeneous Wireless Networks
+  - From Sep. 2022 to *present*
+
+- **Mujtaba Ghous**  
+  - *Topic:* Transfer Learning-aided Ultra Reliable Low Latency Communication (URLLC) in Tactical Wireless Networks
+  - From Sep. 2021 to *present*
+
+- **[Muddasir Rahim](https://www.researchgate.net/profile/Mudassir-Rahim)**  
+  - *Topic:* Intelligent Reflecting Surface (IRS)-aided TeraHerzt (THz) Communications
+  - From Aug. 2021 to *present*
 
 - **[Aida Meftah](https://www.researchgate.net/profile/Aida-Meftah)**  
   - *Topic:* Federated Learning-based Signal Detection and Classification in Tactical Wireless Networks
