@@ -8,6 +8,10 @@
 layout: home
 ---
 
+_(Incoming)_ **Assistant Professor**  
+<a href="https://www.polymtl.ca/ge/" target="_blank">Electrical Engineering Department</a>  
+<a href="https://www.polymtl.ca" target="_blank">Polytechnique Montréal</a>  
+Montreal, QC, Canada
 
 **Postdoctoral Research Fellow**  
 <a href="https://remi-institute.com/" target="_blank">Resilient Machine Learning Institute (ReMI)</a>  
