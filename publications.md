@@ -7,15 +7,29 @@ permalink: /publications/
 - [**Google Scholar**](https://scholar.google.com/citations?user=cwdP-oYAAAAJ&hl=en){:target="_blank"}
 - [**Codes on GitHub**](https://github.com/trinhudo?tab=repositories){:target="_blank"}
 
-## Selected Journal Papers
+## 2023
+
+- Tri Nhu Do and Georges Kaddoum, 
+  	"**Distributed Machine Learning for Terrestrial and Non-Terrestrial Internet of Things Networks**,"
+	_IEEE Internet of Things Magazine_,
+	(accepted), 2023.
 
 - Aida Meftah, Tri Nhu Do, Georges Kaddoum, Chamseddine Talhi, and Satinder Singh, 
 	"**[Federated Learning-Enabled Jamming Detection and Waveform Classification 
   	for Distributed Tactical Wireless Networks](https://ieeexplore.ieee.org/document/10111007),**" 
 	*IEEE Transactions on Network and Service Management*, Apr. 2023.  
 
-- Thanh Luan Nguyen, Georges Kaddoum, Tri Nhu Do, Daniel Benevides da Costa, and Zygmunt J. Haas, "**[Adaptive Decoding Mechanisms for UAV-enabled Double-Uplink Coordinated NOMA](https://github.com/trinhudo/Uplink-NOMA-UAV-Mobility)**," *IEEE Transactions on Vehicular Technology*, Mar. 2023.  
+- Thanh Luan Nguyen, Georges Kaddoum, Tri Nhu Do, Daniel Benevides da Costa, and Zygmunt J. Haas, 
+    "**[Adaptive Decoding Mechanisms for UAV-enabled Double-Uplink Coordinated NOMA](https://github.com/trinhudo/Uplink-NOMA-UAV-Mobility)**," 
+    *IEEE Transactions on Vehicular Technology*, 
+    Mar. 2023.  
 
+- Aida Meftah, Georges Kaddoum, Tri Nhu Do, and Chamseddine Talhi,
+    "**Federated Learning-based Jamming Detection for Tactical Terrestrial and Non-Terrestrial Networks**,"
+    _IEEE GLOBECOM 2023_, 
+    (accepted), 2023
+
+## Before 2023
 - Thanh Luan Nguyen, Tri Nhu Do, and Georges Kaddoum, "**[Performance Analysis of Multi-user NOMA Wireless-Powered mMTC Networks: A Stochastic Geometry Approach](https://github.com/trinhudo/NOMA-mMTC)**," *IEEE Transactions on Communications*, Oct. 2022.  
 
 - Thanh Luan Nguyen, Tri Nhu Do, Georges Kaddoum, Daniel B. da Costa, and Zygmunt J. Haas, "**[Channel Characterization for RIS-aided Terahertz Communications: A Stochastic Approach](https://github.com/trinhudo/THz-RIS-Stochastic)**," _IEEE Wireless Communications Letters_, Jun. 2022.  
@@ -45,9 +59,6 @@ permalink: /publications/
 - Tri Nhu Do and Beongku An, "**[A soft-hard combination-based cooperative spectrum sensing scheme for cognitive radio networks](http://www.mdpi.com/1424-8220/15/2/4388)**," *Sensors*, vol. 15, no. 2, pp. 4388-4407, Feb. 2015.
 
 - Tri Nhu Do and Beongku An, "**[Cooperative spectrum sensing schemes with the interference constraint in cognitive radio networks](http://www.mdpi.com/1424-8220/14/5/8037)**," *Sensors*, vol. 14, no. 5, pp. 8037-8056, May 2014.
-
-
-## Selected Conference Papers
 
 
 - Tri Nhu Do, Georges Kaddoum, Thanh Luan Nguyen, Daniel B. da Costa, and Zygmunt J. Haas, "**[Aerial Reconfigurable Intelligent Surface-Aided Wireless Communication Systems](https://github.com/trinhudo/Aerial-RIS)**," in *Proc. 2021 IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)*, Sep. 2021. ([MATLAB and Python code](https://github.com/trinhudo)) 
