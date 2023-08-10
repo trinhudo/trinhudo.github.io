@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adb7e891-b499-4d8d-bcd4-e75b5fc90e31" name="Changes" comment="GitHub Desktop / PyCharm">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/minima/_layout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minima/_layout.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/research/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/research/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/publications.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/research.md" beforeDir="false" afterPath="$PROJECT_DIR$/research.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,13 +74,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681670177312</updated>
-    </task>
-    <task id="LOCAL-00011" summary="GitHub Desktop / PyCharm / non-bundle">
-      <created>1681672548492</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1681672548492</updated>
     </task>
     <task id="LOCAL-00012" summary="GitHub Desktop / PyCharm / non-bundle">
       <created>1681676517855</created>
@@ -410,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691631811899</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="GitHub Desktop / PyCharm">
+      <created>1691631908215</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1691631908215</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

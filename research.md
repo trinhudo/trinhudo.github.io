@@ -6,9 +6,11 @@ permalink: /research/
 
 ## Research Interests
 
-- Applied probability and statistics for wireless channel modeling and statistical characterization
-- Resource allocation and performance analysis of wireless networks
-- Applied artificial intelligence and machine learning for wireless communications  
+- Wireless channel characterization and modeling
+- Radio resource allocation
+- Statistics and probability 
+- AI/ML for wireless communications  
+- Quantum information theory
 
 ## Research Team
 
@@ -45,4 +47,3 @@ permalink: /research/
 - **[Hamda Bouzabia](https://www.researchgate.net/profile/Hamda-Bouzabia-2)**  
   - *Topic:* Deep Learning-aided Jamming Detection in Tactical Wireless Networks
   - From Jan. 2021 to *present*
-
