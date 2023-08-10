@@ -2,6 +2,12 @@
 layout: home
 ---
 
+[//]: # (![Tri Nhu Do]&#40;assets/trinhu.png&#41;{: style="float: left; margin-right: 7px; margin-top: 7px; width="200"})
+
+[//]: # (<img src="assets/trinhu.png" width="200" height="200"/>)
+
+<img src="assets/trinhu.png" width="200" height="200" style="float:right;width:300;height:300; margin-right: 33px; margin-top: 7px;margin-bottom: 7px;" />
+
 _(Incoming)_ **Assistant Professor**  
 <a href="https://www.polymtl.ca/ge/" target="_blank">Electrical Engineering Department</a>  
 <a href="https://www.polymtl.ca" target="_blank">Polytechnique Montréal</a>  
