@@ -38,7 +38,7 @@ permalink: /publications/
 
 - Tri Nhu Do, Georges Kaddoum, Thanh Luan Nguyen, Daniel B. da Costa, and Zygmunt J. Haas, "**[Multi-RIS-aided Wireless Systems: Statistical Characterization and Performance Analysis](https://github.com/trinhudo/Multi-RIS)**," *IEEE Transactions on Communications*, Sep. 2021. ([MATLAB code](https://github.com/trinhudo)) 
 
-- Kyusung Shim\*, Tri Nhu Do, Toan Van Nguyen, Daniel B. da Costa, and Beongku An, "**[Enhancing PHY-Security of FD-Enabled NOMA Systems Using Jamming and User Selection: Performance Analysis and DNN Evaluation](https://github.com/trinhudo/PHY_Security_NOMA_FD_DNN)**," *IEEE Internet of Things Journal*, May 2021. ([MATLAB and Python code](https://github.com/trinhudo)) 
+- Kyusung Shim, Tri Nhu Do, Toan Van Nguyen, Daniel B. da Costa, and Beongku An, "**[Enhancing PHY-Security of FD-Enabled NOMA Systems Using Jamming and User Selection: Performance Analysis and DNN Evaluation](https://github.com/trinhudo/PHY_Security_NOMA_FD_DNN)**," *IEEE Internet of Things Journal*, May 2021. ([MATLAB and Python code](https://github.com/trinhudo)) 
 
 - Tri Nhu Do and Zygmunt J. Haas, "**[On the Design of RD-MIMO: Spatial Multiplexing versus Opportunistic Transmission Schemes](https://ieeexplore.ieee.org/document/8974614)**," *IEEE Access*, vol. 8, pp. 22733-22747, Jan. 2020.
 
@@ -65,11 +65,11 @@ permalink: /publications/
 
 - Tri Nhu Do, and Beongku An, "**[Optimal sum-throughput analysis for downlink cooperative SWIPT NOMA systems](https://ieeexplore.ieee.org/document/8325811)**," in *Proc. 2018 IEEE International Conference on Recent Advances in Signal Processing, Telecommunications & Computing (SigTelCom)*, Ho Chi Minh city, Vietnam, Jan. 2018, pp. 85-90. ([MATLAB code](https://github.com/trinhudo))
 
-- Kyusung Shim\*, Tri Nhu Do, Beongku An, "**[Improving Physical Layer Security of NOMA Networks by Using Opportunistic Scheduling](https://ieeexplore.ieee.org/document/8436962/)**," in *Proc. 2018 IEEE International Conference on Ubiquitous and Future Networks (ICUFN)*, Prague, Czech Republic, Jul. 2018, pp. 262-267. **_Best Paper Award_**
+- Kyusung Shim, Tri Nhu Do, Beongku An, "**[Improving Physical Layer Security of NOMA Networks by Using Opportunistic Scheduling](https://ieeexplore.ieee.org/document/8436962/)**," in *Proc. 2018 IEEE International Conference on Ubiquitous and Future Networks (ICUFN)*, Prague, Czech Republic, Jul. 2018, pp. 262-267. **_Best Paper Award_**
 
-- Kyusung Shim\*, Hyukchun Oh, Tri Nhu Do, Beongku An, "**[A Physical Layer Security-Based Transmit Antenna Selection Scheme for NOMA Systems](https://ieeexplore.ieee.org/document/8436960/)**," in *Proc. 2018 IEEE International Conference on Ubiquitous and Future Networks (ICUFN)*, Prague, Czech Republic, Jul. 2018, pp. 597-602.
+- Kyusung Shim, Hyukchun Oh, Tri Nhu Do, Beongku An, "**[A Physical Layer Security-Based Transmit Antenna Selection Scheme for NOMA Systems](https://ieeexplore.ieee.org/document/8436960/)**," in *Proc. 2018 IEEE International Conference on Ubiquitous and Future Networks (ICUFN)*, Prague, Czech Republic, Jul. 2018, pp. 597-602.
 
-- Kyusung Shim\*, Tri Nhu Do, and Beongku An, "**[A physical layer security-based routing protocol in mobile ad-hoc wireless networks](https://ieeexplore.ieee.org/document/8323778)**," in *Proc. 20th IEEE International Conference on Advanced Communications Technology (ICACT)*, Gangwon-do, South Korea, Feb. 2018, pp. 417-422. **_Outstanding Paper Award_**
+- Kyusung Shim, Tri Nhu Do, and Beongku An, "**[A physical layer security-based routing protocol in mobile ad-hoc wireless networks](https://ieeexplore.ieee.org/document/8323778)**," in *Proc. 20th IEEE International Conference on Advanced Communications Technology (ICACT)*, Gangwon-do, South Korea, Feb. 2018, pp. 417-422. **_Outstanding Paper Award_**
 
 - Tri Nhu Do, Daniel B. da Costa, Trung Q. Duong, and Beongku An, "**[A full-duplex cooperative scheme with distributed switch-and-stay combining for NOMA networks](http://ieeexplore.ieee.org/document/8254917/)**," in *Proc. 2017 IEEE Global Communications Conference (GLOBECOM)*, Singapore, Dec. 2017, pp. 1-6.
 	
