@@ -87,7 +87,7 @@ permalink: /publications/
 		
 - Tri Nhu Do and Beongku An, "**[A discussion of cooperative spectrum sensing using Alamouti code in cognitive radio networks](http://www.dbpia.co.kr/Article/NODE02242725)**," in *Proc. 2013 The Institute of Electronics Engineers of Korea (IEEK) Summer Conference*, Jeju Island, South Korea, Jun. 2013, pp. 1437-1438.
 
-## Book Chapters  
+## Book Chapters
 
 - Tri Nhu Do, Georges Kaddoum, and Thanh Luan Nguyen, "**[Distributed Multi-IRS-aided 6G Wireless Networks: Channel Characterization and Performance Analysis](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119875284.ch10)**,"
 (a book chapter in the book entitled "Intelligent Reconfigurable Surfaces (IRS) for Prospective 6G Wireless Networks," Wiley, 2022.)
