@@ -6,7 +6,7 @@ layout: home
 
 [//]: # (<img src="assets/trinhu.png" width="200" height="200"/>)
 
-<img src="assets/trinhu.png" width="200" height="200" style="float:right; width:30%; height:auto; margin-leaft: 20 px; margin-right: 20 px; margin-top: 7px;margin-bottom: 7px;" />
+<img src="assets/trinhu.png" width="200" height="200" style="float:left; width:30%; height:auto; margin-left: 2px; margin-right: 20px; margin-top: 7px;margin-bottom: 7px;" />
 
 _(Incoming)_ **Assistant Professor**  
 <a href="https://www.polymtl.ca/ge/" target="_blank">Electrical Engineering Department</a>  
