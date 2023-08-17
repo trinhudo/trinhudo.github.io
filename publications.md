@@ -9,10 +9,14 @@ permalink: /publications/
 
 ## 2023
 
+- Thanh Luan Nguyen, Georges Kaddoum, Tri Nhu Do, and Zygmunt J. Haas,
+  	"**Channel Characterization of UAV-RIS-aided Systems with Adaptive Phase-shift Configuration**,"
+  	_IEEE Wireless Communications Letters_, Aug. 2023.
+
 - Tri Nhu Do and Georges Kaddoum, 
   	"**Distributed Machine Learning for Terrestrial and Non-Terrestrial Internet of Things Networks**,"
 	_IEEE Internet of Things Magazine_,
-	(accepted), 2023.
+  	Jul. 2023.
 
 - Aida Meftah\*, Tri Nhu Do, Georges Kaddoum, Chamseddine Talhi, and Satinder Singh, 
 	"**[Federated Learning-Enabled Jamming Detection and Waveform Classification 
@@ -25,9 +29,9 @@ permalink: /publications/
     Mar. 2023.  
 
 - Aida Meftah\*, Georges Kaddoum, Tri Nhu Do, and Chamseddine Talhi,
-    "**Federated Learning-based Jamming Detection for Tactical Terrestrial and Non-Terrestrial Networks**,"
-    _IEEE GLOBECOM 2023_, 
-    (accepted), 2023
+  	"**Federated Learning-based Jamming Detection for Tactical Terrestrial and Non-Terrestrial Networks**,"
+  	_IEEE GLOBECOM 2023_,
+  	2023
 
 ## Before 2023
 - Thanh Luan Nguyen\*, Tri Nhu Do, and Georges Kaddoum, "**[Performance Analysis of Multi-user NOMA Wireless-Powered mMTC Networks: A Stochastic Geometry Approach](https://github.com/trinhudo/NOMA-mMTC)**," *IEEE Transactions on Communications*, Oct. 2022.  
