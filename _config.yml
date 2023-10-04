@@ -1,9 +1,9 @@
-title: Tri Nhu Do
+title: Tri-Nhu Do
 description : "Assistant Professor at Polytechnique Montréal"
 
 author:
-  name: Tri Nhu Do
-  email: tri-nhu.do@etsmtl.ca
+  name: Tri-Nhu Do
+  email: tri-nhu.do@polymtl.ca
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
