@@ -4,14 +4,14 @@ title: About
 permalink: /about/
 ---
 
-**Tri Nhu DO**  
-**_Postdoctoral Research Fellow_**  
-<a href="https://remi-institute.com/" target="_blank">Resilient Machine Learning Institute (ReMI)</a>  
-<a href="https://www.etsmtl.ca/" target="_blank">École de Technologie Supérieure (ÉTS)</a>  
-Université du Québec    
-Montréal, QC, Canada  
+**Tri-Nhu DO**  
 
-*Email:*  tri-nhu.do@etsmtl.ca
+**Assistant Professor**  
+<a href="https://www.polymtl.ca/ge/" target="_blank">Electrical Engineering Department</a>  
+<a href="https://www.polymtl.ca" target="_blank">Polytechnique Montréal</a>  
+Montreal, QC, Canada
+
+*Email:*  tri-nhu.do@polymtl.ca
 
 ## Education 
 
