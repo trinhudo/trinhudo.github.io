@@ -12,7 +12,7 @@ layout: home
 <a href="https://www.polymtl.ca/ge/" target="_blank">Département de génie électrique</a>   
 <a href="https://www.polymtl.ca" target="_blank">Polytechnique Montréal</a>  
 Montréal, QC, Canada  
-Bureau: Lassonde Pavilion, M-6109  
+Bureau: Pavilion Lassonde, M-6109  
 Tél.: 514-340-4711 poste 4106  
   
 _(in English)_  
