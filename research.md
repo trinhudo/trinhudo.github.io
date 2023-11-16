@@ -6,13 +6,12 @@ permalink: /research/
 
 ## Research Interests
 
-- Telecommunications
-- AI/ML
+- Telecommunications and wireless communications
 - Wireless channel characterization and modeling
-- Radio resource allocation
+- Radio resource management
 - Statistics and probability 
 - AI/ML for wireless communications  
-- Quantum information theory
+- Quantum communications
 
 ## Research Team
 
