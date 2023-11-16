@@ -49,4 +49,12 @@ Department of Software and Communications Engineering
 Hongik University, South Korea  
 _Supervisor:_ <a href="http://unclab.hongik.ac.kr/professor.php" target="_blank">Prof. Beongku An</a>  
 
+## Teaching
+
+**At Polytechnique Montréal**  
+- ELE6703 Theory of Communications, _Winter 2023_
+
+**At Hongik University**
+- Course [012301]: Computer Engineering–Introduction and Practice, _Sping 2017/2018_  
+- Course [704410]: Computer Architecture, _Fall 2017_  
 
