@@ -21,7 +21,7 @@ permalink: /research/
 - TBA PhD student in May 2024
   - *Topic:* AI-Native Telecommunication (ANT) Systems
 
-**Collaboration with Prof. Gunes Karabulut Kurt at Polytechnique Montréal**
+**Research Collaboration with Prof. Gunes Karabulut Kurt at Polytechnique Montréal**
 
 - **Eray Guven**
   - *Topic:* SDR-THz: Theoretical Model, Testbed Implementation, and Proof-of-Concept Demonstration
@@ -31,7 +31,7 @@ permalink: /research/
   - *Topic:* Solar Flare Forecasting 
   - From Nov. to Dec. 2023
 
-**Collaboration with Prof. Beongku An at Hongik University**
+**Research Collaboration with Prof. Beongku An at Hongik University**
 
 - **Yosefine Triwidyastuti**
   - *Topic:* On the Security of RIS-aided Wireless Communications
