@@ -16,7 +16,7 @@ permalink: /research/
 
 ## Research Team
 
-** Main Supervison at Polytechnique Montréal**
+**Main Supervison at Polytechnique Montréal**
 
 - TBA PhD student in May 2024
   - *Topic:* AI-Native Telecommunication (ANT) Systems
