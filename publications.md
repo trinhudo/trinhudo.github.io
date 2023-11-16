@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 - [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=cwdP-oYAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}
-- [**Polytechnique Montréal's Library**](https://www.polymtl.ca/expertises/en/do-tri-nhu/publications){:target="_blank"}
+- [**Polytechnique Montréal's PolyPublie**](https://www.polymtl.ca/expertises/en/do-tri-nhu/publications){:target="_blank"}
 - [**Codes on GitHub**](https://github.com/trinhudo?tab=repositories){:target="_blank"}
 
 Authors marked with an asterisk were/are _my students_ under my _main, co-, or collaborative_ supervision.  
