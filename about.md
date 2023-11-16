@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-**Tri-Nhu DO**  
-
-**Assistant Professor**  
-<a href="https://www.polymtl.ca/ge/" target="_blank">Electrical Engineering Department</a>  
-<a href="https://www.polymtl.ca" target="_blank">Polytechnique Montréal</a>  
-Montreal, QC, Canada
-
-*Email:*  tri-nhu.do@polymtl.ca
-
 ## Education 
 
 **Doctor of Philosophy (Ph.D.)**, 2018   
@@ -35,11 +26,16 @@ _Supervisor:_ <a href="https://sites.google.com/site/baovnq" target="_blank">Pro
 
 ## Research Experiences
 
-**Postdoctoral Research Fellow**, 2020 to _present_       
+**Assistant Professor**, Oct. to _present_
+<a href="https://www.polymtl.ca/expertises/en/do-tri-nhu" target="_blank">Department of Electrical Engineering</a>  
+<a href="https://www.polymtl.ca/expertises/en/do-tri-nhu" target="_blank">Polytechnique Montréal</a>  
+Montréal, Québec, Canada  
+
+**Postdoctoral Research Fellow**, 2020 to 2023      
 Resilient Machine Learning Institute (ReMI)  
 Department of Electrical Engineering  
-École de Technologie Supérieure (ÉTS)  
-Université du Québec, Montreal, Canada  
+École de technologie supérieure (ÉTS)  
+University of Québec, Montréal, Canada  
 _Supervisor:_ <a href="https://www.etsmtl.ca/Professeurs/gkaddoum/Accueil?lang=en-CA" target="_blank">Prof. Georges Kaddoum</a>    
 
 **Postdoctoral Research Associate**, 2019  
@@ -53,20 +49,4 @@ Department of Software and Communications Engineering
 Hongik University, South Korea  
 _Supervisor:_ <a href="http://unclab.hongik.ac.kr/professor.php" target="_blank">Prof. Beongku An</a>  
 
-## Teaching Experiences   
-
-**Teaching Associate**  
-Department of Software and Communications Engineering  
-Hongik University, South Korea  
-- Course [012301]: Computer Engineering–Introduction and Practice, Sping–2017/2018  
-- Course [704410]: Computer Architecture, Fall–2017  
-
-## Academic Services 
-
-**Reviewer**
-- <a href="https://www.comsoc.org/publications/journals/ieee-tcom/exemplary-reviewers" target="_blank">Exemplary Reviewer</a> for the IEEE Transactions on Communications in 2020
-- <a href="https://www.webofscience.com/wos/author/record/1600629" target="_blank">Top reviewers</a> in Computer Science (top 1% in Field) in 2018-2019
-
-**Technical Program Committee (TPC) Member**
-- WCNC, GLOBECOM, VTC, ANTS
 
