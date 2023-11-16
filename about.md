@@ -26,7 +26,7 @@ _Supervisor:_ <a href="https://sites.google.com/site/baovnq" target="_blank">Pro
 
 ## Research Experiences
 
-**Assistant Professor**, Oct. to _present_  
+**Assistant Professor**, Oct. 2023 to _present_  
 <a href="https://www.polymtl.ca/expertises/en/do-tri-nhu" target="_blank">Department of Electrical Engineering</a>  
 <a href="https://www.polymtl.ca/expertises/en/do-tri-nhu" target="_blank">Polytechnique Montréal</a>  
 Montréal, Québec, Canada  
