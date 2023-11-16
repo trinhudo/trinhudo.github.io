@@ -9,23 +9,16 @@ layout: home
 
 <img src="assets/trinhu.png" width="200" height="200" style="float:left; width:30%; height:auto; margin-left: 2px; margin-right: 20px; margin-top: 7px;margin-bottom: 7px;" />
 
-
-**Professeur adjoint**  
-<a href="https://www.polymtl.ca/ge/" target="_blank">Département de génie électrique</a>   
-<a href="https://www.polymtl.ca" target="_blank">Polytechnique Montréal</a>  
-Montréal, QC, Canada  
-Bureau: Pavilion Lassonde, M-6109  
-Tél.: 514-340-4711 poste 4106  
-  
-_(in English)_  
 --->
 
 **Assistant Professor**  
 <a href="https://www.polymtl.ca/expertises/en/do-tri-nhu" target="_blank">Department of Electrical Engineering</a>  
 <a href="https://www.polymtl.ca/expertises/en/do-tri-nhu" target="_blank">Polytechnique Montréal</a>  
 Montréal, Québec, Canada  
-Office: Lassonde Pavilion, M-6109  
-Telephone: 514-340-4711 extension 4106  
+_Office:_ Lassonde Pavilion, M-6109  
+_Telephone:_ 514-340-4711 extension 4106  
+_Email:_  tri-nhu.do@polymtl.ca
+
 <a href="https://www.polymtl.ca/expertises/en/do-tri-nhu" target="_blank"> Directory of Experts: Do, Tri Nhu</a> 
 
   
