@@ -47,11 +47,11 @@ permalink: /research/
   - *Topic:* Generative AI-aided End-to-End Communications for Tactical Wireless Networks
   - From Sep. 2022 to *present*
 
-- **[Thanh Luan Nguyen](https://scholar.google.com/citations?user=5RuFP-IAAAAJ&hl)**  
+- **Thanh Luan Nguyen**  
   - *Topic:* Reconfigurable Intelligent Surfaces (RIS) and Holographic RIS for 6G 
   - From Sep. 2022 to *present*
  
-- **[Abdul Basit](https://scholar.google.com/citations?user=_gvfK7cAAAAJ&hl=en)**  
+- **Abdul Basit**  
   - *Topic:* Reinforcement Learning-based Medium Access Management in Heterogeneous Wireless Networks
   - From Sep. 2022 to Sep. 2023
 
@@ -59,14 +59,14 @@ permalink: /research/
   - *Topic:* Transfer Learning-aided Ultra Reliable Low Latency Communication (URLLC) in Tactical Wireless Networks
   - From Sep. 2021 to *present*
 
-- **[Muddasir Rahim](https://www.researchgate.net/profile/Mudassir-Rahim)**  
+- **Muddasir Rahim**  
   - *Topic:* Intelligent Reflecting Surface (IRS)-aided TeraHerzt (THz) Communications
   - From Aug. 2021 to *present*
 
-- **[Aida Meftah](https://www.researchgate.net/profile/Aida-Meftah)**  
+- **Aida Meftah**  
   - *Topic:* Federated Learning-based Signal Detection and Classification in Tactical Wireless Networks
   - From Feb. 2022 to *present*
 
-- **[Hamda Bouzabia](https://www.researchgate.net/profile/Hamda-Bouzabia-2)**  
+- **Hamda Bouzabia**  
   - *Topic:* Deep Learning-aided Jamming Detection in Tactical Wireless Networks
   - From Jan. 2021 to *present*
