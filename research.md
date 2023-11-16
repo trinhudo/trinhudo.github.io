@@ -23,11 +23,11 @@ permalink: /research/
 **Research Collaboration with Prof. Gunes Karabulut Kurt at Polytechnique Montréal**
 
 - **Eray Guven**
-  - *Topic:* SDR-THz: Theoretical Model, Testbed Implementation, and Proof-of-Concept Demonstration
+  - *Topic:* SDR-THz: Theoretical Modelling, Testbed Implementation, and Proof-of-Concept Demonstration
   - From Nov. 2023 to *present*
  
 - **Mohamed Elabbas** _(intership)_
-  - *Topic:* Solar Flare Forecasting 
+  - *Topic:* Solar Flare Forecasting using LSTM
   - From Nov. to Dec. 2023
 
 **Research Collaboration with Prof. Beongku An at Hongik University**
