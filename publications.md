@@ -7,11 +7,19 @@ permalink: /publications/
 - [**Google Scholar**](https://scholar.google.com/citations?user=cwdP-oYAAAAJ&hl=en){:target="_blank"}
 - [**Codes on GitHub**](https://github.com/trinhudo?tab=repositories){:target="_blank"}
 
+Authors marked with an asterisk were/are _my students_ under my _main, co-, or collaborative_ supervision.  
+
 ## 2023
 
-- Thanh Luan Nguyen, Georges Kaddoum, Tri Nhu Do, and Zygmunt J. Haas,
-  	"**Channel Characterization of UAV-RIS-aided Systems with Adaptive Phase-shift Configuration**,"
-  	_IEEE Wireless Communications Letters_, Aug. 2023.
+- Muddasir Rahim\*, Georges Kaddoum and Tri Nhu Do,
+  	"**[Joint Devices and IRSs Association for Terahertz Communications in Industrial IoT Networks](https://ieeexplore.ieee.org/document/10317892)**,"
+  	_IEEE Transactions on Green Communications and Networking_,
+  	Nov. 2023
+
+- Thanh Luan Nguyen\*, Georges Kaddoum, Tri Nhu Do, and Zygmunt J. Haas,
+  	"**[Channel Characterization of UAV-RIS-aided Systems with Adaptive Phase-shift Configuration](https://ieeexplore.ieee.org/document/10224317)**,"
+  	_IEEE Wireless Communications Letters_,
+  	Aug. 2023.
 
 - Tri Nhu Do and Georges Kaddoum, 
   	"**Distributed Machine Learning for Terrestrial and Non-Terrestrial Internet of Things Networks**,"
@@ -42,7 +50,7 @@ permalink: /publications/
 
 - Tri Nhu Do, Georges Kaddoum, Thanh Luan Nguyen, Daniel B. da Costa, and Zygmunt J. Haas, "**[Multi-RIS-aided Wireless Systems: Statistical Characterization and Performance Analysis](https://github.com/trinhudo/Multi-RIS)**," *IEEE Transactions on Communications*, Sep. 2021. ([MATLAB code](https://github.com/trinhudo)) 
 
-- Kyusung Shim, Tri Nhu Do, Toan Van Nguyen, Daniel B. da Costa, and Beongku An, "**[Enhancing PHY-Security of FD-Enabled NOMA Systems Using Jamming and User Selection: Performance Analysis and DNN Evaluation](https://github.com/trinhudo/PHY_Security_NOMA_FD_DNN)**," *IEEE Internet of Things Journal*, May 2021. ([MATLAB and Python code](https://github.com/trinhudo)) 
+- Kyusung Shim\*, Tri Nhu Do, Toan Van Nguyen, Daniel B. da Costa, and Beongku An, "**[Enhancing PHY-Security of FD-Enabled NOMA Systems Using Jamming and User Selection: Performance Analysis and DNN Evaluation](https://github.com/trinhudo/PHY_Security_NOMA_FD_DNN)**," *IEEE Internet of Things Journal*, May 2021. ([MATLAB and Python code](https://github.com/trinhudo)) 
 
 - Tri Nhu Do and Zygmunt J. Haas, "**[On the Design of RD-MIMO: Spatial Multiplexing versus Opportunistic Transmission Schemes](https://ieeexplore.ieee.org/document/8974614)**," *IEEE Access*, vol. 8, pp. 22733-22747, Jan. 2020.
 
@@ -71,9 +79,9 @@ permalink: /publications/
 
 - Kyusung Shim, Tri Nhu Do, Beongku An, "**[Improving Physical Layer Security of NOMA Networks by Using Opportunistic Scheduling](https://ieeexplore.ieee.org/document/8436962/)**," in *Proc. 2018 IEEE International Conference on Ubiquitous and Future Networks (ICUFN)*, Prague, Czech Republic, Jul. 2018, pp. 262-267. **_Best Paper Award_**
 
-- Kyusung Shim, Hyukchun Oh, Tri Nhu Do, Beongku An, "**[A Physical Layer Security-Based Transmit Antenna Selection Scheme for NOMA Systems](https://ieeexplore.ieee.org/document/8436960/)**," in *Proc. 2018 IEEE International Conference on Ubiquitous and Future Networks (ICUFN)*, Prague, Czech Republic, Jul. 2018, pp. 597-602.
+- Kyusung Shim\*, Hyukchun Oh, Tri Nhu Do, Beongku An, "**[A Physical Layer Security-Based Transmit Antenna Selection Scheme for NOMA Systems](https://ieeexplore.ieee.org/document/8436960/)**," in *Proc. 2018 IEEE International Conference on Ubiquitous and Future Networks (ICUFN)*, Prague, Czech Republic, Jul. 2018, pp. 597-602.
 
-- Kyusung Shim, Tri Nhu Do, and Beongku An, "**[A physical layer security-based routing protocol in mobile ad-hoc wireless networks](https://ieeexplore.ieee.org/document/8323778)**," in *Proc. 20th IEEE International Conference on Advanced Communications Technology (ICACT)*, Gangwon-do, South Korea, Feb. 2018, pp. 417-422. **_Outstanding Paper Award_**
+- Kyusung Shim\*, Tri Nhu Do, and Beongku An, "**[A physical layer security-based routing protocol in mobile ad-hoc wireless networks](https://ieeexplore.ieee.org/document/8323778)**," in *Proc. 20th IEEE International Conference on Advanced Communications Technology (ICACT)*, Gangwon-do, South Korea, Feb. 2018, pp. 417-422. **_Outstanding Paper Award_**
 
 - Tri Nhu Do, Daniel B. da Costa, Trung Q. Duong, and Beongku An, "**[A full-duplex cooperative scheme with distributed switch-and-stay combining for NOMA networks](http://ieeexplore.ieee.org/document/8254917/)**," in *Proc. 2017 IEEE Global Communications Conference (GLOBECOM)*, Singapore, Dec. 2017, pp. 1-6.
 	
@@ -93,6 +101,6 @@ permalink: /publications/
 
 ## Book Chapter
 
-- Tri Nhu Do, Georges Kaddoum, and Thanh Luan Nguyen, "**[Distributed Multi-IRS-aided 6G Wireless Networks: Channel Characterization and Performance Analysis](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119875284.ch10)**,"
+- Tri Nhu Do, Georges Kaddoum, and Thanh Luan Nguyen\*, "**[Distributed Multi-IRS-aided 6G Wireless Networks: Channel Characterization and Performance Analysis](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119875284.ch10)**,"
 (a book chapter in the book entitled "Intelligent Reconfigurable Surfaces (IRS) for Prospective 6G Wireless Networks," Wiley, 2022.)
 
