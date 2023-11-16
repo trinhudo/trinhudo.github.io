@@ -5,14 +5,14 @@ permalink: /publications/
 ---
 
 - [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=cwdP-oYAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}
-- [**Polytechnique Montréal's PolyPublie**](https://www.polymtl.ca/expertises/en/do-tri-nhu/publications){:target="_blank"}
+- [**PolyPublie**](https://www.polymtl.ca/expertises/en/do-tri-nhu/publications){:target="_blank"}
 - [**Codes on GitHub**](https://github.com/trinhudo?tab=repositories){:target="_blank"}
 
 Authors marked with an asterisk were/are _my students_ under my _main, co-, or collaborative_ supervision.  
 
 ## 2023
 
-- Muddasir Rahim\*, Georges Kaddoum and Tri Nhu Do,
+- Muddasir Rahim\*, Georges Kaddoum, and Tri Nhu Do,
   	"**[Joint Devices and IRSs Association for Terahertz Communications in Industrial IoT Networks](https://ieeexplore.ieee.org/document/10317892)**,"
   	_IEEE Transactions on Green Communications and Networking_,
   	Nov. 2023
