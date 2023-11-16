@@ -18,7 +18,7 @@ Montréal, Québec, Canada
 _Office:_ Lassonde Pavilion, M-6109  
 _Telephone:_ 514-340-4711 extension 4106  
 _Email:_  tri-nhu.do@polymtl.ca  
-<a href="https://www.polymtl.ca/expertises/en/do-tri-nhu" target="_blank"> _Directory of Experts:_ Do, Tri Nhu</a> 
+_Directory of Experts:_ <a href="https://www.polymtl.ca/expertises/en/do-tri-nhu" target="_blank">Do, Tri Nhu</a> 
 
   
 ## Biography  
