@@ -12,13 +12,13 @@ layout: home
 --->
 
 **Assistant Professor**  
-<a href="https://www.polymtl.ca/expertises/en/do-tri-nhu" target="_blank">Department of Electrical Engineering</a>  
-<a href="https://www.polymtl.ca/expertises/en/do-tri-nhu" target="_blank">Polytechnique Montréal</a>  
-Montréal, Québec, Canada  
-_Office:_ Lassonde Pavilion, M-6109  
-_Telephone:_ 514-340-4711 extension 4106  
-_Email:_  tri-nhu.do@polymtl.ca  
-_Directory of Experts:_ <a href="https://www.polymtl.ca/expertises/en/do-tri-nhu" target="_blank">Do, Tri Nhu</a> 
+  <a href="https://www.polymtl.ca/expertises/en/do-tri-nhu" target="_blank">Department of Electrical Engineering</a>  
+  <a href="https://www.polymtl.ca/expertises/en/do-tri-nhu" target="_blank">Polytechnique Montréal</a>  
+  Montréal, Québec, Canada  
+  _Office:_ Lassonde Pavilion, M-6109  
+  _Telephone:_ 514-340-4711 extension 4106  
+  _Email:_  tri-nhu.do@polymtl.ca  
+  _Directory of Experts:_ <a href="https://www.polymtl.ca/expertises/en/do-tri-nhu" target="_blank">Do, Tri Nhu</a> 
 
   
 ## Biography  
