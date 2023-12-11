@@ -42,25 +42,9 @@ permalink: /research/
   - *Topic:* Federated Learning-aided Mobile Edge Computing for Tactical Wireless Networks
   - From May. 2023 to *present*
 
-- **Manel Allani**  
-  - *Topic:* Generative AI-aided End-to-End Communications for Tactical Wireless Networks
-  - From Sep. 2022 to *present*
-
 - **Thanh Luan Nguyen**  
   - *Topic:* Reconfigurable Intelligent Surfaces (RIS) and Holographic RIS for 6G 
   - From Sep. 2022 to *present*
- 
-- **Abdul Basit**  
-  - *Topic:* Reinforcement Learning-based Medium Access Management in Heterogeneous Wireless Networks
-  - From Sep. 2022 to Sep. 2023
-
-- **Mujtaba Ghous**  
-  - *Topic:* Transfer Learning-aided Ultra Reliable Low Latency Communication (URLLC) in Tactical Wireless Networks
-  - From Sep. 2021 to *present*
-
-- **Muddasir Rahim**  
-  - *Topic:* Intelligent Reflecting Surface (IRS)-aided TeraHerzt (THz) Communications
-  - From Aug. 2021 to *present*
 
 - **Aida Meftah**  
   - *Topic:* Federated Learning-based Signal Detection and Classification in Tactical Wireless Networks
@@ -69,3 +53,15 @@ permalink: /research/
 - **Hamda Bouzabia**  
   - *Topic:* Deep Learning-aided Jamming Detection in Tactical Wireless Networks
   - From Jan. 2021 to *present*
+
+- **Mujtaba Ghous**  
+  - *Topic:* Transfer Learning-aided Ultra Reliable Low Latency Communication (URLLC) in Tactical Wireless Networks
+  - From Sep. 2021 to *present*
+
+- **Abdul Basit**  
+  - *Topic:* Reinforcement Learning-based Medium Access Management in Heterogeneous Wireless Networks
+  - From Sep. 2022 to Sep. 2023
+
+- **Muddasir Rahim**  
+  - *Topic:* Intelligent Reflecting Surface (IRS)-aided TeraHerzt (THz) Communications
+  - From Aug. 2021 to Nov. 2023
