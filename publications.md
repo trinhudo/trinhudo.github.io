@@ -12,6 +12,11 @@ Authors marked with an asterisk were/are _my students_ under my _main, co-, or c
 
 ## 2023
 
+- Tri Nhu Do and Georges Kaddoum, 
+  	"**[Distributed Machine Learning for Terrestrial and Non-Terrestrial Internet of Things Networks](https://ieeexplore.ieee.org/abstract/document/10364641)**,"
+	_IEEE Internet of Things Magazine_,
+  	Dec. 2023.
+
 - Muddasir Rahim\*, Georges Kaddoum, and Tri Nhu Do,
   	"**[Joint Devices and IRSs Association for Terahertz Communications in Industrial IoT Networks](https://ieeexplore.ieee.org/document/10317892)**,"
   	_IEEE Transactions on Green Communications and Networking_,
@@ -21,11 +26,6 @@ Authors marked with an asterisk were/are _my students_ under my _main, co-, or c
   	"**[Channel Characterization of UAV-RIS-aided Systems with Adaptive Phase-shift Configuration](https://ieeexplore.ieee.org/document/10224317)**,"
   	_IEEE Wireless Communications Letters_,
   	Aug. 2023.
-
-- Tri Nhu Do and Georges Kaddoum, 
-  	"**Distributed Machine Learning for Terrestrial and Non-Terrestrial Internet of Things Networks**,"
-	_IEEE Internet of Things Magazine_,
-  	Jul. 2023.
 
 - Aida Meftah\*, Tri Nhu Do, Georges Kaddoum, Chamseddine Talhi, and Satinder Singh, 
 	"**[Federated Learning-Enabled Jamming Detection and Waveform Classification 
