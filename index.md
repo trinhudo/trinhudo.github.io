@@ -10,8 +10,9 @@ layout: home
 <img src="assets/trinhu.png" width="200" height="200" style="float:left; width:30%; height:auto; margin-left: 2px; margin-right: 20px; margin-top: 7px;margin-bottom: 7px;" />
 
 --->
-
-**Assistant Professor**  
+**Telecommunications and Networking Lab**  
+**Tri Nhu Do**  
+_Assistant Professor_  
   <a href="https://www.polymtl.ca/expertises/en/do-tri-nhu" target="_blank">Department of Electrical Engineering</a>  
   <a href="https://www.polymtl.ca/expertises/en/do-tri-nhu" target="_blank">Polytechnique Montréal</a>  
   Montréal, Québec, Canada  
