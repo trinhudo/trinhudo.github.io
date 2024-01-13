@@ -10,6 +10,19 @@ permalink: /publications/
 
 Authors marked with an asterisk were/are _my students_ under my _main, co-, or collaborative_ supervision.  
 
+## 2024
+
+- Thien Hieu Hoang, Chuyen T. Nguyen, Tri Nhu Do, and Georges Kaddoum,
+  	"**[Joint Task Offloading and Radio Resource Management in Stochastic MEC Systems]()**,"
+  	_IEEE Transactions on Communications_
+  	Jan. 2014
+  	[Github Code]()
+- Muddasir Rahim\*, Thanh Luan Nguyen, Georges Kaddoum, and Tri Nhu Do,
+  	"**[Multi-IRS-Aided Terahertz Networks: Channel Modelling and User Association With Imperfect CSI]()**,""
+  	_IEEE Open Journal of the Communications Society_,
+  	Jan. 2024
+  	
+
 ## 2023
 
 - Tri Nhu Do and Georges Kaddoum, 
