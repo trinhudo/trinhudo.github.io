@@ -15,7 +15,6 @@ Authors marked with an asterisk were/are _my students_ under my _main, co-, or c
 - Thien Hieu Hoang*, Chuyen T. Nguyen, Tri Nhu Do, and Georges Kaddoum,
   	"**Joint Task Offloading and Radio Resource Management in Stochastic MEC Systems**,"
   	_IEEE Transactions on Communications_,
-  	[**Codes on GitHub**](https://github.com/trinhudo?tab=repositories){:target="_blank"},
   	Jan. 2014  
   	
 - Muddasir Rahim\*, Thanh Luan Nguyen, Georges Kaddoum, and Tri Nhu Do,
