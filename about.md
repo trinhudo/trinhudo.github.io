@@ -52,9 +52,9 @@ _Supervisor:_ <a href="http://unclab.hongik.ac.kr/professor.php" target="_blank"
 ## Teaching
 
 **At Polytechnique Montréal**  
-- [ELE6703 Communication Theory](https://www.polymtl.ca/programmes/cours/theorie-des-communications), _Winter 2024_
+- [ELE6703 Communication Theory](https://www.polymtl.ca/programmes/cours/theorie-des-communications)
 
 **At Hongik University**
-- Course [012301]: Computer Engineering–Introduction and Practice, _Sping 2017/2018_  
-- Course [704410]: Computer Architecture, _Fall 2017_  
+- Course [012301]: Computer Engineering–Introduction and Practice  
+- Course [704410]: Computer Architecture 
 
