@@ -11,7 +11,7 @@ permalink: /publications/
 ## 2024
 
 - Thien Hieu Hoang, Chuyen T. Nguyen, Tri Nhu Do, and Georges Kaddoum,
-  	"**Joint Task Offloading and Radio Resource Management in Stochastic MEC Systems**,"
+  	"**[Joint Task Offloading and Radio Resource Management in Stochastic MEC Systems](https://github.com/trinhudo/Stochastic-MEC)**,"
   	_IEEE Transactions on Communications_,
   	Jan. 2014  
   	
