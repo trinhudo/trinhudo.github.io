@@ -12,16 +12,21 @@ Authors marked with an asterisk were/are _my students_ under my _main, co-, or c
 
 ## 2024
 
-- Thien Hieu Hoang, Chuyen T. Nguyen, Tri Nhu Do, and Georges Kaddoum,
-  	"**[Joint Task Offloading and Radio Resource Management in Stochastic MEC Systems]()**,"
+- Thien Hieu Hoang*, Chuyen T. Nguyen, Tri Nhu Do, and Georges Kaddoum,
+  	"**Joint Task Offloading and Radio Resource Management in Stochastic MEC Systems**,"
   	_IEEE Transactions on Communications_,
-  	Jan. 2014 | 
-  	[Github Code]()
-- Muddasir Rahim\*, Thanh Luan Nguyen, Georges Kaddoum, and Tri Nhu Do,
-  	"**[Multi-IRS-Aided Terahertz Networks: Channel Modelling and User Association With Imperfect CSI]()**,""
-  	_IEEE Open Journal of the Communications Society_,
-  	Jan. 2024
+  	[**Codes on GitHub**](https://github.com/trinhudo?tab=repositories){:target="_blank"},
+  	Jan. 2014  
   	
+- Muddasir Rahim\*, Thanh Luan Nguyen, Georges Kaddoum, and Tri Nhu Do,
+  	"**[Multi-IRS-Aided Terahertz Networks: Channel Modelling and User Association With Imperfect CSI](https://ieeexplore.ieee.org/document/10390542)**,""
+  	_IEEE Open Journal of the Communications Society_,
+  	Jan. 2024  
+
+- Muddasir Rahim\*, Thanh Luan Nguyen, Georges Kaddoum, and Tri Nhu Do,
+  	"**User Association Optimization for IRS-aided Terahertz Networks: A Matching Theory Approach**,""
+  	_2024 IEEE Wireless Communications and Networking Conference (WCNC)_,
+  	Apr. 2024  
 
 ## 2023
 
