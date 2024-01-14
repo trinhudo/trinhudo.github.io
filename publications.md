@@ -19,12 +19,12 @@ Authors marked with an asterisk were/are _my students_ under my _main, co-, or c
   	Jan. 2014  
   	
 - Muddasir Rahim\*, Thanh Luan Nguyen, Georges Kaddoum, and Tri Nhu Do,
-  	"**[Multi-IRS-Aided Terahertz Networks: Channel Modelling and User Association With Imperfect CSI](https://ieeexplore.ieee.org/document/10390542)**,""
+  	"**[Multi-IRS-Aided Terahertz Networks: Channel Modelling and User Association With Imperfect CSI](https://ieeexplore.ieee.org/document/10390542)**,"
   	_IEEE Open Journal of the Communications Society_,
   	Jan. 2024  
 
 - Muddasir Rahim\*, Thanh Luan Nguyen, Georges Kaddoum, and Tri Nhu Do,
-  	"**User Association Optimization for IRS-aided Terahertz Networks: A Matching Theory Approach**,""
+  	"**User Association Optimization for IRS-aided Terahertz Networks: A Matching Theory Approach**,"
   	_2024 IEEE Wireless Communications and Networking Conference (WCNC)_,
   	Apr. 2024  
 
