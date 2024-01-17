@@ -37,7 +37,7 @@ permalink: /publications/
 
 - Yosefine Triwidyastuti, Ridho Hendra Yoga Perdana, Kyusung Shim, Tri Nhu Do, and Beongku An,
   	"**Exploiting Secrecy Performance of RIS-Assisted Networks: Deep Learning-Based Evaluation**,"
-  	_The 12th International Conference on Green and Human Information Technology (ICGHIT)_
+  	_The 12th International Conference on Green and Human Information Technology (ICGHIT)_,
   	Feb. 2024
 
   
