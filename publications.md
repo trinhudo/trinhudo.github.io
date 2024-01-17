@@ -22,9 +22,25 @@ permalink: /publications/
 
 - Muddasir Rahim, Thanh Luan Nguyen, Georges Kaddoum, and Tri Nhu Do,
   	"**User Association Optimization for IRS-aided Terahertz Networks: A Matching Theory Approach**,"
-  	_2024 IEEE Wireless Communications and Networking Conference (WCNC)_,
-  	Apr. 2024  
+  	_IEEE Wireless Communications and Networking Conference (WCNC)_,
+  	Apr. 2024
 
+- Hamda Bouzabia, Georges Kaddoum, and Tri Nhu Do,
+  	"**Integrated Sensing and Communications Using Generative AI: Countering Adversarial Machine Learning Attacks**,"
+  	_IEEE International Conference on Communications (ICC)_,
+  	Jun. 2024
+  
+- Thanh Luan Nguyen, Georges Kaddoum, Tri Nhu Do, and Zygmunt J. Haas,
+  	"**Statistical Characterization of RIS-assisted UAV Communications in Terrestrial and Non-Terrestrial Networks Under Channel Aging**,"
+	_IEEE International Conference on Communications (ICC)_,
+	Jun. 2024
+
+- Yosefine Triwidyastuti, Ridho Hendra Yoga Perdana, Kyusung Shim, Tri Nhu Do, and Beongku An,
+  	"**Exploiting Secrecy Performance of RIS-Assisted Networks: Deep Learning-Based Evaluation**,"
+  	_The 12th International Conference on Green and Human Information Technology (ICGHIT)_
+  	Feb. 2024
+
+  
 ## 2023
 
 - Tri Nhu Do and Georges Kaddoum, 
