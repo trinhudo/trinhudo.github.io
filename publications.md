@@ -20,16 +20,6 @@ permalink: /publications/
   	_IEEE Open Journal of the Communications Society_,
   	Jan. 2024
 
-- Abdul Basit, Muddasir Rahim, Georges Kaddoum, Tri Nhu Do, and Nadir Adam,
-  	"**DRL-Based Dynamic Channel Access and SCLAR Maximization for Networks Under Jamming**,"
-  	_IEEE Wireless Communications and Networking Conference (WCNC)_,
-  	Apr. 2024  
-
-- Muddasir Rahim, Thanh Luan Nguyen, Georges Kaddoum, and Tri Nhu Do,
-  	"**User Association Optimization for IRS-aided Terahertz Networks: A Matching Theory Approach**,"
-  	_IEEE Wireless Communications and Networking Conference (WCNC)_,
-  	Apr. 2024
-
 - Hamda Bouzabia, Georges Kaddoum, and Tri Nhu Do,
   	"**Integrated Sensing and Communications Using Generative AI: Countering Adversarial Machine Learning Attacks**,"
   	_IEEE International Conference on Communications (ICC)_,
@@ -39,6 +29,16 @@ permalink: /publications/
   	"**Statistical Characterization of RIS-assisted UAV Communications in Terrestrial and Non-Terrestrial Networks Under Channel Aging**,"
 	_IEEE International Conference on Communications (ICC)_,
 	Jun. 2024
+
+- Abdul Basit, Muddasir Rahim, Georges Kaddoum, Tri Nhu Do, and Nadir Adam,
+  	"**DRL-Based Dynamic Channel Access and SCLAR Maximization for Networks Under Jamming**,"
+  	_IEEE Wireless Communications and Networking Conference (WCNC)_,
+  	Apr. 2024  
+
+- Muddasir Rahim, Thanh Luan Nguyen, Georges Kaddoum, and Tri Nhu Do,
+  	"**User Association Optimization for IRS-aided Terahertz Networks: A Matching Theory Approach**,"
+  	_IEEE Wireless Communications and Networking Conference (WCNC)_,
+  	Apr. 2024  
 
 - Yosefine Triwidyastuti, Ridho Hendra Yoga Perdana, Kyusung Shim, Tri Nhu Do, and Beongku An,
   	"**Exploiting Secrecy Performance of RIS-Assisted Networks: Deep Learning-Based Evaluation**,"
