@@ -18,7 +18,12 @@ permalink: /publications/
 - Muddasir Rahim, Thanh Luan Nguyen, Georges Kaddoum, and Tri Nhu Do,
   	"**[Multi-IRS-Aided Terahertz Networks: Channel Modelling and User Association With Imperfect CSI](https://ieeexplore.ieee.org/document/10390542)**,"
   	_IEEE Open Journal of the Communications Society_,
-  	Jan. 2024  
+  	Jan. 2024
+
+- Abdul Basit, Muddasir Rahim, Georges Kaddoum, Tri Nhu Do, and Nadir Adam,
+  	"**DRL-Based Dynamic Channel Access and SCLAR Maximization for Networks Under Jamming**,"
+  	_IEEE Wireless Communications and Networking Conference (WCNC)_,
+  	Apr. 2024  
 
 - Muddasir Rahim, Thanh Luan Nguyen, Georges Kaddoum, and Tri Nhu Do,
   	"**User Association Optimization for IRS-aided Terahertz Networks: A Matching Theory Approach**,"
