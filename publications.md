@@ -26,17 +26,17 @@ permalink: /publications/
   	Jun. 2024
   
 - Thanh Luan Nguyen, Georges Kaddoum, Tri Nhu Do, and Zygmunt J. Haas,
-  	"**Statistical Characterization of RIS-assisted UAV Communications in Terrestrial and Non-Terrestrial Networks Under Channel Aging**,"
+  	"**[Statistical Characterization of RIS-assisted UAV Communications in Terrestrial and Non-Terrestrial Networks Under Channel Aging](https://arxiv.org/abs/2401.14203)**,"
 	_IEEE International Conference on Communications (ICC)_,
 	Jun. 2024
 
 - Abdul Basit, Muddasir Rahim, Georges Kaddoum, Tri Nhu Do, and Nadir Adam,
-  	"**DRL-Based Dynamic Channel Access and SCLAR Maximization for Networks Under Jamming**,"
+  	"**[DRL-Based Dynamic Channel Access and SCLAR Maximization for Networks Under Jamming](https://arxiv.org/abs/2402.01574)**,"
   	_IEEE Wireless Communications and Networking Conference (WCNC)_,
   	Apr. 2024  
 
 - Muddasir Rahim, Thanh Luan Nguyen, Georges Kaddoum, and Tri Nhu Do,
-  	"**User Association Optimization for IRS-aided Terahertz Networks: A Matching Theory Approach**,"
+  	"**[User Association Optimization for IRS-aided Terahertz Networks: A Matching Theory Approach](https://arxiv.org/abs/2401.15028)**,"
   	_IEEE Wireless Communications and Networking Conference (WCNC)_,
   	Apr. 2024  
 
