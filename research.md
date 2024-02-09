@@ -17,18 +17,25 @@ permalink: /research/
 
 **Main Supervison at Polytechnique Montréal**
 
-- TBA PhD student in May 2024
+- Nghia Thinh Nguyen, _PhD student_
   - *Topic:* AI-Native Telecommunication (ANT) Systems
+  - Start in Aug. 2024
 
-**Research Collaboration with Prof. Gunes Karabulut Kurt at Polytechnique Montréal**
+**Research Collaboration with Prof. _François Leduc-Primeau_ and Prof. _Jean-François Frigon_ at Polytechnique Montréal**
 
-- **Eray Guven**
-  - *Topic:* SDR-THz: Theoretical Modelling, Testbed Implementation, and Proof-of-Concept Demonstration
-  - From Nov. 2023 to *present*
+- **Zoubeir Mlika** _Postdoc_
+  - *Topic:* Online Beam Tracking and Resource Allocation using Deep Reinforcement Learning
+  - From Feb. 2023 to *present*
+ 
+**Research Collaboration with Prof. _Gunes Karabulut Kurt_ at Polytechnique Montréal**
+
+- **Irfan Azam** _Postdoc_
+  - *Topic:* Space Debris Detection
+  - From Feb. 2023 to *present*
  
 - **Mohamed Elabbas** _(intership)_
-  - *Topic:* Solar Flare Forecasting using LSTM
-  - From Nov. to Dec. 2023
+  - *Topic:* Solar Flare Forecasting
+  - From Nov. to _present_
 
 **Research Collaboration with Prof. Beongku An at Hongik University**
 
@@ -36,15 +43,11 @@ permalink: /research/
   - *Topic:* On the Security of RIS-aided Wireless Communications
   - From Nov. 2023 to _present_
 
-**Collaborative supervision with Prof. Georges Kaddoum at École de technologie supérieure (ÉTS Montréal)**
+**Research Collaboration with Prof. _Georges Kaddoum_ at École de technologie supérieure (ÉTS Montréal)**
 
 - **Thien Hieu Hoang**  
   - *Topic:* Federated Learning-aided Mobile Edge Computing for Tactical Wireless Networks
   - From May. 2023 to *present*
-
-- **Thanh Luan Nguyen**  
-  - *Topic:* Reconfigurable Intelligent Surfaces (RIS) and Holographic RIS for 6G 
-  - From Sep. 2022 to *present*
 
 - **Aida Meftah**  
   - *Topic:* Federated Learning-based Signal Detection and Classification in Tactical Wireless Networks
@@ -53,10 +56,14 @@ permalink: /research/
 - **Hamda Bouzabia**  
   - *Topic:* Deep Learning-aided Jamming Detection in Tactical Wireless Networks
   - From Jan. 2021 to *present*
+ 
+- **Thanh Luan Nguyen**  
+  - *Topic:* Reconfigurable Intelligent Surfaces (RIS) and Holographic RIS for 6G 
+  - From Sep. 2022 to Jan. 2024
 
 - **Mujtaba Ghous**  
   - *Topic:* Transfer Learning-aided Ultra Reliable Low Latency Communication (URLLC) in Tactical Wireless Networks
-  - From Sep. 2021 to *present*
+  - From Sep. 2021 to Dec. 2023
 
 - **Abdul Basit**  
   - *Topic:* Reinforcement Learning-based Medium Access Management in Heterogeneous Wireless Networks
