@@ -56,7 +56,7 @@ permalink: /research/
 - **Hamda Bouzabia**, _PhD student_    
   - *Topic:* Deep Learning-aided Jamming Detection in Tactical Wireless Networks
   - From Jan. 2021 to *present*
- 
+
 - **Thanh Luan Nguyen**  
   - *Topic:* Reconfigurable Intelligent Surfaces (RIS) and Holographic RIS for 6G 
   - From Sep. 2022 to Jan. 2024
@@ -66,7 +66,7 @@ permalink: /research/
   - From Sep. 2021 to Dec. 2023
 
 - **Abdul Basit**  
-  - *Topic:* Reinforcement Learning-based Medium Access Management in Heterogeneous Wireless Networks
+  - *Topic:* Reinforcement Learning-based Medium Access Management in Heterogeneous Wireless Networks  
   - From Sep. 2022 to Sep. 2023
 
 - **Muddasir Rahim**  
