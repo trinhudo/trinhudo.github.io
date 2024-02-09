@@ -15,45 +15,45 @@ permalink: /research/
 
 ## Research Team
 
-**Main Supervison at Polytechnique Montréal**
+**Supervison at Polytechnique Montréal**
 
-- Nghia Thinh Nguyen, _PhD student_
+- **Nghia Thinh Nguyen**, _PhD student_
   - *Topic:* AI-Native Telecommunication (ANT) Systems
   - Start in Aug. 2024
 
 **Research Collaboration with Prof. _François Leduc-Primeau_ and Prof. _Jean-François Frigon_ at Polytechnique Montréal**
 
-- **Zoubeir Mlika** _Postdoc_
+- **Zoubeir Mlika**, _Postdoc_  
   - *Topic:* Online Beam Tracking and Resource Allocation using Deep Reinforcement Learning
   - From Feb. 2023 to *present*
  
 **Research Collaboration with Prof. _Gunes Karabulut Kurt_ at Polytechnique Montréal**
 
-- **Irfan Azam** _Postdoc_
-  - *Topic:* Space Debris Detection
+- **Irfan Azam**, _Postdoc_  
+  - *Topic:* Space Debris Detection in Satellite Communications
   - From Feb. 2023 to *present*
  
-- **Mohamed Elabbas** _(intership)_
-  - *Topic:* Solar Flare Forecasting
+- **Mohamed Elabbas**, _Intern_  
+  - *Topic:* Solar Flare Forecasting using AI/ML
   - From Nov. to _present_
 
 **Research Collaboration with Prof. Beongku An at Hongik University**
 
-- **Yosefine Triwidyastuti**
+- **Yosefine Triwidyastuti**, _PhD student_   
   - *Topic:* On the Security of RIS-aided Wireless Communications
   - From Nov. 2023 to _present_
 
 **Research Collaboration with Prof. _Georges Kaddoum_ at École de technologie supérieure (ÉTS Montréal)**
 
-- **Thien Hieu Hoang**  
+- **Thien Hieu Hoang**, _PhD student_    
   - *Topic:* Federated Learning-aided Mobile Edge Computing for Tactical Wireless Networks
   - From May. 2023 to *present*
 
-- **Aida Meftah**  
+- **Aida Meftah**, _PhD student_    
   - *Topic:* Federated Learning-based Signal Detection and Classification in Tactical Wireless Networks
   - From Feb. 2022 to *present*
 
-- **Hamda Bouzabia**  
+- **Hamda Bouzabia**, _PhD student_    
   - *Topic:* Deep Learning-aided Jamming Detection in Tactical Wireless Networks
   - From Jan. 2021 to *present*
  
