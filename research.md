@@ -15,7 +15,7 @@ permalink: /research/
 
 ## Research Team
 
-**Supervison at Polytechnique Montréal**
+**Principal Supervisor at Polytechnique Montréal**
 
 - **Nghia Thinh Nguyen**, _PhD student_
   - *Topic:* AI-Native Telecommunication (ANT) Systems
