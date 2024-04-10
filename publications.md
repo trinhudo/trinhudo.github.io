@@ -10,6 +10,11 @@ permalink: /publications/
 
 ## 2024
 
+- Trinh Van Chien, Mai Dinh Cong, Nguyen Cong Luong, Tri Nhu Do, Dong In Kim, and Symeon Chatzinotas,
+  	"**[Joint Computation Offloading and Target Tracking in Integrated Sensing and Communication Enabled UAV Networks](https://ieeexplore.ieee.org/document/10494529)**,"
+  	_IEEE Communications Letters_,
+  	Apr. 2024  
+
 - Thien Hieu Hoang, Chuyen T. Nguyen, Tri Nhu Do, and Georges Kaddoum,
   	"**[Joint Task Offloading and Radio Resource Management in Stochastic MEC Systems](https://github.com/trinhudo/Stochastic-MEC)**,"
   	_IEEE Transactions on Communications_,
