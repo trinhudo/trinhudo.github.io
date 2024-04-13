@@ -10,8 +10,8 @@ permalink: /publications/
 
 ## 2024
 
-- Trinh Van Chien, Mai Dinh Cong, Nguyen Cong Luong, Tri Nhu Do, Dong In Kim, and Symeon Chatzinotas,
-  	"**[Joint Computation Offloading and Target Tracking in Integrated Sensing and Communication Enabled UAV Networks](https://ieeexplore.ieee.org/document/10494529)**,"
+- "**[Joint Computation Offloading and Target Tracking in Integrated Sensing and Communication Enabled UAV Networks](https://ieeexplore.ieee.org/document/10494529)**,"
+  	Trinh Van Chien, Mai Dinh Cong, Nguyen Cong Luong, Tri Nhu Do, Dong In Kim, and Symeon Chatzinotas,  
   	_IEEE Communications Letters_,
   	Apr. 2024  
 
