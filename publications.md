@@ -70,7 +70,7 @@ permalink: /publications/
 
 - **[Federated Learning-Enabled Jamming Detection and Waveform Classification for Distributed Tactical Wireless Networks](https://ieeexplore.ieee.org/document/10111007),**  
   	Aida Meftah, Tri Nhu Do, Georges Kaddoum, Chamseddine Talhi, and Satinder Singh   
-	*IEEE Transactions on Network and Service Management*
+	*IEEE Transactions on Network and Service Management*  
   	Apr. 2023  
 
 - **[Adaptive Decoding Mechanisms for UAV-enabled Double-Uplink Coordinated NOMA](https://github.com/trinhudo/Uplink-NOMA-UAV-Mobility)**  
@@ -80,7 +80,7 @@ permalink: /publications/
 
 - **Federated Learning-based Jamming Detection for Tactical Terrestrial and Non-Terrestrial Networks**    
 	Aida Meftah, Georges Kaddoum, Tri Nhu Do, and Chamseddine Talhi   
-  	_IEEE GLOBECOM 2023_  
+  	_IEEE Global Communications Conference (GLOBECOM)_  
   	Dec. 2023   
 
 ## Before 2023
