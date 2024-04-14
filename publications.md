@@ -10,44 +10,44 @@ permalink: /publications/
 
 ## 2024
 
-- "**[Joint Computation Offloading and Target Tracking in Integrated Sensing and Communication Enabled UAV Networks](https://ieeexplore.ieee.org/document/10494529)**,"  
-  	Trinh Van Chien, Mai Dinh Cong, Nguyen Cong Luong, Tri Nhu Do, Dong In Kim, and Symeon Chatzinotas,  
-  	_IEEE Communications Letters_,  
+- **[Joint Computation Offloading and Target Tracking in Integrated Sensing and Communication Enabled UAV Networks](https://ieeexplore.ieee.org/document/10494529)**   
+  	Trinh Van Chien, Mai Dinh Cong, Nguyen Cong Luong, Tri Nhu Do, Dong In Kim, and Symeon Chatzinotas  
+  	_IEEE Communications Letters_  
   	Apr. 2024  
 
-- "**[Joint Task Offloading and Radio Resource Management in Stochastic MEC Systems](https://github.com/trinhudo/Stochastic-MEC)**,"  
-	Thien Hieu Hoang, Chuyen T. Nguyen, Tri Nhu Do, and Georges Kaddoum,  
-  	_IEEE Transactions on Communications_,  
+- **[Joint Task Offloading and Radio Resource Management in Stochastic MEC Systems](https://github.com/trinhudo/Stochastic-MEC)**  
+	Thien Hieu Hoang, Chuyen T. Nguyen, Tri Nhu Do, and Georges Kaddoum  
+  	_IEEE Transactions on Communications_  
   	Jan. 2024   
   	
-- "**[Multi-IRS-Aided Terahertz Networks: Channel Modelling and User Association With Imperfect CSI](https://ieeexplore.ieee.org/document/10390542)**,"  
-	 Muddasir Rahim, Thanh Luan Nguyen, Georges Kaddoum, and Tri Nhu Do,  
-  	_IEEE Open Journal of the Communications Society_,  
+- **[Multi-IRS-Aided Terahertz Networks: Channel Modelling and User Association With Imperfect CSI](https://ieeexplore.ieee.org/document/10390542)**  
+	 Muddasir Rahim, Thanh Luan Nguyen, Georges Kaddoum, and Tri Nhu Do  
+  	_IEEE Open Journal of the Communications Society_  
   	Jan. 2024
 
-- "**Integrated Sensing and Communications Using Generative AI: Countering Adversarial Machine Learning Attacks**,"  
-  	Hamda Bouzabia, Georges Kaddoum, and Tri Nhu Do,  
-  	_IEEE International Conference on Communications (ICC)_,  
+- **Integrated Sensing and Communications Using Generative AI: Countering Adversarial Machine Learning Attacks**  
+  	Hamda Bouzabia, Georges Kaddoum, and Tri Nhu Do  
+  	_IEEE International Conference on Communications (ICC)_  
   	Jun. 2024
   
-- "**[Statistical Characterization of RIS-assisted UAV Communications in Terrestrial and Non-Terrestrial Networks Under Channel Aging](https://arxiv.org/abs/2401.14203)**,"  
-  	Thanh Luan Nguyen, Georges Kaddoum, Tri Nhu Do, and Zygmunt J. Haas,  
-	_IEEE International Conference on Communications (ICC)_,  
+- **[Statistical Characterization of RIS-assisted UAV Communications in Terrestrial and Non-Terrestrial Networks Under Channel Aging](https://arxiv.org/abs/2401.14203)**  
+  	Thanh Luan Nguyen, Georges Kaddoum, Tri Nhu Do, and Zygmunt J. Haas  
+	_IEEE International Conference on Communications (ICC)_  
 	Jun. 2024
 
-- "**[DRL-Based Dynamic Channel Access and SCLAR Maximization for Networks Under Jamming](https://arxiv.org/abs/2402.01574)**,"  
-	Abdul Basit, Muddasir Rahim, Georges Kaddoum, Tri Nhu Do, and Nadir Adam,  
+- **[DRL-Based Dynamic Channel Access and SCLAR Maximization for Networks Under Jamming](https://arxiv.org/abs/2402.01574)**  
+	Abdul Basit, Muddasir Rahim, Georges Kaddoum, Tri Nhu Do, and Nadir Adam  
+  	_IEEE Wireless Communications and Networking Conference (WCNC)_  
+  	Apr. 2024  
+
+- **[User Association Optimization for IRS-aided Terahertz Networks: A Matching Theory Approach](https://arxiv.org/abs/2401.15028)**  
+  	Muddasir Rahim, Thanh Luan Nguyen, Georges Kaddoum, and Tri Nhu Do  
   	_IEEE Wireless Communications and Networking Conference (WCNC)_,  
   	Apr. 2024  
 
-- "**[User Association Optimization for IRS-aided Terahertz Networks: A Matching Theory Approach](https://arxiv.org/abs/2401.15028)**,"  
-  	Muddasir Rahim, Thanh Luan Nguyen, Georges Kaddoum, and Tri Nhu Do,  
-  	_IEEE Wireless Communications and Networking Conference (WCNC)_,  
-  	Apr. 2024  
-
-- 	"**Exploiting Secrecy Performance of RIS-Assisted Networks: Deep Learning-Based Evaluation**,"  
-	Yosefine Triwidyastuti, Ridho Hendra Yoga Perdana, Kyusung Shim, Tri Nhu Do, and Beongku An,  
-  	_The 12th International Conference on Green and Human Information Technology (ICGHIT)_,  
+- **Exploiting Secrecy Performance of RIS-Assisted Networks: Deep Learning-Based Evaluation**  
+	Yosefine Triwidyastuti, Ridho Hendra Yoga Perdana, Kyusung Shim, Tri Nhu Do, and Beongku An  
+  	_The 12th International Conference on Green and Human Information Technology (ICGHIT)_  
   	Feb. 2024  
 
   
