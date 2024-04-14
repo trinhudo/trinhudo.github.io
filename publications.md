@@ -23,17 +23,17 @@ permalink: /publications/
 - **[Multi-IRS-Aided Terahertz Networks: Channel Modelling and User Association With Imperfect CSI](https://ieeexplore.ieee.org/document/10390542)**  
 	 Muddasir Rahim, Thanh Luan Nguyen, Georges Kaddoum, and Tri Nhu Do  
   	_IEEE Open Journal of the Communications Society_  
-  	Jan. 2024
+  	Jan. 2024  
 
 - **Integrated Sensing and Communications Using Generative AI: Countering Adversarial Machine Learning Attacks**  
   	Hamda Bouzabia, Georges Kaddoum, and Tri Nhu Do  
   	_IEEE International Conference on Communications (ICC)_  
-  	Jun. 2024
+  	Jun. 2024  
   
 - **[Statistical Characterization of RIS-assisted UAV Communications in Terrestrial and Non-Terrestrial Networks Under Channel Aging](https://arxiv.org/abs/2401.14203)**  
   	Thanh Luan Nguyen, Georges Kaddoum, Tri Nhu Do, and Zygmunt J. Haas  
 	_IEEE International Conference on Communications (ICC)_  
-	Jun. 2024
+	Jun. 2024  
 
 - **[DRL-Based Dynamic Channel Access and SCLAR Maximization for Networks Under Jamming](https://arxiv.org/abs/2402.01574)**  
 	Abdul Basit, Muddasir Rahim, Georges Kaddoum, Tri Nhu Do, and Nadir Adam  
@@ -42,7 +42,7 @@ permalink: /publications/
 
 - **[User Association Optimization for IRS-aided Terahertz Networks: A Matching Theory Approach](https://arxiv.org/abs/2401.15028)**  
   	Muddasir Rahim, Thanh Luan Nguyen, Georges Kaddoum, and Tri Nhu Do  
-  	_IEEE Wireless Communications and Networking Conference (WCNC)_,  
+  	_IEEE Wireless Communications and Networking Conference (WCNC)_  
   	Apr. 2024  
 
 - **Exploiting Secrecy Performance of RIS-Assisted Networks: Deep Learning-Based Evaluation**  
@@ -53,33 +53,34 @@ permalink: /publications/
   
 ## 2023
 
--  "**[Distributed Machine Learning for Terrestrial and Non-Terrestrial Internet of Things Networks](https://ieeexplore.ieee.org/abstract/document/10364641)**,"
-  	Tri Nhu Do and Georges Kaddoum,  
-	_IEEE Internet of Things Magazine_,  
-  	Dec. 2023
+-  **[Distributed Machine Learning for Terrestrial and Non-Terrestrial Internet of Things Networks](https://ieeexplore.ieee.org/abstract/document/10364641)**  
+  	Tri Nhu Do and Georges Kaddoum  
+	_IEEE Internet of Things Magazine_  
+  	Dec. 2023  
 
-- "**[Joint Devices and IRSs Association for Terahertz Communications in Industrial IoT Networks](https://ieeexplore.ieee.org/document/10317892)**,"
-  	Muddasir Rahim, Georges Kaddoum, and Tri Nhu Do,  
-  	_IEEE Transactions on Green Communications and Networking_,  
-  	Nov. 2023
+- **[Joint Devices and IRSs Association for Terahertz Communications in Industrial IoT Networks](https://ieeexplore.ieee.org/document/10317892)**  
+  	Muddasir Rahim, Georges Kaddoum, and Tri Nhu Do  
+  	_IEEE Transactions on Green Communications and Networking_  
+  	Nov. 2023  
 
-- "**[Channel Characterization of UAV-RIS-aided Systems with Adaptive Phase-shift Configuration](https://ieeexplore.ieee.org/document/10224317)**,"
-  	Thanh Luan Nguyen, Georges Kaddoum, Tri Nhu Do, and Zygmunt J. Haas,  
-  	_IEEE Wireless Communications Letters_,  
+- **[Channel Characterization of UAV-RIS-aided Systems with Adaptive Phase-shift Configuration](https://ieeexplore.ieee.org/document/10224317)**  
+  	Thanh Luan Nguyen, Georges Kaddoum, Tri Nhu Do, and Zygmunt J. Haas  
+  	_IEEE Wireless Communications Letters_  
   	Aug. 2023  
 
-- "**[Federated Learning-Enabled Jamming Detection and Waveform Classification for Distributed Tactical Wireless Networks](https://ieeexplore.ieee.org/document/10111007),**"
-  	Aida Meftah, Tri Nhu Do, Georges Kaddoum, Chamseddine Talhi, and Satinder Singh,   
-	*IEEE Transactions on Network and Service Management*, Apr. 2023.  
+- **[Federated Learning-Enabled Jamming Detection and Waveform Classification for Distributed Tactical Wireless Networks](https://ieeexplore.ieee.org/document/10111007),**  
+  	Aida Meftah, Tri Nhu Do, Georges Kaddoum, Chamseddine Talhi, and Satinder Singh   
+	*IEEE Transactions on Network and Service Management*
+  	Apr. 2023  
 
-- "**[Adaptive Decoding Mechanisms for UAV-enabled Double-Uplink Coordinated NOMA](https://github.com/trinhudo/Uplink-NOMA-UAV-Mobility)**,"
-  	Thanh Luan Nguyen, Georges Kaddoum, Tri Nhu Do, Daniel Benevides da Costa, and Zygmunt J. Haas,
-  	*IEEE Transactions on Vehicular Technology*,
+- **[Adaptive Decoding Mechanisms for UAV-enabled Double-Uplink Coordinated NOMA](https://github.com/trinhudo/Uplink-NOMA-UAV-Mobility)**  
+  	Thanh Luan Nguyen, Georges Kaddoum, Tri Nhu Do, Daniel Benevides da Costa, and Zygmunt J. Haas  
+  	*IEEE Transactions on Vehicular Technology*  
   	Mar. 2023  
 
-- "**Federated Learning-based Jamming Detection for Tactical Terrestrial and Non-Terrestrial Networks**,"  
-	Aida Meftah, Georges Kaddoum, Tri Nhu Do, and Chamseddine Talhi,  
-  	_IEEE GLOBECOM 2023_,  
+- **Federated Learning-based Jamming Detection for Tactical Terrestrial and Non-Terrestrial Networks**    
+	Aida Meftah, Georges Kaddoum, Tri Nhu Do, and Chamseddine Talhi   
+  	_IEEE GLOBECOM 2023_  
   	Dec. 2023   
 
 ## Before 2023
