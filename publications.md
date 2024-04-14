@@ -10,9 +10,9 @@ permalink: /publications/
 
 ## 2024
 
-- "**[Joint Computation Offloading and Target Tracking in Integrated Sensing and Communication Enabled UAV Networks](https://ieeexplore.ieee.org/document/10494529)**,"
-  	Trinh Van Chien, Mai Dinh Cong, Nguyen Cong Luong, Tri Nhu Do, Dong In Kim, and Symeon Chatzinotas,
-  	_IEEE Communications Letters_,
+- "**[Joint Computation Offloading and Target Tracking in Integrated Sensing and Communication Enabled UAV Networks](https://ieeexplore.ieee.org/document/10494529)**,"  
+  	Trinh Van Chien, Mai Dinh Cong, Nguyen Cong Luong, Tri Nhu Do, Dong In Kim, and Symeon Chatzinotas,  
+  	_IEEE Communications Letters_,  
   	Apr. 2024  
 
 - "**[Joint Task Offloading and Radio Resource Management in Stochastic MEC Systems](https://github.com/trinhudo/Stochastic-MEC)**,"
@@ -40,15 +40,15 @@ permalink: /publications/
   	_IEEE Wireless Communications and Networking Conference (WCNC)_,
   	Apr. 2024  
 
-- Muddasir Rahim, Thanh Luan Nguyen, Georges Kaddoum, and Tri Nhu Do,
-  	"**[User Association Optimization for IRS-aided Terahertz Networks: A Matching Theory Approach](https://arxiv.org/abs/2401.15028)**,"
-  	_IEEE Wireless Communications and Networking Conference (WCNC)_,
+- "**[User Association Optimization for IRS-aided Terahertz Networks: A Matching Theory Approach](https://arxiv.org/abs/2401.15028)**,"
+  	Muddasir Rahim, Thanh Luan Nguyen, Georges Kaddoum, and Tri Nhu Do,  
+  	_IEEE Wireless Communications and Networking Conference (WCNC)_,  
   	Apr. 2024  
 
-- 	"**Exploiting Secrecy Performance of RIS-Assisted Networks: Deep Learning-Based Evaluation**,"
-	Yosefine Triwidyastuti, Ridho Hendra Yoga Perdana, Kyusung Shim, Tri Nhu Do, and Beongku An,
-  	_The 12th International Conference on Green and Human Information Technology (ICGHIT)_,
-  	Feb. 2024
+- 	"**Exploiting Secrecy Performance of RIS-Assisted Networks: Deep Learning-Based Evaluation**,"  
+	Yosefine Triwidyastuti, Ridho Hendra Yoga Perdana, Kyusung Shim, Tri Nhu Do, and Beongku An,  
+  	_The 12th International Conference on Green and Human Information Technology (ICGHIT)_,  
+  	Feb. 2024  
 
   
 ## 2023
