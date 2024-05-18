@@ -6,12 +6,11 @@ permalink: /research/
 
 ## Research Interests
 
-- Telecommunications and wireless communications
-- Wireless channel characterization and modeling
-- Radio resource management
-- Statistics and probability 
+- Telecommunications and wireless communications  
+- Channel characterization, modeling, and estimation  
+- Radio resource management  
 - AI/ML for wireless communications  
-- Quantum communications
+- Statistics and probability    
 
 ---
 ## Research Team
