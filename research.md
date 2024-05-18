@@ -13,6 +13,7 @@ permalink: /research/
 - AI/ML for wireless communications  
 - Quantum communications
 
+---
 ## Research Team
 
 **Principal Supervisor at Polytechnique Montréal**
