@@ -37,19 +37,20 @@ permalink: /about/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Department of Electrical Engineering  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;École de technologie supérieure (ÉTS)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Québec, Montréal, Canada  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Supervisor:_ <a href="https://www.etsmtl.ca/Professeurs/gkaddoum/Accueil?lang=en-CA" target="_blank">Prof. Georges Kaddoum</a>    
+- _Supervisor:_ <a href="https://www.etsmtl.ca/Professeurs/gkaddoum/Accueil?lang=en-CA" target="_blank">Prof. Georges Kaddoum</a>    
 
 **Postdoctoral Research Associate**, 2019  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Department of Computer Science  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The University of Texas at Dallas, TX, USA  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Supervisor:_ <a href="https://personal.utdallas.edu/~haas/" target="_blank">Prof. Zygmunt J. Haas</a>  
+- _Supervisor:_ <a href="https://personal.utdallas.edu/~haas/" target="_blank">Prof. Zygmunt J. Haas</a>  
 
 **Graduate Research Assistant**, 2013-2018     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ubiquitous Networks & Convergence Laboratory (UNC Lab)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Department of Software and Communications Engineering  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hongik University, South Korea  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Supervisor:_ <a href="http://unclab.hongik.ac.kr/professor.php" target="_blank">Prof. Beongku An</a>  
+- _Supervisor:_ <a href="http://unclab.hongik.ac.kr/professor.php" target="_blank">Prof. Beongku An</a>  
 
+---
 ## Teaching
 
 **At Polytechnique Montréal**  
