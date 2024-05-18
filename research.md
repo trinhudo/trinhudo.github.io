@@ -29,13 +29,7 @@ permalink: /research/
  
 **Research Collaboration with Prof. _Gunes Karabulut Kurt_ at Polytechnique Montréal**
 
-- **Irfan Azam**, _Postdoc_  
-  - *Topic:* Space Debris Detection in Satellite Communications
-  - From Feb. 2023 to *present*
- 
-- **Mohamed Elabbas**, _Intern_  
-  - *Topic:* Solar Flare Forecasting using AI/ML
-  - From Nov. to _present_
+- Open RAN-Based Non-Terrestrial Networks project
 
 **Research Collaboration with Prof. Beongku An at Hongik University**
 
