@@ -31,7 +31,7 @@ permalink: /research/
 
 - Open RAN-Based Non-Terrestrial Networks project
 
-**Research Collaboration with Prof. Beongku An at Hongik University**
+**Research Collaboration with Prof. _Beongku An_ at Hongik University**
 
 - **Yosefine Triwidyastuti**, _PhD student_   
   - *Topic:* On the Security of RIS-aided Wireless Communications
