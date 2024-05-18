@@ -7,7 +7,7 @@ permalink: /about/
 ## Education 
 
 **Doctor of Philosophy (Ph.D.)**, 2018   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Electronics and Computer Engineering  
+-[] Electronics and Computer Engineering  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.hongik.ac.kr/index.do" target="_blank">Hongik University</a>, South Korea  
 - *Thesis:* Cooperative Transmission Schemes for Energy and Spectral Efficient Wireless Networks  
 - *Supervisor:* <a href="http://unclab.hongik.ac.kr/professor.php" target="_blank">Prof. Beongku An</a>  
