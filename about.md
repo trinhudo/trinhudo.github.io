@@ -9,8 +9,8 @@ permalink: /about/
 **Doctor of Philosophy (Ph.D.)**, 2018   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Electronics and Computer Engineering  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.hongik.ac.kr/index.do" target="_blank">Hongik University</a>, South Korea  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Thesis:* Cooperative Transmission Schemes for Energy and Spectral Efficient Wireless Networks  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Supervisor:* <a href="http://unclab.hongik.ac.kr/professor.php" target="_blank">Prof. Beongku An</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* *Thesis:* Cooperative Transmission Schemes for Energy and Spectral Efficient Wireless Networks  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* *Supervisor:* <a href="http://unclab.hongik.ac.kr/professor.php" target="_blank">Prof. Beongku An</a>  
 
 **Master of Science (M.S.),** 2015     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Electronics and Computer Engineering  
