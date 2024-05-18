@@ -24,6 +24,7 @@ permalink: /about/
 - _Thesis_: A Study on Multiple-Input Multiple-Output (MIMO) Technique in Evolved High Speed Packet Access (HSPA+) Networks  
 - _Supervisor:_ <a href="https://sites.google.com/site/baovnq" target="_blank">Prof. Vo Nguyen Quoc Bao</a>    
 
+---
 ## Research Experiences
 
 **Assistant Professor**, Oct. 2023 to _present_  
