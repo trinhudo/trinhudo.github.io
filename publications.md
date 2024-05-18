@@ -50,7 +50,7 @@ permalink: /publications/
   	_The 12th International Conference on Green and Human Information Technology (ICGHIT)_  
   	Feb. 2024  
 
-  
+---  
 ## 2023
 
 -  **[Distributed Machine Learning for Terrestrial and Non-Terrestrial Internet of Things Networks](https://ieeexplore.ieee.org/abstract/document/10364641)**  
@@ -83,6 +83,7 @@ permalink: /publications/
   	_IEEE Global Communications Conference (GLOBECOM)_  
   	Dec. 2023   
 
+---  
 ## Before 2023
 - Thanh Luan Nguyen, Tri Nhu Do, and Georges Kaddoum, "**[Performance Analysis of Multi-user NOMA Wireless-Powered mMTC Networks: A Stochastic Geometry Approach](https://github.com/trinhudo/NOMA-mMTC)**," *IEEE Transactions on Communications*, Oct. 2022.  
 
