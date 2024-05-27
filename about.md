@@ -54,7 +54,9 @@ permalink: /about/
 ## Teaching
 
 **At Polytechnique Montréal**  
-- [ELE6703 Communication Theory](https://www.polymtl.ca/programmes/cours/theorie-des-communications)
+- [ELE6701A - Signal Detection, Decision, and Estimation](https://www.polymtl.ca/programmes/cours/detection-decision-estimation-des-signaux)  
+- [ELE6703 - Communication Theory](https://www.polymtl.ca/programmes/cours/theorie-des-communications)  
+- [ELE8700 - Digital Transmission](https://www.polymtl.ca/programmes/cours/transmission-numerique)  
 
 **At Hongik University**
 - Course [012301]: Computer Engineering–Introduction and Practice  
