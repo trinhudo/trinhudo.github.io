@@ -6,11 +6,22 @@ permalink: /research/
 
 ## Research Interests
 
-- Telecommunications and wireless communications  
 - Channel characterization, modeling, and estimation  
-- Radio resource management  
+  - Practical MIMO-OFDM  
+  - AI-based channel estimation  
+  - Theoretical channel modeling  
+- Radio access network (RAN)  
+  - 3GPP and O-RAN  
+  - Air interfaces  
 - AI/ML for wireless communications  
-- Statistics and probability    
+  - Deep reinforcement learning for radio resource management  
+  - Unsupervised learning for resource optimization  
+  - Supervised learning for performance analysis, channel prediction  
+  - Federated learning for security vulnerability detection  
+- Telecommunications and wireless communications  
+  - Fundamentals of wireless communications  
+  - Statistics and probability for telecommunications  
+  - Software-defined radio (SDR)-based wireless communications  
 
 ---
 ## Research Team
