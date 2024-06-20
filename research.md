@@ -26,15 +26,15 @@ permalink: /research/
 ---
 ## Research Team
 
-- **Nghia Thinh Nguyen**, _PhD student_
+- **Nghia-Thinh Nguyen**, _PhD student_
   - Principal Supervisor at Polytechnique Montréal  
   - *Topic:* AI-Native Telecommunication (ANT) Systems: Focusing on OFDM-MIMO Channel Estimation
  
-- **Ngoc Long Pham**, _Canada-ASEAN Scholar_
+- **Ngoc-Long Pham**, _Canada-ASEAN Scholar_
   - Principal Supervisor at Polytechnique Montréal  
   - *Topic:* AI-Native Telecommunication (ANT) Systems: Focusing on Neural Network Quantization
 
-- **Thien Hieu Hoang**, _PhD student_
+- **Thien-Hieu Hoang**, _PhD student_
   - Research Collaboration with Prof. _Georges Kaddoum_ at École de technologie supérieure (ÉTS Montréal)  
   - *Topic:* AI-Enabled Channel Estimation for Non-Terrestrial Networks
  
