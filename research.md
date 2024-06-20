@@ -34,13 +34,13 @@ permalink: /research/
   - Principal Supervisor at Polytechnique Montréal  
   - *Topic:* AI-Native Telecommunication (ANT) Systems: Focusing on Neural Network Quantization
 
-- **Yosefine Triwidyastuti**, _PhD student_
-  - Research Collaboration with Prof. _Beongku An_ at Hongik University, South Korea  
-  - *Topic:* On the Security of RIS-aided Wireless Communications  
-
 - **Thien Hieu Hoang**, _PhD student_
   - Research Collaboration with Prof. _Georges Kaddoum_ at École de technologie supérieure (ÉTS Montréal)  
   - *Topic:* AI-Enabled Channel Estimation for Non-Terrestrial Networks
+ 
+- **Yosefine Triwidyastuti**, _PhD student_
+  - Research Collaboration with Prof. _Beongku An_ at Hongik University, South Korea  
+  - *Topic:* On the Security of RIS-aided Wireless Communications  
  
 - **Zoubeir Mlika**, _Postdoc_
   - Research Collaboration with Prof. _François Leduc-Primeau_ and Prof. _Jean-François Frigon_ at Polytechnique Montréal  
