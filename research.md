@@ -32,7 +32,7 @@ permalink: /research/
  
 - **Ngoc-Long Pham**, _Canada-ASEAN Scholar_
   - Principal Supervisor at Polytechnique Montréal  
-  - *Topic:* AI-Native Telecommunication (ANT) Systems: Focusing on Neural Network Quantization
+  - *Topic:* AI-Native Telecommunication (ANT) Systems: Focusing on Edge AI and Neural Network Quantization
 
 - **Thien-Hieu Hoang**, _PhD student_
   - Research Collaboration with Prof. _Georges Kaddoum_ at École de technologie supérieure (ÉTS Montréal)  
