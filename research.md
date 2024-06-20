@@ -28,7 +28,11 @@ permalink: /research/
 
 - **Nghia Thinh Nguyen**, _PhD student_
   - Principal Supervisor at Polytechnique Montréal  
-  - *Topic:* AI-Native Telecommunication (ANT) Systems  
+  - *Topic:* AI-Native Telecommunication (ANT) Systems: Focusing on OFDM-MIMO Channel Estimation
+ 
+- **Ngoc Long Pham**, _Canada-ASEAN Scholar_
+  - Principal Supervisor at Polytechnique Montréal  
+  - *Topic:* AI-Native Telecommunication (ANT) Systems: Focusing on Neural Network Quantization
 
 - **Yosefine Triwidyastuti**, _PhD student_
   - Research Collaboration with Prof. _Beongku An_ at Hongik University, South Korea  
