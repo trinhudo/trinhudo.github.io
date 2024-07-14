@@ -10,12 +10,12 @@ permalink: /publications/
 
 ## 2024
 
-- **[Federated Learning-Enabled Jamming Detection for Stochastic Terrestrial and Non-Terrestrial Networks](https://ieeexplore.ieee.org/document/10596983)**   
+- **[Federated Learning-Enabled Jamming Detection for Stochastic Terrestrial and Non-Terrestrial Networks](https://ieeexplore.ieee.org/document/10592062)**   
   	Aida Meftah, Tri-Nhu Do, Georges Kaddoum, and Chamseddine Talhi  
   	_IEEE Transactions on Green Communications and Networking_  
   	Jul. 2024
 
-- **[Deep Transfer Learning-based Performance Prediction of URLLC in independent and not necessarily identically distributed Interference Networks](https://ieeexplore.ieee.org/document/10592062)**   
+- **[Deep Transfer Learning-based Performance Prediction of URLLC in independent and not necessarily identically distributed Interference Networks](https://ieeexplore.ieee.org/document/10596983)**   
   	Mujtaba Ghous, Thanh Luan Nguyen, Tri-Nhu Do, and George Kaddoum  
   	_IEEE Access_  
   	Jul. 2024 
