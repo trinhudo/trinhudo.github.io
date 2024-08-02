@@ -10,6 +10,8 @@ permalink: /publications/
 
 ## 2024
 
+### Journal Papers
+
 - **[Federated Learning-Enabled Jamming Detection for Stochastic Terrestrial and Non-Terrestrial Networks](https://ieeexplore.ieee.org/document/10592062)**   
   	Aida Meftah, Tri-Nhu Do, Georges Kaddoum, and Chamseddine Talhi  
   	_IEEE Transactions on Green Communications and Networking_  
@@ -39,6 +41,13 @@ permalink: /publications/
 	 Muddasir Rahim, Thanh Luan Nguyen, Georges Kaddoum, and Tri-Nhu Do  
   	_IEEE Open Journal of the Communications Society_  
   	Jan. 2024  
+
+### Conference Papers  
+
+- **Online Energy-Efficient Beam Bandwidth Partitioning in mmWave Mobile Networks**
+	Zoubeir Mlika, Tri Nhu Do, François Leduc-Primeau, Jean-François Frigon, Adel Larabi, Jennie Diem Vo  
+	_IEEE 100th Vehicular Technology Conference (VTC2024-Fall)_
+	Oct. 2024
 
 - **Integrated Sensing and Communications Using Generative AI: Countering Adversarial Machine Learning Attacks**  
   	Hamda Bouzabia, Georges Kaddoum, and Tri-Nhu Do  
