@@ -44,10 +44,10 @@ permalink: /publications/
 
 ### Conference Papers  
 
-- **Online Energy-Efficient Beam Bandwidth Partitioning in mmWave Mobile Networks**
+- **Online Energy-Efficient Beam Bandwidth Partitioning in mmWave Mobile Networks**  
 	Zoubeir Mlika, Tri Nhu Do, François Leduc-Primeau, Jean-François Frigon, Adel Larabi, Jennie Diem Vo  
-	_IEEE 100th Vehicular Technology Conference (VTC2024-Fall)_
-	Oct. 2024
+	_IEEE 100th Vehicular Technology Conference (VTC2024-Fall)_  
+	Oct. 2024  
 
 - **Integrated Sensing and Communications Using Generative AI: Countering Adversarial Machine Learning Attacks**  
   	Hamda Bouzabia, Georges Kaddoum, and Tri-Nhu Do  
