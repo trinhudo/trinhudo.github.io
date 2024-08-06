@@ -45,7 +45,7 @@ permalink: /publications/
 ### Conference Papers  
 
 - **Online Energy-Efficient Beam Bandwidth Partitioning in mmWave Mobile Networks**  
-	Zoubeir Mlika, Tri Nhu Do, François Leduc-Primeau, Jean-François Frigon, Adel Larabi, Jennie Diem Vo  
+	Zoubeir Mlika, Tri Nhu Do, Adel Larabi, Jennie Diem Vo, François Leduc-Primeau, Jean-François Frigon    
 	_IEEE 100th Vehicular Technology Conference (VTC2024-Fall)_  
 	Oct. 2024  
 
