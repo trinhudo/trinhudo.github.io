@@ -9,13 +9,13 @@ permalink: /publications/
 - [**Codes on GitHub**](https://github.com/trinhudo?tab=repositories){:target="_blank"}
 
 ## 2025
-- **Generative and Explainable AI for High-Dimensional Channel Estimation**
-  	Nghia Thinh Nguyen and Tri Nhu Do
+- **Generative and Explainable AI for High-Dimensional Channel Estimation**  
+  	Nghia Thinh Nguyen and Tri Nhu Do  
   	_2025 IEEE International Conference on Communications_  
 
 - [**DRL-Based Maximization of the Sum Cross-Layer Achievable Rate for Networks Under Jamming**](https://ieeexplore.ieee.org/document/10852218)  
-  	Abdul Basit, Muddasir Rahim, Tri Nhu Do, Nadir Adam, and Georges Kaddoum
-  	_IEEE Transactions on Network and Service Management_
+  	Abdul Basit, Muddasir Rahim, Tri Nhu Do, Nadir Adam, and Georges Kaddoum  
+  	_IEEE Transactions on Network and Service Management_  
 
 ## 2024
 
