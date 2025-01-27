@@ -17,6 +17,10 @@ permalink: /publications/
   	Abdul Basit, Muddasir Rahim, Tri Nhu Do, Nadir Adam, and Georges Kaddoum  
   	_IEEE Transactions on Network and Service Management_  
 
+- [**Transfer Learning-Empowered Physical Layer Security in Aerial Reconfigurable Intelligent Surfaces-Based Mobile Networks**](https://ieeexplore.ieee.org/abstract/document/10829561)  
+  	Yosefine Triwidyastuti, Tri Nhu Do, Ridho Hendra Yoga Perdana, Kyusung Shim, and Beongku An  
+  	_IEEE Access_  
+
 ## 2024
 
 ### Journal Papers
