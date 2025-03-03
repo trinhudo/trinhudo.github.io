@@ -21,11 +21,11 @@ Montreal, Quebec, Canada
 
   
 ## Biography  
-Tri Nhu Do is a tenure-track Assistant Professor of _telecommunications_ in the Department of Electrical Engineering at Polytechnique Montréal, Québec, Canada. He was born in Da Nang, Vietnam. In 2012, he received a bachelor’s degree in Electronics and Telecommunications Engineering from the Posts and Telecommunications Institute of Technology in Vietnam. In 2015 and 2018, he received his master’s degree and Ph.D. degree, respectively, in Electronics and Computer Engineering from Hongik University in South Korea. From 2017 to 2018, he worked as a Teaching Associate in the Department of Software and Communications Engineering at Hongik University. In 2019, he was a Research Associate in the Department of Computer Science at the University of Texas at Dallas, Texas, USA. From 2020 to Sep. 2023, he was a Postdoctoral Research Fellow at the Resilient Machine Learning Institute (ReMI) at École de technologie supérieure (ÉTS), Montréal, Canada.
+Tri Nhu Do is an Assistant Professor in the Department of Electrical Engineering at Polytechnique Montreal, Canada. He was born in Da Nang, Vietnam. In 2012, he received a bachelor’s degree in Electronics and Telecommunications Engineering from the Posts and Telecommunications Institute of Technology in Vietnam. In 2015 and 2018, he received his master’s degree and Ph.D. degree, respectively, in Electronics and Computer Engineering from Hongik University in South Korea. From 2017 to 2018, he worked as a Teaching Associate in the Department of Software and Communications Engineering at Hongik University. In 2019, he was a Research Associate in the Department of Computer Science at the University of Texas at Dallas, Texas, USA. From 2020 to Sep. 2023, he was a Postdoctoral Research Fellow at the Resilient Machine Learning Institute (ReMI) at École de technologie supérieure (ÉTS), Montreal, Canada.
 
 ## Research and Publications
 
-For the latest updates on research, publications, and recruitment, please visit **_[tnd-lab.work](https://tnd-lab.work/)_**.
+For the latest updates on research, publications, and recruitment, please visit **[tnd-lab.work](https://tnd-lab.work/)**
 
 - [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=cwdP-oYAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}
 - [**PolyPublie**](https://www.polymtl.ca/expertises/en/do-tri-nhu/publications){:target="_blank"}
@@ -51,7 +51,6 @@ For the latest updates on research, publications, and recruitment, please visit 
 - _Thesis_: A Study on Multiple-Input Multiple-Output (MIMO) Technique in Evolved High Speed Packet Access (HSPA+) Networks  
 - _Supervisor:_ <a href="https://sites.google.com/site/baovnq" target="_blank">Prof. Vo Nguyen Quoc Bao</a>    
 
----
 ## Research Experiences
 
 **Assistant Professor**, Oct. 2023 to _present_  
@@ -77,7 +76,6 @@ For the latest updates on research, publications, and recruitment, please visit 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hongik University, South Korea  
 - _Supervisor:_ <a href="http://unclab.hongik.ac.kr/professor.php" target="_blank">Prof. Beongku An</a>  
 
----
 ## Teaching
 
 **At Polytechnique Montréal**  
