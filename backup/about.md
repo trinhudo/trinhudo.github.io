@@ -1,10 +1,3 @@
-<!---
----
-layout: page
-title: About
-permalink: /about/
----
-
 ## Education 
 
 **Doctor of Philosophy (Ph.D.)**, 2018   
