@@ -10,11 +10,12 @@ layout: home
 <img src="assets/trinhu.png" width="200" height="200" style="float:left; width:30%; height:auto; margin-left: 2px; margin-right: 20px; margin-top: 7px;margin-bottom: 7px;" />
 
 --->
-## Tri Nhu Do
+
+
 **Assistant Professor**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.polymtl.ca/expertises/en/do-tri-nhu" target="_blank">Department of Electrical Engineering</a>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.polymtl.ca/expertises/en/do-tri-nhu" target="_blank">Polytechnique Montréal</a>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Montréal, Québec, Canada  
+Department of Electrical Engineering   
+Polytechnique Montréal  
+Montreal, Quebec, Canada  
 - _Office:_ Lassonde Pavilion, M-6109  
 - _Telephone:_ 514-340-4711 extension 4106  
 - _Email:_  tri-nhu.do@polymtl.ca  
