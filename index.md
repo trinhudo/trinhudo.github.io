@@ -16,8 +16,8 @@ layout: home
 Department of Electrical Engineering   
 Polytechnique Montréal  
 Montreal, Quebec, Canada  
-- _Email:_  tri-nhu.do@polymtl.ca  
-- _Directory of Experts:_ <a href="https://www.polymtl.ca/expertises/en/do-tri-nhu" target="_blank">Do, Tri Nhu</a> 
+_Email:_  tri-nhu.do@polymtl.ca  
+_Directory of Experts:_ <a href="https://www.polymtl.ca/expertises/en/do-tri-nhu" target="_blank">Do, Tri Nhu</a> 
 
   
 ## Biography  
