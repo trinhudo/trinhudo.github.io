@@ -1,10 +1,12 @@
 <!---
+
 ---
 layout: page
 title: Publications
 permalink: /publications/
 ---
--->
+
+--->
 
 - [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=cwdP-oYAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}
 - [**PolyPublie**](https://www.polymtl.ca/expertises/en/do-tri-nhu/publications){:target="_blank"}
