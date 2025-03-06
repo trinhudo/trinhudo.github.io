@@ -28,7 +28,6 @@ Tri Nhu Do is an Assistant Professor in the Department of Electrical Engineering
 For the latest updates on research, publications, and recruitment, please visit **[Telecom Neural Detection (TND) Lab](https://tnd-lab.work/publications/)**
 
 - [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=cwdP-oYAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}
-- [**PolyPublie**](https://www.polymtl.ca/expertises/en/do-tri-nhu/publications){:target="_blank"}
 - [**Codes on GitHub**](https://github.com/trinhudo?tab=repositories){:target="_blank"}
 
 ## Education 
