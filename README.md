@@ -66,8 +66,9 @@ _Supervisor:_ <a href="http://unclab.hongik.ac.kr/professor.php" target="_blank"
 ## Teaching
 
 **At Polytechnique Montréal**  
+- [ELE3701A - Elements Of Telecommunications](https://www.polymtl.ca/programmes/cours/elements-de-telecommunications)
 - [ELE6701A - Signal Detection, Decision, and Estimation](https://www.polymtl.ca/programmes/cours/detection-decision-estimation-des-signaux)  
-- [ELE6703 - Communication Theory](https://www.polymtl.ca/programmes/cours/theorie-des-communications)  
+- [ELE6703 - Communications Theory](https://www.polymtl.ca/programmes/cours/theorie-des-communications)  
 
 **At Hongik University**
 - Course [012301]: Computer Engineering–Introduction and Practice  
