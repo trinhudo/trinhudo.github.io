@@ -1,8 +1,17 @@
 ---
 layout: home
+Title: Tri Nhu Do
 ---
 
-# Tri Nhu Do  
+
+<!-- <div style="text-align: center;">
+    <img src="assets/logo.png" alt="Sample Image" style="width: 33%;">
+
+    <h1>Telecom Neural Detection Lab</h1>
+</div> -->
+
+<!-- # Tri Nhu Do   -->
+**TRI NHU DO**  
 **Assistant Professor**  
 Department of Electrical Engineering   
 Polytechnique Montréal  
@@ -77,6 +86,4 @@ _Supervisor:_ <a href="http://unclab.hongik.ac.kr/professor.php" target="_blank"
 **At Hongik University**
 - Course [012301]: Computer Engineering–Introduction and Practice  
 - Course [704410]: Computer Architecture
-
----
 

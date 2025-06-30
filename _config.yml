@@ -16,3 +16,6 @@ plugins:
 baseurl: ""
 
 github_username:  trinhudo
+
+header_pages:
+  - test.md
