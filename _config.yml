@@ -1,0 +1,18 @@
+title: Tri Nhu Do    
+description : "Đỗ Trí Như"
+
+author:
+  name: Tri Nhu Do
+  email: tri-nhu.do@polymtl.ca
+
+# Build settings
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+baseurl: ""
+
+github_username:  trinhudo

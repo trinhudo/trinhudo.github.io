@@ -1,0 +1,42 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+      {%- if site.author %}
+        <ul class="contact-list">
+          {% if site.author.name -%}
+            <li class="p-name">{{ site.author.name | escape }}</li>
+          {% endif -%}
+          {% if site.author.email -%}
+            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+          {%- endif %}
+        </ul>
+      {%- endif %}
+      </div>
+
+      <div class="footer-col">
+        Assistant Professor </br>
+        Department of Electrical Engineering </br> 
+        Polytechnique Montréal </p>
+      </div>
+
+      <div class="footer-col">
+        <ul>
+          <li><a href="https://tnd-lab.work" target="_blank">TND Lab</a></li>
+          <li><a href="https://scholar.google.com/citations?user=cwdP-oYAAAAJ&hl=en" target="_blank">Google Scholar</a></li>
+          <li><a href="https://www.tri-nhu.com" target="_blank">Blog</a></li>
+        </ul>
+      </div>
+
+    </div>
+
+    <div class="social-links">
+      {%- include social.html -%}
+    </div>
+
+  </div>
+
+</footer>
