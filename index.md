@@ -20,7 +20,7 @@ _Email:_  tri-nhu.do@polymtl.ca
 _Poly:_ <a href="https://www.polymtl.ca/expertises/en/do-tri-nhu" target="_blank">Do, Tri Nhu</a>  
 _Blog:_ <!--[**Pháp Ảnh Lục**](https://tri-nhu-do.work/phap-anh-luc/) |--> [**Poetry and Memory | Thơ và Kỷ niệm**](https://tri-nhu.blogspot.com/)
 
-_For the latest academic updates, please visit_ [**TND Lab | Telecom Neural Detection Lab**]([https://tri-nhu.blogspot.com/](https://tnd-lab.work/))  
+_For the latest academic updates, please visit_ [**TND Lab | Telecom Neural Detection Lab**](https://tnd-lab.work/)  
 
   
 ## Biography  
