@@ -16,10 +16,10 @@ Title: Tri Nhu Do
 Department of Electrical Engineering   
 Polytechnique Montréal  
 Montreal, Quebec, Canada  
-_Email:_  tri-nhu.do@polymtl.ca  
-_Poly:_ <a href="https://www.polymtl.ca/expertises/en/do-tri-nhu" target="_blank">Do, Tri Nhu</a>  
-_Blog:_ [**Thơ và Kỷ niệm**](https://tri-nhu.blogspot.com/)
-- [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=cwdP-oYAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}
+_Email_ :  tri-nhu.do@polymtl.ca  
+_PolyMTL_ : <a href="https://www.polymtl.ca/expertises/en/do-tri-nhu" target="_blank">Do, Tri Nhu</a>  
+_Papers_ : [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=cwdP-oYAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}
+_Blog_ : [**Thơ và Kỷ niệm**](https://tri-nhu.blogspot.com/)
 
 _For the latest academic updates, please visit_ [**Telecom Neural Detection (TND) Lab**](https://tnd-lab.work/)
 
