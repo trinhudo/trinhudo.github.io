@@ -18,18 +18,14 @@ Polytechnique Montréal
 Montreal, Quebec, Canada  
 _Email:_  tri-nhu.do@polymtl.ca  
 _Poly:_ <a href="https://www.polymtl.ca/expertises/en/do-tri-nhu" target="_blank">Do, Tri Nhu</a>  
-_Blog:_ <!--[**Pháp Ảnh Lục**](https://tri-nhu-do.work/phap-anh-luc/) |--> [**Poetry and Memory | Thơ và Kỷ niệm**](https://tri-nhu.blogspot.com/)
+_Blog:_ [**Thơ và Kỷ niệm**](https://tri-nhu.blogspot.com/)
+- [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=cwdP-oYAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}
 
 _For the latest academic updates, please visit_ [**Telecom Neural Detection (TND) Lab**](https://tnd-lab.work/)
 
   
 ## Biography  
 Tri Nhu Do is an Assistant Professor in the Department of Electrical Engineering at Polytechnique Montreal, Canada. He was born in Da Nang, Vietnam. In 2012, he received a bachelor’s degree in Electronics and Telecommunications Engineering from the Posts and Telecommunications Institute of Technology in Vietnam. In 2015 and 2018, he received his master’s degree and Ph.D. degree, respectively, in Electronics and Computer Engineering from Hongik University in South Korea. From 2017 to 2018, he worked as a Teaching Associate in the Department of Software and Communications Engineering at Hongik University. In 2019, he was a Research Associate in the Department of Computer Science at the University of Texas at Dallas, Texas, USA. From 2020 to Sep. 2023, he was a Postdoctoral Research Fellow at the Resilient Machine Learning Institute (ReMI) at École de technologie supérieure (ÉTS), Montreal, Canada.
-
-## Research and Publications
-
-- [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=cwdP-oYAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}
-- [**Codes on GitHub**](https://github.com/trinhudo?tab=repositories){:target="_blank"}
 
 ## Education 
 
