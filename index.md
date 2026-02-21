@@ -18,7 +18,7 @@ Polytechnique Montréal
 Montreal, Quebec, Canada  
 _Email_ :  tri-nhu.do@polymtl.ca  
 _PolyMTL_ : <a href="https://www.polymtl.ca/expertises/en/do-tri-nhu" target="_blank">Do, Tri Nhu</a>  
-_Papers_ : [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=cwdP-oYAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}
+_Papers_ : [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=cwdP-oYAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}  
 _Blog_ : [**Thơ và Kỷ niệm**](https://tri-nhu.blogspot.com/)
 
 _For the latest academic updates, please visit_ [**Telecom Neural Detection (TND) Lab**](https://tnd-lab.work/)
@@ -75,9 +75,11 @@ _Supervisor:_ <a href="http://unclab.hongik.ac.kr/professor.php" target="_blank"
 ## Teaching
 
 **At Polytechnique Montréal**  
-- [ELE3701A - Elements Of Telecommunications](https://www.polymtl.ca/programmes/cours/elements-de-telecommunications)
-- [ELE6701A - Signal Detection, Decision, and Estimation](https://www.polymtl.ca/programmes/cours/detection-decision-estimation-des-signaux)  
-- [ELE6703 - Communications Theory](https://www.polymtl.ca/programmes/cours/theorie-des-communications)  
+- [ELE3701A - Éléments de télécommunications](https://www.polymtl.ca/programmes/cours/elements-de-telecommunications)  
+- [ELE6701A - Détection, décision, estimation des signaux](https://www.polymtl.ca/programmes/cours/detection-decision-estimation-des-signaux)  
+- [ELE6703 - Théorie des communications](https://www.polymtl.ca/programmes/cours/theorie-des-communications)  
+- [ELE8700 - Transmission numérique](https://www.polymtl.ca/programmes/cours/transmission-numerique)  
+
 
 **At Hongik University**
 - Course [012301]: Computer Engineering–Introduction and Practice  
